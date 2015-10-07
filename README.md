@@ -116,12 +116,71 @@
 - [Email Validator](https://github.com/nojacko/email-validator) - 一个小巧的邮箱验证库
 
 ##文件操作( Files )
+>关于文件处理和MIME类型检查
+
+- [Gaufrette](https://github.com/KnpLabs/Gaufrette) - 一个文件流的抽象层
+- [Flysystem](https://github.com/FrenkyNet/Flysystem) - 另一个文件流的抽象层
+- [Canal](https://github.com/dflydev/dflydev-canal) - 一个检查互联网媒体类型的库
+- [Apache MIME Types](https://github.com/dflydev/dflydev-apache-mime-types) - 一个解析Apache MIME类型的库
+- [Ferret](https://github.com/versionable/Ferret) - 一个MIME检测库
+- [Hoa Mime](https://github.com/hoaproject/Mime) - 另一个MIME检测库
+- [Lurker](https://github.com/henrikbjorn/Lurker) - 一个资源跟踪库
+- [PHP File Locator](https://github.com/herrera-io/php-file-locator) - 一个在大型项目中定位文件的库
+- [PHP FFmpeg](https://github.com/alchemy-fr/PHP-FFmpeg/) - 一个用于FFmpeg视频包装的库
+- [CSV](https://github.com/thephpleague/csv) - 一个CSV数据操作库
+
+##流( Stream )
+>处理流的库
+
+- [Streamer](https://github.com/fzaninotto/Streamer) - 一个简单的面向对象流包装库
 
 ##依赖注入( Dependency Injection )
+>实现依赖注入设计模式的库
+
+- [Pimple](http://pimple.sensiolabs.org/) - 一个小的依赖注入容器
+- [Auryn](https://github.com/rdlowrey/Auryn) - 另一个小的依赖注入容器
+- [Container](https://github.com/thephpleague/container) - 另一个灵活的依赖注入容器
+- [PHP DI](http://php-di.org/) - 一个使用标注实现的依赖注入
+- [Acclimate](https://github.com/symfony/DependencyInjection) - 依赖注入容器和服务定位器的通用接口
+- [Symfony DI](https://github.com/symfony/DependencyInjection) - 一个的依赖注入组件(SF2)
 
 ##图像( Imagery )
+>处理图像的库
+
+- [Imagine](http://imagine.readthedocs.org/en/latest/index.html) - 一个图像处理库
+- [PHP Image Workshop](https://github.com/Sybio/ImageWorkshop) - 另一个图像处理库
+- [Intervention Image](https://github.com/Intervention/image) - 同样还是一个图像处理库
+- [GIF Frame Extractor](https://github.com/Sybio/GifFrameExtractor) - 一个提取GIF动画帧信息的库
+- [GIF Creator](https://github.com/Sybio/GifCreator) - 从多幅图片中创建GIF动画的库
+- [Image With Text](https://github.com/nmcteam/image-with-text) - 在图像中嵌入文本的库
+- [Color Extractor](https://github.com/php-loep/color-extractor) - 从图像中提取颜色的库
+- [Glide](https://github.com/thephpleague/glide) - 一个按需的图片处理库
+- [Image Optimizer](https://github.com/psliwa/image-optimizer) - 一个优化图片的库
 
 ##测试( Testing )
+>测试代码库和生成测试数据的库
+
+- [PHPUnit](https://github.com/sebastianbergmann/phpunit) - 一个单元测试框架
+- [DBUnit](https://github.com/sebastianbergmann/dbunit) - PHPUnit的代码测试库
+- [ParaTest](https://github.com/brianium/paratest) - PHPUnit的并行测试库
+- [PHPSpec](https://github.com/phpspec/phpspec) - 根据规范的单元测试库
+- [Codeception](https://github.com/Codeception/Codeception) - 一个全栈测试框架
+- [AspectMock](https://github.com/Codeception/AspectMock) - PHPUnit/Codeception的模拟框架
+- [Atoum](https://github.com/atoum/atoum) - 一个简单的测试库
+- [Mockery](https://github.com/padraic/mockery) - 一个用于测试的模拟对象库
+- [Phake](https://github.com/mlively/Phake) - 另一个用于测试的模拟对象库
+- [Prophecy](https://github.com/phpspec/prophecy) - 一个强大的模拟框架
+- [Faker](https://github.com/fzaninotto/Faker) - 一个伪数据生成库
+- [Samsui](https://github.com/mauris/samsui) - 另一个伪数据生成库
+- [Alice](https://github.com/nelmio/alice) - 用于生成复杂数据的库
+- [Behat](http://behat.org/) - 一个行为驱动开发（BDD）的测试框架
+- [Pho](https://github.com/danielstjules/pho) - 另一个行为驱动开发的测试框架
+- [Mink](http://mink.behat.org/) - Web验收测试
+- [HTTP Mock](https://github.com/InterNations/http-mock) - 一个在单元测试中模拟HTTP请求的库
+- [VFS Stream](https://github.com/mikey179/vfsStream) - 一个用于测试的虚拟文件系统流包装
+- [VFS](https://github.com/adlawson/vfs.php) - 另一个用于测试的虚拟文件系统
+- [Locust](http://locust.io/) - 一个Python开发的现代负载测试库
+- [Peridot](https://github.com/peridot-php/peridot) - 一个事件驱动的测试框架
 
 ##文档( Documentation )
 
