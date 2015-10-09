@@ -251,9 +251,74 @@
 - [PhpDependencyAnalysis](https://github.com/mamuz/PhpDependencyAnalysis) - 一个创建可定制型依赖关系图表的工具
 - [Code Climate](http://codeclimate.com/) - 自动化的code review
 
-##调试和性能( Debugging and Profiling )
+##结构( Architectural )
+>有关于设计模式,编程规范以及代码组织方式的库
 
-- [xHprof](https://github.com/phacility/xhprof) - 另一个PHP性能评测工具
+- [PHP Option](https://github.com/schmittjoh/php-option) - 一个PHP选项类型的库
+- [Ruler](https://github.com/bobthecow/Ruler) - 一个简单的无状态的产生环境规则的引擎
+- [Finite](http://yohan.giarel.li/Finite) - 一个简单的PHP有限状态机
+- [Compose](https://github.com/igorw/compose) - 一个功能组合库
+- [Monad PHP](https://github.com/ircmaxell/monad-php) - 一个简单Monad库
+- [Patchwork](http://antecedent.github.io/patchwork/) - 一个重新定义用户的函数库
+- [Galapagos](https://github.com/endel/galapagos) - 语言转换进化
+- [Design Patterns PHP](https://github.com/domnikl/DesignPatternsPHP) - 一个使用PHP实现的设计模式实例库
+- [Functional PHP](https://github.com/lstrojny/functional-php) - 一个函数式编程库
+- [Lib Accessor](https://github.com/phine/lib-accessor) - 一个简化访问的库
+- [Iter](https://github.com/nikic/iter) - 一个使用生成器提供迭代原语的库
+
+##调试和性能( Debugging and Profiling )
+>调试代码的库和工具
+
+- [xDebug](https://github.com/xdebug/xdebug) - 一个PHP的调试和分析工具
+- [PHP Debug Bar](http://phpdebugbar.com/) - 一个调试工具条
+- [PHP Console](https://github.com/Seldaek/php-console) - Web调试控制台
+- [Barbushin PHP Console](https://github.com/barbushin/php-console) -  一个使用Google Chrome的Web调试控制工具
+- [PHPDBG](http://phpdbg.com/) - 一个交互性的PHP调试器
+- [Tracy](https://github.com/nette/tracy) - 一个简单的错误检测、日志和时间测量库
+- [Z-Ray](http://www.zend.com/en/products/server/z-ray) - 一个调试和性能分析的工具
+- [xHprof](https://github.com/phacility/xhprof) - Facebook开源的PHP性能评测工具
+- [Blackfire.io](http://blackfire.io) - 一个低开销的代码探查器
+- [Kint](https://github.com/raveren/kint) - 一个调试和性能分析的工具
+
+##构建工具( Build Tools )
+>项目构建和自动化工具
+
+- [Go](https://github.com/herrera-io/php-go) - 一个简单的PHP构建工具
+- [Bob](https://github.com/CHH/bob) - 一个简单的项目自动化工具
+- [Phake](https://github.com/jaz303/phake) -  一个PHP克隆库
+- [Box](https://github.com/kherge/Box) - 用来构建PHAR文件的工具
+- [Phing](http://www.phing.info/) - 依据Apache Ant的PHP项目构建系统
+
+##任务运行器( Task Runners )
+>自动运行任务的库
+
+- [Task](http://taskphp.github.io/) - 依据Grunt和Gulp的纯PHP任务运行器
+- [Robo](https://github.com/Codegyre/Robo) - 面向对象的PHP任务运行器
+- [Bldr](http://bldr.io/) - 构建在Symfony组件上的PHP任务运行器
+
+##导航( Navigation )
+>构建导航结构的工具
+
+- [KnpMenu](https://github.com/KnpLabs/KnpMenu) - 一个菜单库
+- [Cartographer](https://github.com/tackk/cartographer) - 一个站点地图生成库
+
+##资源管理( Asset Management )
+>用于管理、压缩和最小化网站资源的工具
+
+- [Assetic](https://github.com/kriswallsmith/assetic) - 一个资源管理的管道库
+- [Pipe](https://github.com/CHH/pipe) - 另一个资源管理的管道库
+- [Munee](https://github.com/meenie/munee) - 一个资源优化库
+- [JShrink](https://github.com/tedivm/JShrink) - 一个JavaScript的压缩库
+- [Puli](https://github.com/webmozart/puli) - 一个检测资源绝对路径的库
+
+##地理定位( Geolocation )
+>使用经纬度编码地址的库
+
+- [GeoCoder](http://geocoder-php.org/) - 一个地理编码库
+- [GeoTools](https://github.com/php-loep/Geotools) - 一个地理工具相关的库
+- [PHPGeo](https://github.com/mjaschen/phpgeo) - 一个简单的地理库
+- [GeoJSON](https://github.com/jmikola/geojson) - 一个GeoJSON的实现
+
 
 ##日期与时间( Date and Time )
 
