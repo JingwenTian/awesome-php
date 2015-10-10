@@ -15,6 +15,11 @@
 
     - [PHP The Right Way](http://www.phptherightway.com/) 一个PHP实践的快速参考指导
 
+- **PHP书籍(PHP Books)**
+
+    - [Modern PHP](http://shop.oreilly.com/product/0636920033868.do)
+        - [Modern PHP（中文版）](http://about.ac/books/modern-php/)
+
 ---
 
 ##依赖管理( Dependency Management )
