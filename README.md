@@ -530,8 +530,55 @@
 - [CacheTool](https://github.com/gordalina/cachetool) - 一个清除APC/opcode缓存的命令行工具
 
 ##数据结构和存储( Data Structure and Storage )
+>实现数据结构和存储技术的库
+
+- [Ardent](https://github.com/morrisonlevi/Ardent) - 一个数据结构库
+- [PHP Collections](https://github.com/schmittjoh/php-collection) - 一个简单的集合库
+- [Serializer](https://github.com/schmittjoh/serializer) - 用于序列化和反序列化数据的库
+- [Zend Serializer](https://github.com/zendframework/zend-serializer) - 另一个用于序列化和反序列化数据的库
+- [PHP Object Storage](https://github.com/herrera-io/php-object-storage) - 一个用于对象存储的库
+- [Fractal](https://github.com/php-loep/fractal) -  一个将复杂数据结构转换为JSON输出的库
+- [Totem](http://github.com/Wisembly/Totem) - 一个管理和创建数据修改集的库
+- [PINQ](https://github.com/TimeToogo/Pinq) - PHP实时Linq库
+- [JsonMapper](https://github.com/netresearch/jsonmapper) - 一个将内嵌JSON结构映射到PHP类上的库
+- [Cake Collection](https://github.com/cakephp/collection) - 一个简单的集合库
 
 ##通知( Notifications )
+>关于通知的库
+
+- [Nod](https://github.com/filp/nod) - 一个通知库
+- [Notificato](https://github.com/wrep/notificato) - 一个处理推送消息的库
+- [Notification Pusher](https://github.com/Ph3nol/NotificationPusher) - 设备推送通知的独立库
+- [Notificator](https://github.com/namshi/notificator) - 一个轻量级通知库
 
 ##部署( Deployment )
+>用于项目部署的库
+
+- [Pomander](https://github.com/tamagokun/pomander) -  一个PHP应用的部署工具
+- [Rocketeer](https://github.com/Anahkiasen/rocketeer) -  PHP的快速和简单部署器
+- [Envoy](https://github.com/laravel/envoy) - 使用PHP运行SSH任务的工具
+- [Plum](https://github.com/aerialls/Plum) - 一个部署库
+- [Deployer](https://github.com/deployphp/deployer) - 一个部署工具
+
+##国际化和本地化(Internationalisation and Localisation)
+>用于国际化(I18n)和本地化(L10n)的库
+
+* [Aura Intl](https://github.com/auraphp/Aura.Intl)
+* [Cake I18n](https://github.com/cakephp/i18n) - 翻译和本地化消息
+
+##第三方API( Third Party APIs )
+>访问第三方API的库
+
+
+##扩展( Extensions )
+>帮助构建PHP扩展的库
+
+- [Zephir](https://github.com/phalcon/zephir) - 用于开发PHP扩展的一种在PHP和C++间的编译语言
+- [PHP CPP](http://www.php-cpp.com/) - 一个用于开发PHP扩展的C++库
+
+##其他( Miscellaneous )
+>不属于以上分类的有用的类库和工具
+
+
+
 
