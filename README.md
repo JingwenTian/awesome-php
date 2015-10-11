@@ -15,6 +15,11 @@
 
     - [PHP The Right Way](http://www.phptherightway.com/) 一个PHP实践的快速参考指导
 
+- **PHP书籍(PHP Books)**
+
+    - [Modern PHP](http://shop.oreilly.com/product/0636920033868.do) - 作者是[PHP 之道](http://www.phptherightway.com/)的发起人和[Slim框架](http://www.slimframework.com/)的作者
+        - [Modern PHP（中文版）](http://about.ac/books/modern-php/)
+
 ---
 
 ##依赖管理( Dependency Management )
