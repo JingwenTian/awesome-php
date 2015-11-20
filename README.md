@@ -108,7 +108,7 @@
 
 - [Purl](https://github.com/jwage/purl) - 一个URL操作库
 - [PHP Domain Parser](https://github.com/jeremykendall/php-domain-parser) - 一个本地的后缀解析器
-- [Url](https://github.com/thephpleague/url) - 一个简单的URL操作库
+- [Uri](https://github.com/thephpleague/uri) - 一个简单的URL操作库
 
 ##邮件( Email )
 >用于发送和解析Email的库
