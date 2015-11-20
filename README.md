@@ -514,7 +514,7 @@
 >用于过滤和验证数据的库
 
 - [Filterus](https://github.com/ircmaxell/filterus) -  一个简单的PHP过滤库
-- [Respect Validate](https://github.com/Respect/Validation) - 一个简单的验证库
+- [Respect Validation](https://github.com/Respect/Validation) - 一个简单的验证库
 - [Valitron](https://github.com/vlucas/valitron) - 另一个数据验证库
 - [Cake Validation](https://github.com/cakephp/validation) - 另一个数据验证库 
 - [php-readability](https://github.com/feelinglucky/php-readability) - 内容分析算法
