@@ -438,6 +438,7 @@
 ##命令行( Command Line )
 >构建命令行工具的库
 
+- [symfony/console](https://github.com/symfony/console) - Symfony命令行工作组件
 - [Boris](https://github.com/d11wtq/boris) - 一个微型的PHP REPL
 - [PsySH](https://github.com/bobthecow/psysh) - 另一个PHP REPL
 - [Pecan](https://github.com/mcrumm/pecan) - 一个事件驱动，非阻塞的shell
@@ -451,6 +452,7 @@
 - [Shunt](https://github.com/php-loep/shunt) -一个在多台远程机器上并行运行的命令行库
 - [Cilex](https://github.com/Cilex/Cilex) - 构建命令行工具的小型框架
 - [CLImate](https://github.com/thephpleague/climate) - 输出颜色和特殊格式的库
+- [Webmozart Console](github.com/webmozart/console)
 
 ##身份验证( Authentication and Authorization )
 >实现身份验证模式的库
