@@ -255,6 +255,7 @@
 - [PHPCheckstyle](https://github.com/jbrooksuk/phpcheckstyle) - 一个帮助遵守特定代码规则的工具
 - [PhpDependencyAnalysis](https://github.com/mamuz/PhpDependencyAnalysis) - 一个创建可定制型依赖关系图表的工具
 - [Code Climate](http://codeclimate.com/) - 自动化的code review
+- [Phan](https://github.com/etsy/phan) - 一个PHP的静态代码分析器
 
 ##结构( Architectural )
 >有关于设计模式,编程规范以及代码组织方式的库
