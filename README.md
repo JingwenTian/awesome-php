@@ -363,6 +363,7 @@
 - [Monolog](https://github.com/Seldaek/monolog) - 一个综合的日志类库
 - [KLogger](https://github.com/katzgrau/KLogger) - 一个易于使用的PSR-3日志类
 - [Analog](https://github.com/jbroadway/analog) - 一个机遇闭包的微型日志包
+- [SeasLog](https://github.com/neeke/seaslog) - 一个高效的日志扩展
 
 ##电子商务( E-commerce )
 >用于支付和构建在线电子商务商店的库和应用
