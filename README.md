@@ -33,6 +33,11 @@
 
     - [Modern PHP](http://shop.oreilly.com/product/0636920033868.do) - 作者是[PHP 之道](http://www.phptherightway.com/)的发起人和[Slim框架](http://www.slimframework.com/)的作者
         - [Modern PHP（中文版）](http://about.ac/books/modern-php/)
+    - [PHP Pandas](http://daylerees.com/php-pandas/) 
+
+- **其他书籍(Other Books)**
+
+    - [The Linux Command Line](http://linuxcommand.org/) - Linux 命令行教程
 
 ---
 
