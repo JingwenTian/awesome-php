@@ -13,7 +13,13 @@
 
 - **PHP网站(PHP Websites)**
 
-    - [PHP The Right Way](http://www.phptherightway.com/) 一个PHP实践的快速参考指导
+    - [PHP The Right Way](http://www.phptherightway.com/) - 一个PHP实践的快速参考指导
+    - [PHP Best Practices](https://phpbestpractices.org/) - 一个PHP最佳实践
+    - [PHP Weekly News](http://www.phpweekly.com/archive.html) - 一个PHP 周刊
+    - [Securing PHP](http://securingphp.com/) - 有关PHP安全相关
+    - [PHP FIG](http://www.php-fig.org/) - PHP框架交互小组
+    - [PHP School](http://www.phpschool.io/) - 一个开源的PHP学习资源
+    - [PHPTrends](http://phptrends.com/) - 一些快速发展的PHP类库检索
 
 - **PHP书籍(PHP Books)**
 
