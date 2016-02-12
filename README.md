@@ -193,6 +193,8 @@
 - [Glide](https://github.com/thephpleague/glide) - 一个按需的图片处理库
 - [Image Optimizer](https://github.com/psliwa/image-optimizer) - 一个优化图片的库
 - [PHPThumb](https://github.com/masterexploder/PHPThumb) - 缩略图处理库
+- [phpqrcode](https://github.com/t0k4rt/phpqrcode) - 二维码生成库
+- [QrCode](https://github.com/endroid/QrCode) - 另一个二维码生成库
 
 
 ##测试( Testing )
