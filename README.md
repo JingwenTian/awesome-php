@@ -20,6 +20,14 @@
     - [PHP FIG](http://www.php-fig.org/) - PHP框架交互小组
     - [PHP School](http://www.phpschool.io/) - 一个开源的PHP学习资源
     - [PHPTrends](http://phptrends.com/) - 一些快速发展的PHP类库检索
+    
+- **其他网站(Other Websites)**
+
+    - [The Open Web Application Security Project (OWASP)](https://www.owasp.org/index.php/Main_Page) - 一个开源软件安全社区
+    - [WebSec IO](https://websec.io/) - 一个web 安全社区
+    - [Semantic Versioning](http://semver.org/lang/zh-CN/) - 语义化版本
+    - [Atlassian Git Tutorials](https://www.atlassian.com/git/) - 一系列的Git教程
+    - [Servers for Hackers ](https://serversforhackers.com/) - 有关服务器运维相关
 
 - **PHP书籍(PHP Books)**
 
