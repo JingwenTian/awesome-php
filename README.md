@@ -279,6 +279,7 @@
 - [PHP Manipulator](https://github.com/schmittjoh/php-manipulator) - 用于分析和修改PHP源代码的库
 - [PHP Metrics](https://github.com/Halleck45/PhpMetrics) - 一个静态测量库
 - [PHP Refactoring Browser](https://github.com/QafooLabs/php-refactoring-browser) - 一个用于重构PHP代码的命令行工具
+- [php-semver-checker](https://github.com/tomzx/php-semver-checker) - 一个版本对比的命令行工具
 - [UBench](https://github.com/devster/ubench) - 一个简单的小型基准测试库
 - [Athletic](https://github.com/polyfractal/athletic) - 一个基于标注的基准测试库
 - [Mondrian](https://github.com/Trismegiste/Mondrian) - 使用图论的代码分析工具
@@ -615,12 +616,66 @@
 ##第三方API( Third Party APIs )
 >访问第三方API的库
 
+- [mailgun-php](https://github.com/mailgun/mailgun-php) - Mailgun's Official SDK for PHP
 
 ##扩展( Extensions )
 >帮助构建PHP扩展的库
 
 - [Zephir](https://github.com/phalcon/zephir) - 用于开发PHP扩展的一种在PHP和C++间的编译语言
 - [PHP CPP](http://www.php-cpp.com/) - 一个用于开发PHP扩展的C++库
+
+##PHP 安装(PHP Installation)
+>帮助安装和管理PHP
+
+- [HomeBrew](http://brew.sh/) - 一个OSX的包管理工具
+- [HomeBrew PHP ](https://github.com/Homebrew/homebrew-php) - HomeBrew中PHP的安装包
+- [PHP OSX ](http://php-osx.liip.ch/) - 一个OSX中的PHP安装器
+- [PHP Brew ](https://github.com/phpbrew/phpbrew) - 一个PHP版本管理工具和安装器
+- [PHP Env](https://github.com/CHH/phpenv) - 另一个PHP版本工具
+- [PHP Switch ](https://github.com/jubianchi/phpswitch) - 另一个PHP版本工具
+- [PHP Build ](https://github.com/php-build/php-build) - 另一个PHP版本工具
+- [VirtPHP ](http://virtphp.org/) - 一个创建和管理分离的PHP环境的工具
+
+
+##开发环境(Development Environment)
+>创建沙箱开发环境的软件和工具
+
+- [Vagrant](https://www.vagrantup.com/) - 一个轻便的创建开发环境的工具
+- [Ansible ](https://www.ansible.com/) - 一个简单的业务流程框架
+- [Puppet](https://puppetlabs.com/) - 服务器自动化框架和应用
+- [PuPHPet](https://puphpet.com/) - 一个用于构建PHP开发虚拟机工具
+- [Protobox](http://getprotobox.com/) - 另一个用于构建PHP开发虚拟机工具
+- [Phansible](http://phansible.com/) - 另一个用于构建PHP开发虚拟机工具
+
+##虚拟机(Virtual Machines)
+>替代的PHP虚拟机
+
+- [HHVM ](https://github.com/facebook/hhvm) - Facebook 开源的PHP虚拟机
+- [HippyVM](http://hippyvm.com/) - 另一个PHP虚拟机
+
+##开发工具(Integrated Development Environment)
+>支持PHP的IDE
+
+- [Netbeans](https://netbeans.org/)
+- [Eclipse for PHP Developers ](https://www.eclipse.org/downloads/)
+- [PhpStorm ](http://www.jetbrains.com/phpstorm/)
+
+##Web 应用程序(Web Applications)
+>基于Web的应用程序和工具
+
+- [3V4L](https://3v4l.org/) - Online PHP shell
+- [DBV](http://dbv.vizuina.com/) - 数据库版本控制应用程序
+- [PHP Queue](https://github.com/CoderKungfu/php-queue) - 管理队列的后端程序
+- [MailCatcher](https://github.com/sj26/mailcatcher) - 一个接受和查看邮件的程序
+- [Cachet](https://github.com/cachethq/cachet) - 一个开源的网站状态展示系统(如: status.github.com )
+- [phpRedisAdmin](https://github.com/ErikDubbelboer/phpRedisAdmin) - Redis 管理工具
+- [phpPgAdmin ](https://github.com/phppgadmin/phppgadmin) - PostgreSQL管理工具
+- [phpMyAdmin](https://github.com/phpmyadmin/phpmyadmin) - MySQL管理工具
+
+##基础设施(Infrastructure)
+>提供PHP应用程序和服务的基础设施
+
+- [appserver.io](http://appserver.io/) - 基于PHP的多线程应用程序服务器
 
 
 ##其他( Miscellaneous )
@@ -635,6 +690,7 @@
 - [Eden](https://github.com/Openovate/eden) - 一个PHP快速开发类库,它包含很多组件用来自动加载、事件驱动、文档系统、缓存、模板、国际化、数据库、web服务、支付网关、装载和云服务技术。
 - [html-parser](https://github.com/bupt1987/html-parser) - html解析工具
 - [PHPCrawl](http://phpcrawl.cuab.de/) - PHP的爬虫框架
+
 
 
 
