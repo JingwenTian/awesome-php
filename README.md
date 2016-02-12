@@ -420,6 +420,7 @@
 - [Doctrine Extensions](https://github.com/l3pp4rd/DoctrineExtensions) - 一个Doctrine行为的扩展集合
 - [Propel](http://www.propelorm.org/) - 一个快速的ORM，迁移和查询库
 - [Eloquent](https://github.com/illuminate/database) - Laravel 5 ORM(L5)
+- [LazyRecord](https://github.com/c9s/LazyRecord) - 一个快速的ORM
 - [Baum](https://github.com/etrepat/baum) - 一个Eloquent的嵌套集合
 - [Spot2](https://github.com/vlucas/spot2) - MySQL的ORM映射器
 - [RedBean](http://redbeanphp.com/) - 一个轻量级、易配置的ORM
