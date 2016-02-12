@@ -69,6 +69,12 @@
 - [Aura Components](http://auraphp.com/) - 一个PHP5.4的组件包
 - [Hoa Project](http://hoa-project.net/En/) - 一个PHP组件集合
 
+##配置( Configuration )
+>加载配置文件的类库和扩展
+
+- [Yaconf](https://github.com/laruence/yaconf) - 一个高性能的配置管理扩展
+- [Zend-config](https://github.com/zendframework/zend-config)
+
 ##微框架( Micro Frameworks )
 >微型框架和路由
 
