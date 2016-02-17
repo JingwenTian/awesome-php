@@ -520,6 +520,7 @@
 - [Cebe Markdown](https://github.com/cebe/markdown) - 一个快速、可扩展的Markdown解析器
 - [HTML5 PHP](https://github.com/Masterminds/html5-php) - 一个HTML5解析和序列化的库
 - [Emoji](https://github.com/heyupdate/Emoji) - 一个简单的处理emoji的类库
+- [php-emoji](https://github.com/iamcal/php-emoji) - 一个emoji表情转换库
 
 ##字符串( Strings )
 >解析和操纵字符串的库
