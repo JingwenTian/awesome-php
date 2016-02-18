@@ -450,6 +450,7 @@
 
 - [MongoQB](https://github.com/alexbilbie/MongoQB) - 一个MongoDB的查询构建库
 - [Monga](https://github.com/thephpleague/monga) - 一个MongoDB的抽象库
+- [mongo-php-library](https://github.com/mongodb/mongo-php-library) - MongoDB 官方PHP库
 - [Predis](https://github.com/nrk/predis) - 一个功能完全的Redis库
 
 ##队列( Queue )
