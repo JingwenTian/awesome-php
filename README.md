@@ -145,6 +145,7 @@
 
 - [SwiftMailer](http://swiftmailer.org/) - 一个邮件程序的解决方案
 - [PHPMailer](https://github.com/PHPMailer/PHPMailer) - 另一个邮件程序的解决方案
+- [Nette Mail](https://github.com/nette/mail)
 - [Fetch](https://github.com/tedivm/Fetch) - 一个IMAP库
 - [Email Reply Parser](https://github.com/willdurand/EmailReplyParser) - 一个邮件回复解析器库
 - [Stampie](https://github.com/henrikbjorn/Stampie) - 关于邮件服务的库，比如SendGrid、PostMark、MailGun和Mandrill
