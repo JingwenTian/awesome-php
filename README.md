@@ -317,6 +317,7 @@
 >调试代码的库和工具
 
 - [xDebug](https://github.com/xdebug/xdebug) - 一个PHP的调试和分析工具
+- [whoops](https://github.com/filp/whoops)
 - [PHP Debug Bar](http://phpdebugbar.com/) - 一个调试工具条
 - [PHP Console](https://github.com/Seldaek/php-console) - Web调试控制台
 - [Barbushin PHP Console](https://github.com/barbushin/php-console) -  一个使用Google Chrome的Web调试控制工具
