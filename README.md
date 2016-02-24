@@ -73,6 +73,7 @@
 >加载配置文件的类库和扩展
 
 - [Yaconf](https://github.com/laruence/yaconf) - 一个高性能的配置管理扩展
+- [config](https://github.com/hassankhan/config) - 一个轻量级的配置加载器, 支持 PHP, INI, XML, JSON, YAML files
 - [Zend-config](https://github.com/zendframework/zend-config)
 
 ##微框架( Micro Frameworks )
