@@ -176,6 +176,7 @@
 >实现依赖注入设计模式的库
 
 - [Pimple](http://pimple.sensiolabs.org/) - 一个小的依赖注入容器
+- [container-interop](https://github.com/container-interop) - Containers interoperability
 - [Auryn](https://github.com/rdlowrey/Auryn) - 另一个小的依赖注入容器
 - [Container](https://github.com/thephpleague/container) - 另一个灵活的依赖注入容器
 - [PHP DI](http://php-di.org/) - 一个使用标注实现的依赖注入
