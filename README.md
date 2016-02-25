@@ -182,6 +182,9 @@
 - [PHP DI](http://php-di.org/) - 一个使用标注实现的依赖注入
 - [Acclimate](https://github.com/symfony/DependencyInjection) - 依赖注入容器和服务定位器的通用接口
 - [Symfony DI](https://github.com/symfony/DependencyInjection) - 一个的依赖注入组件(SF2)
+- [Twittee](https://github.com/fabpot/twittee)
+- [simple di container](https://github.com/laracasts/simple-di-container)
+- [Ding](https://github.com/marcelog/Ding)
 
 ##图像( Imagery )
 >处理图像的库
