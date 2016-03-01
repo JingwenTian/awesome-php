@@ -624,6 +624,7 @@
 - [Envoy](https://github.com/laravel/envoy) - 使用PHP运行SSH任务的工具
 - [Plum](https://github.com/aerialls/Plum) - 一个部署库
 - [Deployer](https://github.com/deployphp/deployer) - 一个部署工具
+- [walle-web](https://github.com/meolu/walle-web) - 一个开源的web代码发布管理系统
 
 ##国际化和本地化(Internationalisation and Localisation)
 >用于国际化(I18n)和本地化(L10n)的库
