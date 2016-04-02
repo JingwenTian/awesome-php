@@ -504,6 +504,15 @@
 - [CLImate](https://github.com/thephpleague/climate) - 输出颜色和特殊格式的库
 - [Webmozart Console](github.com/webmozart/console)
 
+##定时任务( Crontab )
+>定时任务管理 crontab在 PHP 中的相关封装
+
+- [Dispatcher](https://github.com/Indatus/dispatcher) - 基于Laravel的定时任务管理
+- [swoole-crontab](https://github.com/osgochina/swoole-crontab) - 基于swoole的定时器程序，支持秒级处理
+- [jobby](https://github.com/jobbyphp/jobby) -  一个 PHP 的定时任务管理器
+- [cronlingo](https://github.com/ajbdev/cronlingo) - Express crontabs as human friendly phrases
+
+
 ##身份验证( Authentication and Authorization )
 >实现身份验证模式的库
 
