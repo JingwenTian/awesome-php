@@ -18,6 +18,7 @@
     - [PHP Weekly News](http://www.phpweekly.com/archive.html) - 一个PHP 周刊
     - [Securing PHP](http://securingphp.com/) - 有关PHP安全相关
     - [PHP FIG](http://www.php-fig.org/) - PHP框架交互小组
+        - [PSR 中文翻译](https://psr.phphub.org)
     - [PHP School](http://www.phpschool.io/) - 一个开源的PHP学习资源
     - [PHPTrends](http://phptrends.com/) - 一些快速发展的PHP类库检索
     
