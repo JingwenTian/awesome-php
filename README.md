@@ -21,6 +21,7 @@
         - [PSR 中文翻译](https://psr.phphub.org)
     - [PHP School](http://www.phpschool.io/) - 一个开源的PHP学习资源
     - [PHPTrends](http://phptrends.com/) - 一些快速发展的PHP类库检索
+    - [PHP 开发者实践](https://ryancao.gitbooks.io/php-developer-prepares/content/)
     
 - **其他网站(Other Websites)**
 
