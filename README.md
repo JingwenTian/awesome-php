@@ -263,10 +263,6 @@
 - [IniScan](https://github.com/psecio/iniscan) - 一个扫描PHP INI文件安全的工具
 - [SensioLabs Security Check](https://security.sensiolabs.org/) -  一个根据安全建议检查Composer依赖的Web工具
 - [Zed](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project) - 用于Web应用的集成渗透测试工具
-- [JSON Web Token](http://jwt.io/)- JSON网络令牌库
-    - [php-jwt](https://github.com/firebase/php-jwt) 
-    - [jwt](https://github.com/lcobucci/jwt)
-    - [jose](https://github.com/namshi/jose) - JSON签名和加密的库
 - [php-ratelimiter](https://github.com/akirk/php-ratelimiter) 
 
 ##密码( Passwords )
@@ -533,6 +529,12 @@
 - [OAuth 2.0 Client](https://github.com/thephpleague/oauth2-client) - 一个 OAuth 2.0 客户端库.
 - [Sentry](http://github.com/cartalyst/sentry) - 认证和授权系统
 - [EvaOAuth](https://github.com/AlloVince/EvaOAuth) - 统一接口的 OAuth 登录 PHP 类库
+- [JSON Web Token](http://jwt.io/)- JSON网络令牌库
+    - [php-jwt](https://github.com/firebase/php-jwt) 
+    - [jwt](https://github.com/lcobucci/jwt)
+    - [jose](https://github.com/namshi/jose) - JSON签名和加密的库
+    - [slim-jwt-auth](https://github.com/tuupola/slim-jwt-auth)
+    - [jwt-auth](https://github.com/tymondesigns/jwt-auth)
 
 ##标记( Markup )
 >处理标记的库
