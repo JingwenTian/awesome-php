@@ -266,7 +266,7 @@
 - [JSON Web Token](http://jwt.io/)- JSON网络令牌库
     - [php-jwt](https://github.com/firebase/php-jwt) 
     - [jwt](https://github.com/lcobucci/jwt)
-- [jose](https://github.com/namshi/jose) - JSON签名和加密的库
+    - [jose](https://github.com/namshi/jose) - JSON签名和加密的库
 - [php-ratelimiter](https://github.com/akirk/php-ratelimiter) 
 
 ##密码( Passwords )
