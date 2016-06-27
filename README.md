@@ -684,6 +684,7 @@
 - [PuPHPet](https://puphpet.com/) - 一个用于构建PHP开发虚拟机工具
 - [Protobox](http://getprotobox.com/) - 另一个用于构建PHP开发虚拟机工具
 - [Phansible](http://phansible.com/) - 另一个用于构建PHP开发虚拟机工具
+- [centstead](https://github.com/jason-chang/centstead) - Laravel local development environment base on vagrant  and homestead
 
 ##虚拟机(Virtual Machines)
 >替代的PHP虚拟机
