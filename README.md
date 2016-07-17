@@ -385,6 +385,7 @@
 
 - [React](https://github.com/reactphp/react) - 一个事件驱动的非阻塞I/O库
 - [Rx.PHP](https://github.com/asm89/Rx.PHP) - 一个反应扩展库
+- [phpsocket.io](https://github.com/walkor/phpsocket.io)
 - [Ratchet](https://github.com/cboden/Ratchet) - 一个Web套接字库
 - [Hoa WebSocket](https://github.com/hoaproject/Websocket) - 另一个Web套接字库
 - [Elephant.io](https://github.com/Wisembly/Elephant.io) - 另一个Web套接字库
