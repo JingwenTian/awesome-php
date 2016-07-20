@@ -64,7 +64,8 @@
 - [CakePHP](http://cakephp.org/) - 一个高效的应用开发框架(CP)
 - [Phalcon](http://phalconphp.com/en/) - 一个作为C扩展的框架
 - [Yaf](http://php.net/manual/zh/book.yaf.php) - 鸟哥的C扩展的框架
-    - [swoole-yaf](https://github.com/LinkedDestiny/swoole-yaf)
+    - [swoole-yaf](https://github.com/LinkedDestiny/swoole-yaf) - 基于 Swoole 及 Yaf 的开发框架
+    - [yaf](https://github.com/qieangel2013/yaf) - 另一个基于 Swoole 及 Yaf 的开发框架
 
 ##组件( Components )
 
