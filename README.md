@@ -66,6 +66,7 @@
 - [Yaf](http://php.net/manual/zh/book.yaf.php) - 鸟哥的C扩展的框架
     - [swoole-yaf](https://github.com/LinkedDestiny/swoole-yaf) - 基于 Swoole 及 Yaf 的开发框架
     - [yaf](https://github.com/qieangel2013/yaf) - 另一个基于 Swoole 及 Yaf 的开发框架
+- [Zan PHP Framework](https://github.com/youzan/zan) - 有赞开源的 PHP 框架
 
 ##组件( Components )
 
@@ -501,7 +502,7 @@
 - [Hoa Console](https://github.com/hoaproject/Console) - 另一个命令行库
 - [Shunt](https://github.com/php-loep/shunt) -一个在多台远程机器上并行运行的命令行库
 - [Cilex](https://github.com/Cilex/Cilex) - 构建命令行工具的小型框架
-- [CLImate](https://github.com/thephpleague/climate) - 输出颜色和特殊格式的库
+- [CLImate](https://github.com/thephpleague/climate) - 构建命令行工具的框架(可以输出颜色和特殊格式)
 - [Webmozart Console](github.com/webmozart/console)
 
 ##定时任务( Crontab )
