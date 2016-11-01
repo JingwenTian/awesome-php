@@ -580,6 +580,7 @@
 - [PHP Conversion](https://github.com/Crisu83/php-conversion) -  另一个测量单位间转换的库
 - [LibPhoneNumber for PHP](https://github.com/giggsey/libphonenumber-for-php) -  PHP实现的Google电话号码处理系统库
 - [hashids.php](https://github.com/ivanakimov/hashids.php) - 用来把整数生成唯一字符串（比如：通过加密解密id来隐藏真实id)
+- [Particle](https://github.com/sschiau/Particle) - PHP ID Generator | Implementation of Twitter Snowflake ID Generator
 
 ##过滤和验证( Filtering ang Validation )
 >用于过滤和验证数据的库
