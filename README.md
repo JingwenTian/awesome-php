@@ -589,6 +589,7 @@
 - [Respect Validation](https://github.com/Respect/Validation) - 一个简单的验证库
 - [Valitron](https://github.com/vlucas/valitron) - 另一个数据验证库
 - [Cake Validation](https://github.com/cakephp/validation) - 另一个数据验证库 
+- [Illuminate validation package](https://github.com/illuminate/validation) - Laravel的验证库
 - [php-readability](https://github.com/feelinglucky/php-readability) - 内容分析算法
 - [Upload](https://github.com/codeguy/Upload) - 一个处理文件上传和验证的库
 - [DMS Filter](https://github.com/rdohms/DMS-Filter) - 一个基于标注的过滤库
