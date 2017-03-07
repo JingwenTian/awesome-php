@@ -64,7 +64,9 @@
 - [CakePHP](http://cakephp.org/) - 一个高效的应用开发框架(CP)
 - [Phalcon](http://phalconphp.com/en/) - 一个作为C扩展的框架
 - [Yaf](http://php.net/manual/zh/book.yaf.php) - 鸟哥的C扩展的框架
-    - [swoole-yaf](https://github.com/LinkedDestiny/swoole-yaf)
+    - [swoole-yaf](https://github.com/LinkedDestiny/swoole-yaf) - 基于 Swoole 及 Yaf 的开发框架
+    - [yaf](https://github.com/qieangel2013/yaf) - 另一个基于 Swoole 及 Yaf 的开发框架
+- [Zan PHP Framework](https://github.com/youzan/zan) - 有赞开源的 PHP 框架
 
 ##组件( Components )
 
@@ -77,6 +79,7 @@
 - [Yaconf](https://github.com/laruence/yaconf) - 一个高性能的配置管理扩展
 - [config](https://github.com/hassankhan/config) - 一个轻量级的配置加载器, 支持 PHP, INI, XML, JSON, YAML files
 - [Zend-config](https://github.com/zendframework/zend-config)
+- [phpdotenv](https://github.com/vlucas/phpdotenv) - 读取.env中全局的最高优先级变量
 
 ##微框架( Micro Frameworks )
 >微型框架和路由
@@ -385,6 +388,7 @@
 
 - [React](https://github.com/reactphp/react) - 一个事件驱动的非阻塞I/O库
 - [Rx.PHP](https://github.com/asm89/Rx.PHP) - 一个反应扩展库
+- [phpsocket.io](https://github.com/walkor/phpsocket.io)
 - [Ratchet](https://github.com/cboden/Ratchet) - 一个Web套接字库
 - [Hoa WebSocket](https://github.com/hoaproject/Websocket) - 另一个Web套接字库
 - [Elephant.io](https://github.com/Wisembly/Elephant.io) - 另一个Web套接字库
@@ -499,7 +503,7 @@
 - [Hoa Console](https://github.com/hoaproject/Console) - 另一个命令行库
 - [Shunt](https://github.com/php-loep/shunt) -一个在多台远程机器上并行运行的命令行库
 - [Cilex](https://github.com/Cilex/Cilex) - 构建命令行工具的小型框架
-- [CLImate](https://github.com/thephpleague/climate) - 输出颜色和特殊格式的库
+- [CLImate](https://github.com/thephpleague/climate) - 构建命令行工具的框架(可以输出颜色和特殊格式)
 - [Webmozart Console](github.com/webmozart/console)
 
 ##定时任务( Crontab )
@@ -577,6 +581,7 @@
 - [PHP Conversion](https://github.com/Crisu83/php-conversion) -  另一个测量单位间转换的库
 - [LibPhoneNumber for PHP](https://github.com/giggsey/libphonenumber-for-php) -  PHP实现的Google电话号码处理系统库
 - [hashids.php](https://github.com/ivanakimov/hashids.php) - 用来把整数生成唯一字符串（比如：通过加密解密id来隐藏真实id)
+- [Particle](https://github.com/sschiau/Particle) - PHP ID Generator | Implementation of Twitter Snowflake ID Generator
 
 ##过滤和验证( Filtering ang Validation )
 >用于过滤和验证数据的库
@@ -585,6 +590,7 @@
 - [Respect Validation](https://github.com/Respect/Validation) - 一个简单的验证库
 - [Valitron](https://github.com/vlucas/valitron) - 另一个数据验证库
 - [Cake Validation](https://github.com/cakephp/validation) - 另一个数据验证库 
+- [Illuminate validation package](https://github.com/illuminate/validation) - Laravel的验证库
 - [php-readability](https://github.com/feelinglucky/php-readability) - 内容分析算法
 - [Upload](https://github.com/codeguy/Upload) - 一个处理文件上传和验证的库
 - [DMS Filter](https://github.com/rdohms/DMS-Filter) - 一个基于标注的过滤库
