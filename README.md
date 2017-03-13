@@ -103,6 +103,7 @@
 - [Route](https://github.com/thephpleague/route) - 基于Fast Route的路由库
 - [Pux](https://github.com/c9s/Pux) - 另一个高效的路由库
 - [Klein](https://github.com/chriso/klein.php) - 一个灵活的路由库
+- [Zqhong Route](https://github.com/zqhong/route) - 一个简单、快速的路由库。性能测试结果超过 Fast Route 及 Symfony/routing
 - [Macaw](https://github.com/NoahBuscher/Macaw) - 一个简单的 PHP 路由器，超级精简、快速而且很性感。
 
 ##模板引擎( Templating )
