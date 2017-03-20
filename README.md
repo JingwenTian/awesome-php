@@ -757,6 +757,14 @@
     - [Dora-RPC](https://github.com/xcl3721/Dora-RPC)
     - [workerman-JsonRpc](https://github.com/walkor/workerman-jsonrpc/)
 
+## 异步网络通信框架( Asynchronous Event Driven Framework )
+
+- [Swoole](http://www.swoole.com/)
+- [Workerman](https://github.com/walkor/Workerman)
+- [Gearman](http://gearman.info/) - 任务分发系统
+- [phpdaemon](https://github.com/kakserpom/phpdaemon)
+- [ReactPHP](https://github.com/reactphp/react)
+
 ## 其他( Miscellaneous )
 >不属于以上分类的有用的类库和工具
 
