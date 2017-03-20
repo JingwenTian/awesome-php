@@ -734,6 +734,14 @@
 - [Mycat](http://www.mycat.org.cn/index.html)
 - [TiDB](https://github.com/pingcap/tidb) - 分布式数据库
 
+## RPC框架
+> 远程过程调用框架
+
+- [thrift](https://github.com/apache/thrift)
+- [grpc](https://github.com/grpc/grpc)
+- [protobuf](https://github.com/allegro/php-protobuf)
+- [Dora-RPC](https://github.com/xcl3721/Dora-RPC)
+
 ## 其他( Miscellaneous )
 >不属于以上分类的有用的类库和工具
 
