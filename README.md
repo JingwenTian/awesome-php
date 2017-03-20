@@ -471,13 +471,12 @@
 ## 队列( Queue )
 >处理事件和任务队列的库
 
-**队列服务**
+**队列服务框架**
 
 - [Kafka](https://github.com/apache/kafka)
 - [RabbitMQ](https://github.com/rabbitmq/rabbitmq-server)
 - [ActiveMQ](https://github.com/apache/activemq/)
 - [Qpid](https://github.com/apache/qpid)
-- [Gearman](http://gearman.info/) - 任务分发系统
 
 **队列相关类库**
 
