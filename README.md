@@ -471,12 +471,22 @@
 ## 队列( Queue )
 >处理事件和任务队列的库
 
+**队列服务**
+
+- [Kafka](https://github.com/apache/kafka)
+- [RabbitMQ](https://github.com/rabbitmq/rabbitmq-server)
+- [ActiveMQ](https://github.com/apache/activemq/)
+- [Qpid](https://github.com/apache/qpid)
+- [Gearman](http://gearman.info/) - 任务分发系统
+
+**队列相关类库**
+
 - [Pheanstalk](https://github.com/pda/pheanstalk) - 一个Beanstalkd客户端库
 - [PHP AMQP](https://github.com/videlalvaro/php-amqplib) - 一个纯PHP AMQP库
 - [Thumper](https://github.com/videlalvaro/Thumper) - 一个RabbitMQ模式库
 - [Bernard](https://github.com/bernardphp/bernard) - 一个多后端的抽象库
 - [php-resque](https://github.com/chrisboulton/php-resque) - 基于redis的消息队列
-- [Gearman](http://gearman.info/) - 任务分发系统
+
 
 ## 搜索( Search )
 >在数据中建立索引和执行查询相关的库和软件
