@@ -747,10 +747,16 @@
 ## RPC框架
 > 远程过程调用框架
 
-- [thrift](https://github.com/apache/thrift)
-- [grpc](https://github.com/grpc/grpc)
+- [thrift](https://github.com/apache/thrift) - Apache Thrift
+- [grpc](https://github.com/grpc/grpc) - Google的开源框架
 - [protobuf](https://github.com/allegro/php-protobuf)
-- [Dora-RPC](https://github.com/xcl3721/Dora-RPC)
+- [Dubbo](https://github.com/alibaba/dubbo) - 阿里巴巴开源的RPC框架
+- [Motan](https://github.com/weibocom/motan) - 微博轻量级RPC框架
+- [Dubbox](https://github.com/dangdangdotcom/dubbox) - 当当网维护的dubbox
+- [sofa-pbrpc](https://github.com/baidu/sofa-pbrpc) - 百度开源的sofa-pbrpc
+- 其他
+    - [Dora-RPC](https://github.com/xcl3721/Dora-RPC)
+    - [workerman-JsonRpc](https://github.com/walkor/workerman-jsonrpc/)
 
 ## 其他( Miscellaneous )
 >不属于以上分类的有用的类库和工具
