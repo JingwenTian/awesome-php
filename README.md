@@ -753,6 +753,7 @@
 - [Motan](https://github.com/weibocom/motan) - 微博轻量级RPC框架
 - [Dubbox](https://github.com/dangdangdotcom/dubbox) - 当当网维护的dubbox
 - [sofa-pbrpc](https://github.com/baidu/sofa-pbrpc) - 百度开源的sofa-pbrpc
+- [yar](https://github.com/laruence/yar)
 - 其他
     - [Dora-RPC](https://github.com/xcl3721/Dora-RPC)
     - [workerman-JsonRpc](https://github.com/walkor/workerman-jsonrpc/)
