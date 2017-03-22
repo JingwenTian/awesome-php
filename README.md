@@ -754,6 +754,9 @@
 - [Dubbox](https://github.com/dangdangdotcom/dubbox) - 当当网维护的dubbox
 - [sofa-pbrpc](https://github.com/baidu/sofa-pbrpc) - 百度开源的sofa-pbrpc
 - [yar](https://github.com/laruence/yar)
+- Hprose - 高性能跨语言RPC
+    - [hprose-php](https://github.com/hprose/hprose-php)
+    - [hprose-swoole](https://github.com/hprose/hprose-swoole)
 - 其他
     - [Dora-RPC](https://github.com/xcl3721/Dora-RPC)
     - [workerman-JsonRpc](https://github.com/walkor/workerman-jsonrpc/)
