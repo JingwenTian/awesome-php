@@ -477,6 +477,7 @@
 - [RabbitMQ](https://github.com/rabbitmq/rabbitmq-server)
 - [ActiveMQ](https://github.com/apache/activemq/)
 - [Qpid](https://github.com/apache/qpid)
+- [Disque](https://github.com/antirez/disque) - 分布式内存队列
 
 **队列相关类库**
 
