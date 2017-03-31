@@ -382,6 +382,8 @@
 - [Carbon](https://github.com/briannesbitt/Carbon) - 一个简单的日期时间API扩展
 - [ExpressiveDate](https://github.com/jasonlewis/expressive-date) - 另一个日期时间API扩展
 - [CalendR](http://yohan.giarel.li/CalendR) - 一个日历管理的库
+- [date](https://github.com/jenssegers/date) - 一个多语言的日期库
+- [moment.php](https://github.com/fightbulc/moment.php)
 
 ## 事件( Event )
 >事件驱动或非阻塞事件循环实现的库
