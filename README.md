@@ -267,6 +267,7 @@
 - [SensioLabs Security Check](https://security.sensiolabs.org/) -  一个根据安全建议检查Composer依赖的Web工具
 - [Zed](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project) - 用于Web应用的集成渗透测试工具
 - [php-ratelimiter](https://github.com/akirk/php-ratelimiter) 
+- [xxtea-php](https://github.com/xxtea/xxtea-php) - XXTEA encryption algorithm library for PHP.
 
 ## 密码( Passwords )
 >处理和存储密码的库和工具
