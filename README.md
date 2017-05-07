@@ -338,6 +338,7 @@
     - [xhgui](https://github.com/perftools/xhgui) - 另一个保存xhprof数据以及展示数据的UI
 - [Blackfire.io](http://blackfire.io) - 一个低开销的代码探查器
 - [Kint](https://github.com/raveren/kint) - 一个调试和性能分析的工具
+- [phptrace](https://github.com/Qihoo360/phptrace) - 360开源的PHP执行跟踪工具
 
 ## 构建工具( Build Tools )
 >项目构建和自动化工具
