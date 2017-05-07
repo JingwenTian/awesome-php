@@ -339,6 +339,8 @@
 - [Blackfire.io](http://blackfire.io) - 一个低开销的代码探查器
 - [Kint](https://github.com/raveren/kint) - 一个调试和性能分析的工具
 - [phptrace](https://github.com/Qihoo360/phptrace) - 360开源的PHP执行跟踪工具
+- [php-apm](https://github.com/patrickallaert/php-apm) - Application performance management for PHP application
+
 
 ## 构建工具( Build Tools )
 >项目构建和自动化工具
