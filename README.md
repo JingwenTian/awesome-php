@@ -789,7 +789,8 @@
 - [Eden](https://github.com/Openovate/eden) - 一个PHP快速开发类库,它包含很多组件用来自动加载、事件驱动、文档系统、缓存、模板、国际化、数据库、web服务、支付网关、装载和云服务技术。
 - [html-parser](https://github.com/bupt1987/html-parser) - html解析工具
 - [PHPCrawl](http://phpcrawl.cuab.de/) - PHP的爬虫框架
-- [Tig - 命令行下的 Git 浏览器](https://github.com/jonas/tig)
+- [Tig](https://github.com/jonas/tig) - 命令行下的 Git 浏览器
+- [copywriting-correct](https://github.com/ricoa/copywriting-correct) - 中英文文案排版纠正器
 
 
 
