@@ -340,6 +340,7 @@
 - [Kint](https://github.com/raveren/kint) - 一个调试和性能分析的工具
 - [phptrace](https://github.com/Qihoo360/phptrace) - 360开源的PHP执行跟踪工具
 - [php-apm](https://github.com/patrickallaert/php-apm) - Application performance management for PHP application
+- [BooBoo](https://github.com/thephpleague/booboo) - 集中异常捕获
 
 
 ## 构建工具( Build Tools )
