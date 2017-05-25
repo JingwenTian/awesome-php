@@ -588,6 +588,7 @@
 - [Device Detector](https://github.com/piwik/device-detector) - 另一个解析UA(User Agent)字符串的库
 - [Mobile-Detect](https://github.com/serbanghita/Mobile-Detect) - 一个轻量级的检测移动设备的库(包括桌面设备)
 - [Browser](https://github.com/cbschuld/Browser.php) - 检测关于用户的浏览器环境
+- [colors.php](https://github.com/kevinlebrun/colors.php) - An easy way to add colors in your CLI scripts.
 
 ## 数字( Numbers )
 >处理数字的库
