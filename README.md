@@ -677,6 +677,7 @@
 
 * [Aura Intl](https://github.com/auraphp/Aura.Intl)
 * [Cake I18n](https://github.com/cakephp/i18n) - 翻译和本地化消息
+* [symfony/translation](https://github.com/symfony/translation)
 
 ## 第三方API( Third Party APIs )
 >访问第三方API的库
