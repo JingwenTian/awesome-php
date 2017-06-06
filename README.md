@@ -88,10 +88,12 @@
     - [Silex Skeleton](https://github.com/fabpot/Silex-Skeleton) - 用于Silex的项目框架
     - [Silex Web Profiler](https://github.com/silexphp/Silex-WebProfiler) - 用于Silex的Web调试工具条
 - [Slim](http://www.slimframework.com/) - 另一个简单的微型框架
+    - [awesome-slim](https://github.com/xssc/awesome-slim)
     - [Slim Skeleton](https://github.com/codeguy/Slim-Skeleton) - 用于Slim的框架
     - [Slim View](https://github.com/codeguy/Slim-Views) - Slim的自定义视图集
     - [Slim Middleware](https://github.com/codeguy/Slim-Middleware) - Slim的自定义中间件集合
-    - [SlimMVC-Skeleton](https://github.com/JingwenTian/SlimMVC-Skeleton) - Slim基础上实现了MVC及一些组件
+    - [slim-skeleton](https://github.com/JingwenTian/slim-skeleton) - Slim基础上实现了MVC及一些组件
+    - [slim-boilerplate](https://github.com/damianopetrungaro/slim-boilerplate)
 - [Bullet PHP](http://bulletphp.com/) - 用于构建REST APIs的微型框架
 - [Lumen](http://lumen.laravel.com/) - 基于Laravel的微型框架
 - [Proton](https://github.com/alexbilbie/Proton) - 一个微型PHP框架
