@@ -143,6 +143,7 @@
 
 - [soap-client](https://github.com/phpro/soap-client) - A general purpose SOAP client for PHP
 - [soap-client](https://github.com/goetas-webservices/soap-client) - PHP implementation of SOAP 1.1 and 1.2 client specifications
+- [wsdl2phpgenerator](https://github.com/wsdl2phpgenerator/wsdl2phpgenerator) - Simple utility and class library for generating php classes from a wsdl file.
 
 ## 中间件( Middlewares )
 >用于构建应用的类库的中间件
