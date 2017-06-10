@@ -791,6 +791,12 @@
 - [phpdaemon](https://github.com/kakserpom/phpdaemon)
 - [ReactPHP](https://github.com/reactphp/react)
 
+## 规则引擎( Rules Engine )
+
+- [Hoa\Ruler](https://github.com/hoaproject/Ruler) - Hoa项目的规则引擎
+- [Ruler](https://github.com/bobthecow/Ruler) - 简单的无状态的规则引擎
+- [Rules](https://github.com/tonera/Rules) - PHP简易规则引擎
+
 ## 其他( Miscellaneous )
 >不属于以上分类的有用的类库和工具
 
