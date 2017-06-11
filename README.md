@@ -803,6 +803,11 @@
 - [Ruler](https://github.com/bobthecow/Ruler) - 简单的无状态的规则引擎
 - [Rules](https://github.com/tonera/Rules) - PHP简易规则引擎
 
+## 第三方平台组件( Third Party )
+
+- [wechat](https://github.com/overtrue/wechat) - 让微信开发更简单
+- [Qiniu/sdk](https://github.com/qiniu/php-sdk) - Qiniu Resource Storage SDK for PHP
+
 ## 其他( Miscellaneous )
 >不属于以上分类的有用的类库和工具
 
