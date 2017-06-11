@@ -689,6 +689,8 @@
 * [Cake I18n](https://github.com/cakephp/i18n) - 翻译和本地化消息
 * [symfony/translation](https://github.com/symfony/translation)
 * [illuminate/translation](https://github.com/illuminate/translation)
+* [Gettext](https://github.com/oscarotero/Gettext) - PHP library to collect and manipulate gettext (.po, .mo, .php, .json, etc)
+* [zend/i18n](http://zendframework.github.io/zend-i18n/translation/)
 
 ## 第三方API( Third Party APIs )
 >访问第三方API的库
