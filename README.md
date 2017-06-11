@@ -465,6 +465,7 @@
 - [ProxyManager](https://github.com/Ocramius/ProxyManager) - 用于数据映射生成代理对象的工具集合
 - [Cake ORM](https://github.com/cakephp/orm) - 对象关系映射器, 实现了使用数据映射模式(CP)
 - [Medoo](http://medoo.in/) - 一个轻量级的加速开发的ORM
+- [Aura SQL](https://github.com/auraphp/Aura.Sql) - SQL database access through PDO.
 
 ## 迁移( Migrations )
 >用于管理数据库模式和迁移的库
