@@ -118,6 +118,7 @@
 - [PHPTAL](http://phptal.org/) - PHP实现的TAL模板语言
 - [Plates](http://platesphp.com/) - 一个原始的PHP模板库
 - [Lex](https://github.com/pyrocms/lex) - 一个轻量级模板解析器
+- [Aura.View](https://github.com/auraphp/Aura.View) - Provides TemplateView and TwoStepView
 
 ## 静态站生成器( Static Site Generators )
 >生成Web页面内容的预处理工具
