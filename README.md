@@ -657,16 +657,19 @@
 ## 数据结构和存储( Data Structure and Storage )
 >实现数据结构和存储技术的库
 
+- [Illuminate\Support\Collection](https://docs.golaravel.com/docs/5.1/collections/) - Laravel提供的流畅、便利的封装来操控数组数据的集合库
+- [Collections](https://github.com/tightenco/collect) - 一个从Laravel拆离出的集合库
 - [Ardent](https://github.com/morrisonlevi/Ardent) - 一个数据结构库
+- [Cake Collection](https://github.com/cakephp/collection) - 一个简单的集合库
+- [Collections](https://github.com/italolelis/collections) - 一个集合抽象库
+- [Fractal](https://github.com/php-loep/fractal) -  一个将复杂数据结构转换为JSON输出的库
 - [PHP Collections](https://github.com/schmittjoh/php-collection) - 一个简单的集合库
 - [Serializer](https://github.com/schmittjoh/serializer) - 用于序列化和反序列化数据的库
 - [Zend Serializer](https://github.com/zendframework/zend-serializer) - 另一个用于序列化和反序列化数据的库
 - [PHP Object Storage](https://github.com/herrera-io/php-object-storage) - 一个用于对象存储的库
-- [Fractal](https://github.com/php-loep/fractal) -  一个将复杂数据结构转换为JSON输出的库
 - [Totem](http://github.com/Wisembly/Totem) - 一个管理和创建数据修改集的库
 - [PINQ](https://github.com/TimeToogo/Pinq) - PHP实时Linq库
 - [JsonMapper](https://github.com/netresearch/jsonmapper) - 一个将内嵌JSON结构映射到PHP类上的库
-- [Cake Collection](https://github.com/cakephp/collection) - 一个简单的集合库
 
 ## 通知( Notifications )
 >关于通知的库
