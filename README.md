@@ -218,6 +218,7 @@
 - [QrCode](https://github.com/endroid/QrCode) - 另一个二维码生成库
 - [pel](https://github.com/lsolesen/pel) - PHP Exif 库
 - [php-exif](https://github.com/PHPExif/php-exif) - PHP Exif信息读取库
+- [Captcha](https://github.com/Gregwar/Captcha) - 图形验证码
 
 
 ## 测试( Testing )
