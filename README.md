@@ -66,6 +66,7 @@
 - [Yaf](http://php.net/manual/zh/book.yaf.php) - 鸟哥的C扩展的框架
     - [swoole-yaf](https://github.com/LinkedDestiny/swoole-yaf) - 基于 Swoole 及 Yaf 的开发框架
     - [yaf](https://github.com/qieangel2013/yaf) - 另一个基于 Swoole 及 Yaf 的开发框架
+- [SwooleDistributed](https://github.com/tmtbe/SwooleDistributed) - swoole 分布式全栈框架
 - [Zan PHP Framework](https://github.com/youzan/zan) - 有赞开源的 PHP 框架
 
 ## 组件( Components )
