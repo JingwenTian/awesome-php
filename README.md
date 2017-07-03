@@ -813,6 +813,7 @@
 
 - [wechat](https://github.com/overtrue/wechat) - 让微信开发更简单
 - [Qiniu/sdk](https://github.com/qiniu/php-sdk) - Qiniu Resource Storage SDK for PHP
+- [Wafer](https://github.com/tencentyun/wafer) - 快速构建具备弹性能力的微信小程序
 
 ## 其他( Miscellaneous )
 >不属于以上分类的有用的类库和工具
