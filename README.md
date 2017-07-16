@@ -66,6 +66,7 @@
 - [Yaf](http://php.net/manual/zh/book.yaf.php) - 鸟哥的C扩展的框架
     - [swoole-yaf](https://github.com/LinkedDestiny/swoole-yaf) - 基于 Swoole 及 Yaf 的开发框架
     - [yaf](https://github.com/qieangel2013/yaf) - 另一个基于 Swoole 及 Yaf 的开发框架
+- [SwooleDistributed](https://github.com/tmtbe/SwooleDistributed) - swoole 分布式全栈框架
 - [Zan PHP Framework](https://github.com/youzan/zan) - 有赞开源的 PHP 框架
 
 ## 组件( Components )
@@ -88,10 +89,12 @@
     - [Silex Skeleton](https://github.com/fabpot/Silex-Skeleton) - 用于Silex的项目框架
     - [Silex Web Profiler](https://github.com/silexphp/Silex-WebProfiler) - 用于Silex的Web调试工具条
 - [Slim](http://www.slimframework.com/) - 另一个简单的微型框架
+    - [awesome-slim](https://github.com/xssc/awesome-slim)
     - [Slim Skeleton](https://github.com/codeguy/Slim-Skeleton) - 用于Slim的框架
     - [Slim View](https://github.com/codeguy/Slim-Views) - Slim的自定义视图集
     - [Slim Middleware](https://github.com/codeguy/Slim-Middleware) - Slim的自定义中间件集合
-    - [SlimMVC-Skeleton](https://github.com/JingwenTian/SlimMVC-Skeleton) - Slim基础上实现了MVC及一些组件
+    - [slim-skeleton](https://github.com/JingwenTian/slim-skeleton) - Slim基础上实现了MVC及一些组件
+    - [slim-boilerplate](https://github.com/damianopetrungaro/slim-boilerplate)
 - [Bullet PHP](http://bulletphp.com/) - 用于构建REST APIs的微型框架
 - [Lumen](http://lumen.laravel.com/) - 基于Laravel的微型框架
 - [Proton](https://github.com/alexbilbie/Proton) - 一个微型PHP框架
@@ -116,6 +119,7 @@
 - [PHPTAL](http://phptal.org/) - PHP实现的TAL模板语言
 - [Plates](http://platesphp.com/) - 一个原始的PHP模板库
 - [Lex](https://github.com/pyrocms/lex) - 一个轻量级模板解析器
+- [Aura.View](https://github.com/auraphp/Aura.View) - Provides TemplateView and TwoStepView
 
 ## 静态站生成器( Static Site Generators )
 >生成Web页面内容的预处理工具
@@ -136,6 +140,12 @@
 - [PHP VCR](http://php-vcr.github.io/) - 一个录制和回放HTTP请求的库
 - [php-curl-class](https://github.com/php-curl-class/php-curl-class) - PHP的Curl类
 - [Beanbun](https://github.com/kiddyuchina/Beanbun) - 多进程网络爬虫框架
+
+## SOAP
+
+- [soap-client](https://github.com/phpro/soap-client) - A general purpose SOAP client for PHP
+- [soap-client](https://github.com/goetas-webservices/soap-client) - PHP implementation of SOAP 1.1 and 1.2 client specifications
+- [wsdl2phpgenerator](https://github.com/wsdl2phpgenerator/wsdl2phpgenerator) - Simple utility and class library for generating php classes from a wsdl file.
 
 ## 中间件( Middlewares )
 >用于构建应用的类库的中间件
@@ -207,6 +217,9 @@
 - [PHPThumb](https://github.com/masterexploder/PHPThumb) - 缩略图处理库
 - [phpqrcode](https://github.com/t0k4rt/phpqrcode) - 二维码生成库
 - [QrCode](https://github.com/endroid/QrCode) - 另一个二维码生成库
+- [pel](https://github.com/lsolesen/pel) - PHP Exif 库
+- [php-exif](https://github.com/PHPExif/php-exif) - PHP Exif信息读取库
+- [Captcha](https://github.com/Gregwar/Captcha) - 图形验证码
 
 
 ## 测试( Testing )
@@ -233,6 +246,7 @@
 - [VFS](https://github.com/adlawson/vfs.php) - 另一个用于测试的虚拟文件系统
 - [Locust](http://locust.io/) - 一个Python开发的现代负载测试库
 - [Peridot](https://github.com/peridot-php/peridot) - 一个事件驱动的测试框架
+- [SimpleTest](https://github.com/simpletest/simpletest) - Unit Testing for PHP
 
 ## 持续集成( Continuous Integration )
 >持续集成的库和应用
@@ -338,6 +352,10 @@
     - [xhgui](https://github.com/perftools/xhgui) - 另一个保存xhprof数据以及展示数据的UI
 - [Blackfire.io](http://blackfire.io) - 一个低开销的代码探查器
 - [Kint](https://github.com/raveren/kint) - 一个调试和性能分析的工具
+- [phptrace](https://github.com/Qihoo360/phptrace) - 360开源的PHP执行跟踪工具
+- [php-apm](https://github.com/patrickallaert/php-apm) - Application performance management for PHP application
+- [BooBoo](https://github.com/thephpleague/booboo) - 集中异常捕获
+
 
 ## 构建工具( Build Tools )
 >项目构建和自动化工具
@@ -451,6 +469,7 @@
 - [ProxyManager](https://github.com/Ocramius/ProxyManager) - 用于数据映射生成代理对象的工具集合
 - [Cake ORM](https://github.com/cakephp/orm) - 对象关系映射器, 实现了使用数据映射模式(CP)
 - [Medoo](http://medoo.in/) - 一个轻量级的加速开发的ORM
+- [Aura SQL](https://github.com/auraphp/Aura.Sql) - SQL database access through PDO.
 
 ## 迁移( Migrations )
 >用于管理数据库模式和迁移的库
@@ -519,6 +538,7 @@
 - [Cilex](https://github.com/Cilex/Cilex) - 构建命令行工具的小型框架
 - [CLImate](https://github.com/thephpleague/climate) - 构建命令行工具的框架(可以输出颜色和特殊格式)
 - [Webmozart Console](github.com/webmozart/console)
+- [Silly](https://github.com/mnapoli/silly) - Silly CLI micro-framework based on Symfony Console
 
 ## 定时任务( Crontab )
 >定时任务管理 crontab在 PHP 中的相关封装
@@ -584,6 +604,7 @@
 - [Device Detector](https://github.com/piwik/device-detector) - 另一个解析UA(User Agent)字符串的库
 - [Mobile-Detect](https://github.com/serbanghita/Mobile-Detect) - 一个轻量级的检测移动设备的库(包括桌面设备)
 - [Browser](https://github.com/cbschuld/Browser.php) - 检测关于用户的浏览器环境
+- [colors.php](https://github.com/kevinlebrun/colors.php) - An easy way to add colors in your CLI scripts.
 
 ## 数字( Numbers )
 >处理数字的库
@@ -621,6 +642,7 @@
 - [Drest](https://github.com/leedavis81/drest) -一个将Doctrine实体展现为REST资源结点的库
 - [Restler](https://github.com/Luracast/Restler) - 一个将PHP方法展现为RESTful web API的轻量级框架
 - [fractal](https://github.com/thephpleague/fractal) - [最佳实践]数据返回的统一化处理
+- [api-problem](https://github.com/Crell/ApiProblem) - A simple implementation of the api-problem specification
 
 ## 缓存( Caching )
 >缓存数据的库
@@ -636,16 +658,19 @@
 ## 数据结构和存储( Data Structure and Storage )
 >实现数据结构和存储技术的库
 
+- [Illuminate\Support\Collection](https://docs.golaravel.com/docs/5.1/collections/) - Laravel提供的流畅、便利的封装来操控数组数据的集合库
+- [Collections](https://github.com/tightenco/collect) - 一个从Laravel拆离出的集合库
 - [Ardent](https://github.com/morrisonlevi/Ardent) - 一个数据结构库
+- [Cake Collection](https://github.com/cakephp/collection) - 一个简单的集合库
+- [Collections](https://github.com/italolelis/collections) - 一个集合抽象库
+- [Fractal](https://github.com/php-loep/fractal) -  一个将复杂数据结构转换为JSON输出的库
 - [PHP Collections](https://github.com/schmittjoh/php-collection) - 一个简单的集合库
 - [Serializer](https://github.com/schmittjoh/serializer) - 用于序列化和反序列化数据的库
 - [Zend Serializer](https://github.com/zendframework/zend-serializer) - 另一个用于序列化和反序列化数据的库
 - [PHP Object Storage](https://github.com/herrera-io/php-object-storage) - 一个用于对象存储的库
-- [Fractal](https://github.com/php-loep/fractal) -  一个将复杂数据结构转换为JSON输出的库
 - [Totem](http://github.com/Wisembly/Totem) - 一个管理和创建数据修改集的库
 - [PINQ](https://github.com/TimeToogo/Pinq) - PHP实时Linq库
 - [JsonMapper](https://github.com/netresearch/jsonmapper) - 一个将内嵌JSON结构映射到PHP类上的库
-- [Cake Collection](https://github.com/cakephp/collection) - 一个简单的集合库
 
 ## 通知( Notifications )
 >关于通知的库
@@ -670,6 +695,10 @@
 
 * [Aura Intl](https://github.com/auraphp/Aura.Intl)
 * [Cake I18n](https://github.com/cakephp/i18n) - 翻译和本地化消息
+* [symfony/translation](https://github.com/symfony/translation)
+* [illuminate/translation](https://github.com/illuminate/translation)
+* [Gettext](https://github.com/oscarotero/Gettext) - PHP library to collect and manipulate gettext (.po, .mo, .php, .json, etc)
+* [zend/i18n](http://zendframework.github.io/zend-i18n/translation/)
 
 ## 第三方API( Third Party APIs )
 >访问第三方API的库
@@ -774,6 +803,18 @@
 - [phpdaemon](https://github.com/kakserpom/phpdaemon)
 - [ReactPHP](https://github.com/reactphp/react)
 
+## 规则引擎( Rules Engine )
+
+- [Hoa\Ruler](https://github.com/hoaproject/Ruler) - Hoa项目的规则引擎
+- [Ruler](https://github.com/bobthecow/Ruler) - 简单的无状态的规则引擎
+- [Rules](https://github.com/tonera/Rules) - PHP简易规则引擎
+
+## 第三方平台组件( Third Party )
+
+- [wechat](https://github.com/overtrue/wechat) - 让微信开发更简单
+- [Qiniu/sdk](https://github.com/qiniu/php-sdk) - Qiniu Resource Storage SDK for PHP
+- [Wafer](https://github.com/tencentyun/wafer) - 快速构建具备弹性能力的微信小程序
+
 ## 其他( Miscellaneous )
 >不属于以上分类的有用的类库和工具
 
@@ -786,9 +827,9 @@
 - [Eden](https://github.com/Openovate/eden) - 一个PHP快速开发类库,它包含很多组件用来自动加载、事件驱动、文档系统、缓存、模板、国际化、数据库、web服务、支付网关、装载和云服务技术。
 - [html-parser](https://github.com/bupt1987/html-parser) - html解析工具
 - [PHPCrawl](http://phpcrawl.cuab.de/) - PHP的爬虫框架
-- [Tig - 命令行下的 Git 浏览器](https://github.com/jonas/tig)
-
-
+- [Tig](https://github.com/jonas/tig) - 命令行下的 Git 浏览器
+- [copywriting-correct](https://github.com/ricoa/copywriting-correct) - 中英文文案排版纠正器
+- [PHP-ML](https://github.com/php-ai/php-ml) - PHP 机器学习库
 
 
 
