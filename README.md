@@ -36,6 +36,7 @@
     - [Modern PHP](http://shop.oreilly.com/product/0636920033868.do) - 作者是[PHP 之道](http://www.phptherightway.com/)的发起人和[Slim框架](http://www.slimframework.com/)的作者
         - [Modern PHP（中文版）](http://about.ac/books/modern-php/)
     - [PHP Pandas](http://daylerees.com/php-pandas/) 
+    - [ppts_for_php2017](https://github.com/devlinkcn/ppts_for_php2017) - 2017 第三届PHP全球开发者大会PPT/Keynote
 
 - **其他书籍(Other Books)**
 
