@@ -632,6 +632,8 @@
 - [DMS Filter](https://github.com/rdohms/DMS-Filter) - 一个基于标注的过滤库
 - [MetaYaml](https://github.com/romaricdrigon/MetaYaml) - 支持YAML、JSON和XML的一个模式验证库
 - [ISO-codes](https://github.com/ronanguilloux/IsoCodes) -  验证不同ISO和ZIP编码的库
+- [aura/filter](https://github.com/auraphp/Aura.Filter) - Aura 数据验证组件
+- [symfony/validator](https://github.com/symfony/validator) - Symfony 数据验证组件
 
 ## REST和API
 >用于开发restful APIs的库和Web框架
