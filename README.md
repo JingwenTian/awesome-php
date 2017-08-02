@@ -30,6 +30,7 @@
     - [Semantic Versioning](http://semver.org/lang/zh-CN/) - 语义化版本
     - [Atlassian Git Tutorials](https://www.atlassian.com/git/) - 一系列的Git教程
     - [Servers for Hackers ](https://serversforhackers.com/) - 有关服务器运维相关
+    - [be-a-professional-programmer](https://github.com/stanzhai/be-a-professional-programmer) - 成为专业程序员路上用到的各种优秀资料、神器及框架
 
 - **PHP书籍(PHP Books)**
 
