@@ -30,12 +30,14 @@
     - [Semantic Versioning](http://semver.org/lang/zh-CN/) - 语义化版本
     - [Atlassian Git Tutorials](https://www.atlassian.com/git/) - 一系列的Git教程
     - [Servers for Hackers ](https://serversforhackers.com/) - 有关服务器运维相关
+    - [be-a-professional-programmer](https://github.com/stanzhai/be-a-professional-programmer) - 成为专业程序员路上用到的各种优秀资料、神器及框架
 
 - **PHP书籍(PHP Books)**
 
     - [Modern PHP](http://shop.oreilly.com/product/0636920033868.do) - 作者是[PHP 之道](http://www.phptherightway.com/)的发起人和[Slim框架](http://www.slimframework.com/)的作者
         - [Modern PHP（中文版）](http://about.ac/books/modern-php/)
     - [PHP Pandas](http://daylerees.com/php-pandas/) 
+    - [ppts_for_php2017](https://github.com/devlinkcn/ppts_for_php2017) - 2017 第三届PHP全球开发者大会PPT/Keynote
 
 - **其他书籍(Other Books)**
 
@@ -631,6 +633,8 @@
 - [DMS Filter](https://github.com/rdohms/DMS-Filter) - 一个基于标注的过滤库
 - [MetaYaml](https://github.com/romaricdrigon/MetaYaml) - 支持YAML、JSON和XML的一个模式验证库
 - [ISO-codes](https://github.com/ronanguilloux/IsoCodes) -  验证不同ISO和ZIP编码的库
+- [aura/filter](https://github.com/auraphp/Aura.Filter) - Aura 数据验证组件
+- [symfony/validator](https://github.com/symfony/validator) - Symfony 数据验证组件
 
 ## REST和API
 >用于开发restful APIs的库和Web框架
@@ -734,6 +738,7 @@
 - [Protobox](http://getprotobox.com/) - 另一个用于构建PHP开发虚拟机工具
 - [Phansible](http://phansible.com/) - 另一个用于构建PHP开发虚拟机工具
 - [centstead](https://github.com/jason-chang/centstead) - Laravel local development environment base on vagrant  and homestead
+- [Laravel Homestead](https://github.com/laravel/homestead)
 
 ## 虚拟机(Virtual Machines)
 >替代的PHP虚拟机
