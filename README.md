@@ -637,6 +637,7 @@
 - [symfony/validator](https://github.com/symfony/validator) - Symfony 数据验证组件
 
 ## REST和API
+
 >用于开发restful APIs的库和Web框架
 
 - [Apigility](https://github.com/zfcampus/zf-apigility-skeleton) - 一个使用Zend Framework2构建的API构建器
@@ -647,6 +648,8 @@
 - [Restler](https://github.com/Luracast/Restler) - 一个将PHP方法展现为RESTful web API的轻量级框架
 - [fractal](https://github.com/thephpleague/fractal) - [最佳实践]数据返回的统一化处理
 - [api-problem](https://github.com/Crell/ApiProblem) - A simple implementation of the api-problem specification
+- [graphql-php](https://github.com/webonyx/graphql-php) - 应用层查询语言库
+- [GraphQL](https://github.com/Youshido/GraphQL) - 另一个应用层查询语言库
 
 ## 缓存( Caching )
 >缓存数据的库
