@@ -786,6 +786,7 @@
 - [DBProxy](https://github.com/Meituan-Dianping/DBProxy) - 美团点评基于Atlas的数据库中间件
 - [Mycat](http://www.mycat.org.cn/index.html)
 - [TiDB](https://github.com/pingcap/tidb) - 分布式数据库
+- [mysql-proxy](https://github.com/swoole/mysql-proxy) - Swoole开源的数据库中间件
 
 ## RPC框架
 > 远程过程调用框架
