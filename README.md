@@ -15,7 +15,8 @@
 
     - [PHP The Right Way](http://www.phptherightway.com/) - 一个PHP实践的快速参考指导
     - [PHP Best Practices](https://phpbestpractices.org/) - 一个PHP最佳实践
-    - [PHP Weekly News](http://www.phpweekly.com/archive.html) - 一个PHP 周刊
+    - [Clean Code PHP](https://github.com/jupeter/clean-code-php) - 一个PHP 编码标准
+    - [PHP Weekly News](http://www.phpweekly.com/archive.html) - 一个PHP 周刊
     - [Securing PHP](http://securingphp.com/) - 有关PHP安全相关
     - [PHP FIG](http://www.php-fig.org/) - PHP框架交互小组
         - [PSR 中文翻译](https://psr.phphub.org)
@@ -70,6 +71,7 @@
     - [yaf](https://github.com/qieangel2013/yaf) - 另一个基于 Swoole 及 Yaf 的开发框架
 - [SwooleDistributed](https://github.com/tmtbe/SwooleDistributed) - swoole 分布式全栈框架
 - [Zan PHP Framework](https://github.com/youzan/zan) - 有赞开源的 PHP 框架
+- [php-msf](https://github.com/pinguo/php-msf) - Camera360开源的微服务框架
 
 ## 组件( Components )
 
@@ -637,6 +639,7 @@
 - [symfony/validator](https://github.com/symfony/validator) - Symfony 数据验证组件
 
 ## REST和API
+
 >用于开发restful APIs的库和Web框架
 
 - [Apigility](https://github.com/zfcampus/zf-apigility-skeleton) - 一个使用Zend Framework2构建的API构建器
@@ -647,6 +650,8 @@
 - [Restler](https://github.com/Luracast/Restler) - 一个将PHP方法展现为RESTful web API的轻量级框架
 - [fractal](https://github.com/thephpleague/fractal) - [最佳实践]数据返回的统一化处理
 - [api-problem](https://github.com/Crell/ApiProblem) - A simple implementation of the api-problem specification
+- [graphql-php](https://github.com/webonyx/graphql-php) - 应用层查询语言库
+- [GraphQL](https://github.com/Youshido/GraphQL) - 另一个应用层查询语言库
 
 ## 缓存( Caching )
 >缓存数据的库
@@ -765,6 +770,8 @@
 - [phpPgAdmin ](https://github.com/phppgadmin/phppgadmin) - PostgreSQL管理工具
 - [phpMyAdmin](https://github.com/phpmyadmin/phpmyadmin) - MySQL管理工具
 - [rockmongo](https://github.com/iwind/rockmongo) - MongoDB管理工具
+- [Grav](https://github.com/getgrav/grav) - Powerful Flat-File CMS
+- [Piwik](https://github.com/piwik/piwik) - 网页统计
 
 ## 基础设施(Infrastructure)
 >提供PHP应用程序和服务的基础设施
@@ -781,6 +788,7 @@
 - [DBProxy](https://github.com/Meituan-Dianping/DBProxy) - 美团点评基于Atlas的数据库中间件
 - [Mycat](http://www.mycat.org.cn/index.html)
 - [TiDB](https://github.com/pingcap/tidb) - 分布式数据库
+- [mysql-proxy](https://github.com/swoole/mysql-proxy) - Swoole开源的数据库中间件
 
 ## RPC框架
 > 远程过程调用框架
@@ -835,6 +843,7 @@
 - [Tig](https://github.com/jonas/tig) - 命令行下的 Git 浏览器
 - [copywriting-correct](https://github.com/ricoa/copywriting-correct) - 中英文文案排版纠正器
 - [PHP-ML](https://github.com/php-ai/php-ml) - PHP 机器学习库
+- [BotMan](https://github.com/botman/botman) - 聊天机器人库
 
 
 
