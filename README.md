@@ -719,6 +719,7 @@
 
 - [Zephir](https://github.com/phalcon/zephir) - 用于开发PHP扩展的一种在PHP和C++间的编译语言
 - [PHP CPP](http://www.php-cpp.com/) - 一个用于开发PHP扩展的C++库
+- [PHP-X](https://github.com/swoole/PHP-X) - C++ wrapper for Zend API
 
 ## PHP 安装(PHP Installation)
 >帮助安装和管理PHP
