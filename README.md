@@ -278,7 +278,7 @@
 - [RandomLib](https://github.com/ircmaxell/RandomLib) - 生成随机数和随机字符串的库
 - [True Random](https://github.com/pixeloution/true-random) - 使用www.random.org生成随机数的库
 - [SecurityMultiTool](https://github.com/padraic/SecurityMultiTool) - 一个PHP安全库
-- [PHPSecLib](http://phpseclib.sourceforge.net/) - 一个纯的PHP安全通信库
+- [PHPSecLib](https://github.com/phpseclib/phpseclib) - 一个纯的PHP安全通信库
 - [TCrypto](https://github.com/timoh6/TCrypto) - 一个简单的键值加密存储库
 - [PHP IDS](https://github.com/PHPIDS/PHPIDS) - 一个结构化的PHP安全层
 - [PHP SSH](https://github.com/Herzult/php-ssh) - 面向对象的SSH包装库
