@@ -72,6 +72,7 @@
 - [SwooleDistributed](https://github.com/tmtbe/SwooleDistributed) - swoole 分布式全栈框架
 - [Zan PHP Framework](https://github.com/youzan/zan) - 有赞开源的 PHP 框架
 - [php-msf](https://github.com/pinguo/php-msf) - Camera360开源的微服务框架
+- [Biny](https://github.com/Tencent/Biny) - Biny是一款高性能的超轻量级PHP框架
 
 ## 组件( Components )
 
