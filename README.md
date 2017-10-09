@@ -499,6 +499,8 @@
 ## 队列( Queue )
 >处理事件和任务队列的库
 
+- [enqueue-dev](https://github.com/php-enqueue/enqueue-dev) - Message queue packages for PHP, Symfony, Laravel, Magento
+
 **队列服务框架**
 
 - [Kafka](https://github.com/apache/kafka)
