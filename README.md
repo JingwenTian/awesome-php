@@ -502,6 +502,7 @@
 **队列服务框架**
 
 - [Kafka](https://github.com/apache/kafka)
+    - [kafka-php](https://github.com/weiboad/kafka-php) - kafka php client
 - [RabbitMQ](https://github.com/rabbitmq/rabbitmq-server)
 - [ActiveMQ](https://github.com/apache/activemq/)
 - [Qpid](https://github.com/apache/qpid)
