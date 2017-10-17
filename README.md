@@ -499,9 +499,12 @@
 ## 队列( Queue )
 >处理事件和任务队列的库
 
+- [enqueue-dev](https://github.com/php-enqueue/enqueue-dev) - Message queue packages for PHP, Symfony, Laravel, Magento
+
 **队列服务框架**
 
 - [Kafka](https://github.com/apache/kafka)
+    - [kafka-php](https://github.com/weiboad/kafka-php) - kafka php client
 - [RabbitMQ](https://github.com/rabbitmq/rabbitmq-server)
 - [ActiveMQ](https://github.com/apache/activemq/)
 - [Qpid](https://github.com/apache/qpid)
@@ -714,6 +717,10 @@
 >访问第三方API的库
 
 - [mailgun-php](https://github.com/mailgun/mailgun-php) - Mailgun's Official SDK for PHP
+- [wechat](https://github.com/overtrue/wechat) - 让微信开发更简单
+- [Qiniu/sdk](https://github.com/qiniu/php-sdk) - Qiniu Resource Storage SDK for PHP
+- [Wafer](https://github.com/tencentyun/wafer) - 快速构建具备弹性能力的微信小程序
+- [GeoIP2-php](https://github.com/maxmind/GeoIP2-php) - MaxMind GeoIP2 地理位置服务
 
 ## 扩展( Extensions )
 >帮助构建PHP扩展的库
@@ -823,12 +830,6 @@
 - [Hoa\Ruler](https://github.com/hoaproject/Ruler) - Hoa项目的规则引擎
 - [Ruler](https://github.com/bobthecow/Ruler) - 简单的无状态的规则引擎
 - [Rules](https://github.com/tonera/Rules) - PHP简易规则引擎
-
-## 第三方平台组件( Third Party )
-
-- [wechat](https://github.com/overtrue/wechat) - 让微信开发更简单
-- [Qiniu/sdk](https://github.com/qiniu/php-sdk) - Qiniu Resource Storage SDK for PHP
-- [Wafer](https://github.com/tencentyun/wafer) - 快速构建具备弹性能力的微信小程序
 
 ## 其他( Miscellaneous )
 >不属于以上分类的有用的类库和工具
