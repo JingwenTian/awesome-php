@@ -504,11 +504,15 @@
 **队列服务框架**
 
 - [Kafka](https://github.com/apache/kafka)
-    - [kafka-php](https://github.com/weiboad/kafka-php) - kafka php client
+    - Composer: [kafka-php](https://github.com/weiboad/kafka-php) - kafka php client
+    - PECL: [php-rdkafka](https://github.com/arnaud-lb/php-rdkafka)
 - [RabbitMQ](https://github.com/rabbitmq/rabbitmq-server)
 - [ActiveMQ](https://github.com/apache/activemq/)
 - [Qpid](https://github.com/apache/qpid)
 - [Disque](https://github.com/antirez/disque) - 分布式内存队列
+- [pheanstalk](https://github.com/pda/pheanstalk) - PHP client for beanstalkd queue
+- [php-resque](https://github.com/chrisboulton/php-resque) - PHP port of resque
+- [php-amqplib](https://github.com/php-amqplib/php-amqplib) - rabbitmq php client
 
 **队列相关类库**
 
