@@ -503,12 +503,13 @@
 
 **队列服务框架**
 
-- [Kafka](https://github.com/apache/kafka)
-    - [kafka-php](https://github.com/weiboad/kafka-php) - kafka php client
-- [RabbitMQ](https://github.com/rabbitmq/rabbitmq-server)
+- [Kafka](https://github.com/apache/kafka) - 高吞吐量的分布式发布订阅消息系统
+- [RabbitMQ](https://github.com/rabbitmq/rabbitmq-server) - 使用 erlang 编写的 AMQP (高级消息队列协议) 的服务实现
+- [RocketMQ](https://github.com/apache/rocketmq/)
 - [ActiveMQ](https://github.com/apache/activemq/)
 - [Qpid](https://github.com/apache/qpid)
 - [Disque](https://github.com/antirez/disque) - 分布式内存队列
+- [beanstalkd](https://github.com/kr/beanstalkd) - 一个高性能、轻量级的消息队列中间件
 
 **队列相关类库**
 
@@ -517,7 +518,9 @@
 - [Thumper](https://github.com/videlalvaro/Thumper) - 一个RabbitMQ模式库
 - [Bernard](https://github.com/bernardphp/bernard) - 一个多后端的抽象库
 - [php-resque](https://github.com/chrisboulton/php-resque) - 基于redis的消息队列
-
+- [php-amqplib](https://github.com/php-amqplib/php-amqplib) - 一个RabbitMQ客户端库
+- [kafka-php](https://github.com/weiboad/kafka-php) - 一个kafka客户端库(Composer)
+- [php-rdkafka](https://github.com/arnaud-lb/php-rdkafka) - 一个kafka客户端库(PECL)
 
 ## 搜索( Search )
 >在数据中建立索引和执行查询相关的库和软件
