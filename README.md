@@ -206,6 +206,7 @@
 - [Twittee](https://github.com/fabpot/twittee)
 - [simple di container](https://github.com/laracasts/simple-di-container)
 - [Ding](https://github.com/marcelog/Ding)
+- [di](https://github.com/yiisoft/di) - Yii DI container and injector
 
 ## 图像( Imagery )
 >处理图像的库
