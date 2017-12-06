@@ -354,6 +354,7 @@
 - [Tracy](https://github.com/nette/tracy) - 一个简单的错误检测、日志和时间测量库
 - [Z-Ray](http://www.zend.com/en/products/server/z-ray) - 一个调试和性能分析的工具
 - [xHprof](https://github.com/phacility/xhprof) - Facebook开源的PHP性能评测工具
+    - [xhprof](https://github.com/longxinH/xhprof) - 基于官方版本fork的社区版本(支持PHP7)
     - [xhprof.io](https://github.com/EvaEngine/xhprof.io) - 实现保存xhprof数据以及展示数据的UI
     - [xhgui](https://github.com/perftools/xhgui) - 另一个保存xhprof数据以及展示数据的UI
 - [Blackfire.io](http://blackfire.io) - 一个低开销的代码探查器
