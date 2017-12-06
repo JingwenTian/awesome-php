@@ -497,6 +497,9 @@
     - [php-mongo](https://github.com/sokil/php-mongo) - PHP ODM for MongoDB
 - Redis
     - [Predis](https://github.com/nrk/predis) - 一个功能完全的Redis库
+    - [codis](https://github.com/CodisLabs/codis) - Codis 是一个分布式 Redis 解决方案
+    - [twemproxy](https://github.com/twitter/twemproxy) - 是twtter开源的一个redis和memcache代理服务器
+    - [pika](https://github.com/Qihoo360/pika) - Pika是一个可持久化的大容量redis存储服务
 
 ## 队列( Queue )
 >处理事件和任务队列的库
