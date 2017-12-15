@@ -727,6 +727,7 @@
 - [mailgun-php](https://github.com/mailgun/mailgun-php) - Mailgun's Official SDK for PHP
 - [wechat](https://github.com/overtrue/wechat) - 让微信开发更简单
 - [Qiniu/sdk](https://github.com/qiniu/php-sdk) - Qiniu Resource Storage SDK for PHP
+- [Qiniu/qshell](https://github.com/qiniu/qshell) - qshell是利用七牛文档上公开的API实现的一个方便开发者测试和使用七牛API服务的命令行工具。
 - [Wafer](https://github.com/tencentyun/wafer) - 快速构建具备弹性能力的微信小程序
 - [GeoIP2-php](https://github.com/maxmind/GeoIP2-php) - MaxMind GeoIP2 地理位置服务
 
