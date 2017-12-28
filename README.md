@@ -507,6 +507,10 @@
 >处理事件和任务队列的库
 
 - [enqueue-dev](https://github.com/php-enqueue/enqueue-dev) - Message queue packages for PHP, Symfony, Laravel, Magento
+    - [enqueue/rdkafka](https://github.com/php-enqueue/rdkafka)
+    - [enqueue/enqueue](https://github.com/php-enqueue/enqueue)
+    - [enqueue/pheanstalk](https://github.com/php-enqueue/pheanstalk)
+    - [enqueue/redis](https://github.com/php-enqueue/redis)
 
 **队列服务框架**
 
