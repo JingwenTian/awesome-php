@@ -496,6 +496,7 @@
     - [Monga](https://github.com/thephpleague/monga) - 一个MongoDB的抽象库
     - [mongodm](https://github.com/purekid/mongodm) - MongoDB ORM
     - [php-mongo](https://github.com/sokil/php-mongo) - PHP ODM for MongoDB
+    - [laravel-mongodb](https://github.com/jenssegers/laravel-mongodb)
 - Redis
     - [Predis](https://github.com/nrk/predis) - 一个功能完全的Redis库
     - [codis](https://github.com/CodisLabs/codis) - Codis 是一个分布式 Redis 解决方案
