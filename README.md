@@ -803,6 +803,7 @@
 >提供PHP应用程序和服务的基础设施
 
 - [appserver.io](http://appserver.io/) - 基于PHP的多线程应用程序服务器
+- [php-pm](https://github.com/php-pm/php-pm) - 进程管理器,增压器和PHP应用程序的负载平衡器
 
 ## 数据库中间件( DB Proxy )
 > 用于读写分离、分库分表等
