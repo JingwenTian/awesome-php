@@ -273,6 +273,7 @@
 - [APIGen](https://github.com/apigen/apigen) - 另一个API文档生成器
 - [PHP Documentor 2](https://github.com/phpDocumentor/phpDocumentor2) - 文档生成器
 - [phpDox](http://phpdox.de/) - 一个PHP项目的文档生成器（不仅仅是API文档）
+- [swagger-php](https://github.com/zircote/swagger-php) - A php swagger annotation and parsing library 
 
 ## 安全( Security )
 >用于生成安全的随机数、加密数据、扫描漏洞, 令牌的库
