@@ -441,12 +441,13 @@
 >用于支付和构建在线电子商务商店的库和应用
 
 - [OmniPay](https://github.com/thephpleague/omnipay) - 一个多网关支付处理的框架
-    - [omnipay-paypal](https://github.com/thephpleague/omnipay-paypal) - PayPal 支付
-    - [omnipay-wechatpay](https://github.com/lokielse/omnipay-wechatpay) - 微信支付
-    - [omnipay-unionpay](https://github.com/lokielse/omnipay-unionpay) - 银联支付
-    - [omnipay-alipay](https://github.com/lokielse/omnipay-alipay) - 支付宝支付
-    - [omnipay-pingpp](https://github.com/phoenixg/omnipay-pingpp) - ping++聚合支付
 
+    - [omnipay-paypal](https://github.com/thephpleague/omnipay-paypal) - PayPal 支付
+    - [omnipay-wechatpay](https://github.com/lokielse/omnipay-wechatpay) - 微信支付
+    - [omnipay-unionpay](https://github.com/lokielse/omnipay-unionpay) - 银联支付
+    - [omnipay-alipay](https://github.com/lokielse/omnipay-alipay) - 支付宝支付
+    - [omnipay-pingpp](https://github.com/phoenixg/omnipay-pingpp) - ping++聚合支付
+    
 - [Payum](https://github.com/payum/payum) - 一个用于支付的抽象库
 - [Sylius](http://www.sylius.org/) - 一个开源的电子商务解决方案
 - [Thelia](http://thelia.net/v2/) - 另一个开源的电子商务解决方案
@@ -745,6 +746,7 @@
 - [Qiniu/qshell](https://github.com/qiniu/qshell) - qshell是利用七牛文档上公开的API实现的一个方便开发者测试和使用七牛API服务的命令行工具。
 - [Wafer](https://github.com/tencentyun/wafer) - 快速构建具备弹性能力的微信小程序
 - [GeoIP2-php](https://github.com/maxmind/GeoIP2-php) - MaxMind GeoIP2 地理位置服务
+- [pingpp-php](https://github.com/PingPlusPlus/pingpp-php) - ping++聚合支付SDK
 
 ## 扩展( Extensions )
 >帮助构建PHP扩展的库
