@@ -364,6 +364,7 @@
 - [phptrace](https://github.com/Qihoo360/phptrace) - 360开源的PHP执行跟踪工具
 - [php-apm](https://github.com/patrickallaert/php-apm) - Application performance management for PHP application
 - [BooBoo](https://github.com/thephpleague/booboo) - 集中异常捕获
+- [Collision](https://github.com/nunomaduro/collision) - 命令行PHP应用程序的错误处理程序框架
 
 
 ## 构建工具( Build Tools )
