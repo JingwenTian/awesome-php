@@ -857,6 +857,7 @@
 - [ReactPHP](https://github.com/reactphp/react)
 - [Amp](https://github.com/amphp/amp) - A non-blocking concurrency framework for PHP applications. 
 - [async](https://github.com/spatie/async) - Easily run code asynchronously
+- [kraken-php](https://github.com/kraken-php/framework/) - Asynchronous & Fault-tolerant PHP Framework for Distributed Applications.
 
 ## 规则引擎( Rules Engine )
 
