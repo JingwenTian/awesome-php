@@ -328,6 +328,9 @@
 - [PhpDependencyAnalysis](https://github.com/mamuz/PhpDependencyAnalysis) - 一个创建可定制型依赖关系图表的工具
 - [Code Climate](http://codeclimate.com/) - 自动化的code review
 - [PHP Error](https://github.com/JosephLenton/PHP-Error) - 用于转换标准的 PHP 错误信息，主要用于开发过程中的调试
+- [psalm](https://github.com/vimeo/psalm) - 一个帮助你识别代码里可能存在 bugs 的静态分析工具
+- [phan](https://github.com/phan/phan) - 代码静态分析工具
+- [phpstan](https://github.com/phpstan/phpstan) - 代码静态分析工具
 
 ## 结构( Architectural )
 >有关于设计模式,编程规范以及代码组织方式的库
