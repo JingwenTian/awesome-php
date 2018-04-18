@@ -499,6 +499,7 @@
 - [Cake ORM](https://github.com/cakephp/orm) - 对象关系映射器, 实现了使用数据映射模式(CP)
 - [Medoo](http://medoo.in/) - 一个轻量级的加速开发的ORM
 - [Aura SQL](https://github.com/auraphp/Aura.Sql) - SQL database access through PDO.
+- [EasyDB](https://github.com/paragonie/easydb) - 数据库抽象层
 
 ## 迁移( Migrations )
 >用于管理数据库模式和迁移的库
