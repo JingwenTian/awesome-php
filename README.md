@@ -23,7 +23,13 @@
     - [PHP School](http://www.phpschool.io/) - 一个开源的PHP学习资源
     - [PHPTrends](http://phptrends.com/) - 一些快速发展的PHP类库检索
     - [PHP 开发者实践](https://ryancao.gitbooks.io/php-developer-prepares/content/)
-    
+
+- **推荐文章(Recommended Article)**
+
+    - [The 2018 Guide to Building Secure PHP Software](https://paragonie.com/blog/2017/12/2018-guide-building-secure-php-software)
+        - 中文翻译: [2018 PHP 应用程序安全设计指北](https://laravel-china.org/articles/7235/2018-php-application-security-design)
+
+
 - **其他网站(Other Websites)**
 
     - [The Open Web Application Security Project (OWASP)](https://www.owasp.org/index.php/Main_Page) - 一个开源软件安全社区
