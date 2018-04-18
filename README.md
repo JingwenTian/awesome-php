@@ -617,6 +617,7 @@
     - [jose](https://github.com/namshi/jose) - JSON签名和加密的库
     - [slim-jwt-auth](https://github.com/tuupola/slim-jwt-auth)
     - [jwt-auth](https://github.com/tymondesigns/jwt-auth)
+- [Sapient](https://github.com/paragonie/sapient) - the Secure API ENgineering Toolkit API消息传递安全校验
 
 ## 标记( Markup )
 >处理标记的库
