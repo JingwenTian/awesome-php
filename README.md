@@ -458,7 +458,7 @@
     - [omnipay-unionpay](https://github.com/lokielse/omnipay-unionpay) - 银联支付
     - [omnipay-alipay](https://github.com/lokielse/omnipay-alipay) - 支付宝支付
     - [omnipay-pingpp](https://github.com/phoenixg/omnipay-pingpp) - ping++聚合支付
-    - [omnipay-99bill](https://github.com/zacksleo/omnipay-99bill) - 快钱支付
+    - [omnipay-99bill](https://github.com/zacksleo/omnipay-99bill) - 快钱支付
     
 - [Payum](https://github.com/payum/payum) - 一个用于支付的抽象库
 - [Sylius](http://www.sylius.org/) - 一个开源的电子商务解决方案
