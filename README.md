@@ -15,8 +15,8 @@
 
     - [PHP The Right Way](http://www.phptherightway.com/) - 一个PHP实践的快速参考指导
     - [PHP Best Practices](https://phpbestpractices.org/) - 一个PHP最佳实践
-    - [Clean Code PHP](https://github.com/jupeter/clean-code-php) - 一个PHP 编码标准
-    - [PHP Weekly News](http://www.phpweekly.com/archive.html) - 一个PHP 周刊
+    - [Clean Code PHP](https://github.com/jupeter/clean-code-php) - 一个PHP 编码标准
+    - [PHP Weekly News](http://www.phpweekly.com/archive.html) - 一个PHP 周刊
     - [Securing PHP](http://securingphp.com/) - 有关PHP安全相关
     - [PHP FIG](http://www.php-fig.org/) - PHP框架交互小组
         - [PSR 中文翻译](https://psr.phphub.org)
