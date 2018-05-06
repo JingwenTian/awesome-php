@@ -50,6 +50,8 @@
 - **其他书籍(Other Books)**
 
     - [The Linux Command Line](http://linuxcommand.org/) - Linux 命令行教程
+    - [architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product) - 互联网公司技术架构
+    - [architect-awesome](https://github.com/xingshaocheng/architect-awesome) - 后端架构师技术图谱
 
 ---
 
