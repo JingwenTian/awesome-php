@@ -622,6 +622,7 @@
     - [slim-jwt-auth](https://github.com/tuupola/slim-jwt-auth)
     - [jwt-auth](https://github.com/tymondesigns/jwt-auth)
 - [Sapient](https://github.com/paragonie/sapient) - the Secure API ENgineering Toolkit API消息传递安全校验
+- [legalthings/sso](https://github.com/legalthings/sso) - Simple Single Sign-On for PHP
 
 ## 标记( Markup )
 >处理标记的库
