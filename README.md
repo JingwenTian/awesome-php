@@ -799,7 +799,9 @@
 - [Protobox](http://getprotobox.com/) - 另一个用于构建PHP开发虚拟机工具
 - [Phansible](http://phansible.com/) - 另一个用于构建PHP开发虚拟机工具
 - [centstead](https://github.com/jason-chang/centstead) - Laravel local development environment base on vagrant  and homestead
-- [Laravel Homestead](https://github.com/laravel/homestead)
+- [Devilbox](https://github.com/cytopia/devilbox) - A modern dockerized LAMP and MEAN stack alternative to XAMPP
+- [Homestead](https://github.com/laravel/homestead) - 基于 Vagrant 的 PHP 开发环境
+- [Laradock](https://github.com/laradock/laradock) - 基于 Docker 的 PHP 开发环境
 
 ## 虚拟机(Virtual Machines)
 >替代的PHP虚拟机
