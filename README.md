@@ -572,6 +572,7 @@
 >构建命令行工具的库
 
 - [symfony/console](https://github.com/symfony/console) - Symfony命令行工作组件
+- [symfony/process](https://github.com/symfony/process) - Symfony命令执行组件
 - [Boris](https://github.com/d11wtq/boris) - 一个微型的PHP REPL
 - [PsySH](https://github.com/bobthecow/psysh) - 另一个PHP REPL
 - [Pecan](https://github.com/mcrumm/pecan) - 一个事件驱动，非阻塞的shell
