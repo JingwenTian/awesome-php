@@ -728,6 +728,7 @@
 - [Totem](http://github.com/Wisembly/Totem) - 一个管理和创建数据修改集的库
 - [PINQ](https://github.com/TimeToogo/Pinq) - PHP实时Linq库
 - [JsonMapper](https://github.com/netresearch/jsonmapper) - 一个将内嵌JSON结构映射到PHP类上的库
+- [php-jsonq](https://github.com/nahid/jsonq) - A PHP query builder for JSON
 
 ## 通知( Notifications )
 >关于通知的库
