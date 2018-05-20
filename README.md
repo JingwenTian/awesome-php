@@ -710,6 +710,7 @@
 - [Stash](https://github.com/tedivm/Stash) - 另一个缓存库
 - [CacheTool](https://github.com/gordalina/cachetool) - 一个清除APC/opcode缓存的命令行工具
 - [PhpFastCache](https://github.com/khoaofgod/phpfastcache) - PHP 缓存库 
+- [desarrolla2/Cache](https://github.com/desarrolla2/Cache) - 一个提供多种Adapter的缓存库
 
 ## 数据结构和存储( Data Structure and Storage )
 >实现数据结构和存储技术的库
