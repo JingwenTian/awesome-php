@@ -780,20 +780,21 @@
 >帮助安装和管理PHP
 
 - [HomeBrew](http://brew.sh/) - 一个OSX的包管理工具
-- [HomeBrew PHP ](https://github.com/Homebrew/homebrew-php) - HomeBrew中PHP的安装包
-- [PHP OSX ](http://php-osx.liip.ch/) - 一个OSX中的PHP安装器
-- [PHP Brew ](https://github.com/phpbrew/phpbrew) - 一个PHP版本管理工具和安装器
+- [HomeBrew PHP](https://github.com/Homebrew/homebrew-php) - HomeBrew中PHP的安装包
+- [PHP OSX](http://php-osx.liip.ch/) - 一个OSX中的PHP安装器
+- [PHP Brew](https://github.com/phpbrew/phpbrew) - 一个PHP版本管理工具和安装器
 - [PHP Env](https://github.com/CHH/phpenv) - 另一个PHP版本工具
-- [PHP Switch ](https://github.com/jubianchi/phpswitch) - 另一个PHP版本工具
-- [PHP Build ](https://github.com/php-build/php-build) - 另一个PHP版本工具
-- [VirtPHP ](http://virtphp.org/) - 一个创建和管理分离的PHP环境的工具
+- [PHP Switch](https://github.com/jubianchi/phpswitch) - 另一个PHP版本工具
+- [PHP Build](https://github.com/php-build/php-build) - 另一个PHP版本工具
+- [VirtPHP](http://virtphp.org/) - 一个创建和管理分离的PHP环境的工具
 
 
 ## 开发环境(Development Environment)
 >创建沙箱开发环境的软件和工具
 
+- [Docker](https://www.docker.com/) - 一个开源的应用容器引擎
 - [Vagrant](https://www.vagrantup.com/) - 一个轻便的创建开发环境的工具
-- [Ansible ](https://www.ansible.com/) - 一个简单的业务流程框架
+- [Ansible](https://www.ansible.com/) - 一个简单的业务流程框架
 - [Puppet](https://puppetlabs.com/) - 服务器自动化框架和应用
 - [PuPHPet](https://puphpet.com/) - 一个用于构建PHP开发虚拟机工具
 - [Protobox](http://getprotobox.com/) - 另一个用于构建PHP开发虚拟机工具
@@ -806,7 +807,7 @@
 ## 虚拟机(Virtual Machines)
 >替代的PHP虚拟机
 
-- [HHVM ](https://github.com/facebook/hhvm) - Facebook 开源的PHP虚拟机
+- [HHVM](https://github.com/facebook/hhvm) - Facebook 开源的PHP虚拟机
 - [HippyVM](http://hippyvm.com/) - 另一个PHP虚拟机
 
 ## 开发工具(Integrated Development Environment)
@@ -838,6 +839,8 @@
 
 - [appserver.io](http://appserver.io/) - 基于PHP的多线程应用程序服务器
 - [php-pm](https://github.com/php-pm/php-pm) - 进程管理器,增压器和PHP应用程序的负载平衡器
+- [laravel-swoole](https://github.com/swooletw/laravel-swoole) - 基于 swoole 的高性能HTTP Server
+- [laravel-s](https://github.com/hhxsv5/laravel-s) - 另一个基于 swoole 的高性能HTTP Server
 
 ## 数据库中间件( DB Proxy )
 > 用于读写分离、分库分表等
