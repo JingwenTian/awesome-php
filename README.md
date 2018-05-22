@@ -480,6 +480,8 @@
 - [Snappy](https://github.com/KnpLabs/snappy) - 一个PDF和图像的生成库
 - [WKHTMLToPDF](https://github.com/antialize/wkhtmltopdf) - 一个将HTML转换为PDF的工具
 - [PHPPdf](https://github.com/psliwa/PHPPdf) - 一个将XML转化为PDF和图片的库
+- [phpwkhtmltopdf](https://github.com/mikehaertl/phpwkhtmltopdf)
+- [php-pdftk](https://github.com/mikehaertl/php-pdftk) - A PDF conversion and form utility based on pdftk
 
 ## Office
 >Office套装的各种文档的处理库
