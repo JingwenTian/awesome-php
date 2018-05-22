@@ -669,6 +669,7 @@
 - [LibPhoneNumber for PHP](https://github.com/giggsey/libphonenumber-for-php) -  PHP实现的Google电话号码处理系统库
 - [hashids.php](https://github.com/ivanakimov/hashids.php) - 用来把整数生成唯一字符串（比如：通过加密解密id来隐藏真实id)
 - [Particle](https://github.com/sschiau/Particle) - PHP ID Generator | Implementation of Twitter Snowflake ID Generator
+- [random_compat](https://github.com/paragonie/random_compat) - PHP5.x生成安全的随机数的库(PHP7可用内置`random_bytes()`和`random_int()`函数)
 
 ## 过滤和验证( Filtering ang Validation )
 >用于过滤和验证数据的库
