@@ -594,6 +594,7 @@
 - [CLImate](https://github.com/thephpleague/climate) - 构建命令行工具的框架(可以输出颜色和特殊格式)
 - [Webmozart Console](github.com/webmozart/console)
 - [Silly](https://github.com/mnapoli/silly) - Silly CLI micro-framework based on Symfony Console
+- [php-shellcommand](https://github.com/mikehaertl/php-shellcommand) - A simple object oriented interface to execute shell commands in PHP
 
 ## 定时任务( Crontab )
 >定时任务管理 crontab在 PHP 中的相关封装
