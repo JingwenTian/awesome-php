@@ -303,7 +303,7 @@
 - [xxtea-php](https://github.com/xxtea/xxtea-php) - XXTEA encryption algorithm library for PHP.
 
 ## 密码( Passwords )
->处理和存储密码的库和工具
+>处理和存储密码的库和工具、各种编码的库
 
 - [Password Compat](https://github.com/ircmaxell/password_compat) - 一个用于新的PHP5.5密码功能的兼容库
 - [phpass](http://www.openwall.com/phpass/) - 一个便携式密码哈希框架
@@ -312,6 +312,9 @@
 - [Password Validator](https://github.com/jeremykendall/password-validator) - 验证和升级密码哈希的库
 - [Zxcvbn PHP](https://github.com/bjeavons/zxcvbn-php) - 一个基于Zxcvbn JS的PHP显示密码强度估计库
 - [GenPhrase](https://github.com/timoh6/GenPhrase) - 一个生成安全随机口令的库
+- [base62](https://github.com/tuupola/base62) - base62编码库(短网址应用)
+- [base58php](https://github.com/stephen-hill/base58php) - base58编码库(Bitcoin中使用的一种独特的编码方式，主要用于产生Bitcoin的钱包地址)
+- [base85](https://github.com/tuupola/base85) - base85编码库(在base64的基础上进一步压缩数据量,应用于Adobe的PostScript语言和PDF文档格式)
 
 ## 代码分析( Code Analysis )
 >用于分析、解析和操作代码库的工具
