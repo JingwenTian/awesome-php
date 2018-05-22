@@ -288,6 +288,7 @@
 >用于生成安全的随机数、加密数据、扫描漏洞, 令牌的库
 
 - [HTML Purifier](https://github.com/ezyang/htmlpurifier) - 一个标准的HTML过滤器
+- [random_compat](https://github.com/paragonie/random_compat) - PHP5.x生成安全的随机数的库(PHP7可用内置`random_bytes()`和`random_int()`函数)
 - [RandomLib](https://github.com/ircmaxell/RandomLib) - 生成随机数和随机字符串的库
 - [True Random](https://github.com/pixeloution/true-random) - 使用www.random.org生成随机数的库
 - [SecurityMultiTool](https://github.com/padraic/SecurityMultiTool) - 一个PHP安全库
@@ -669,7 +670,6 @@
 - [LibPhoneNumber for PHP](https://github.com/giggsey/libphonenumber-for-php) -  PHP实现的Google电话号码处理系统库
 - [hashids.php](https://github.com/ivanakimov/hashids.php) - 用来把整数生成唯一字符串（比如：通过加密解密id来隐藏真实id)
 - [Particle](https://github.com/sschiau/Particle) - PHP ID Generator | Implementation of Twitter Snowflake ID Generator
-- [random_compat](https://github.com/paragonie/random_compat) - PHP5.x生成安全的随机数的库(PHP7可用内置`random_bytes()`和`random_int()`函数)
 
 ## 过滤和验证( Filtering ang Validation )
 >用于过滤和验证数据的库
