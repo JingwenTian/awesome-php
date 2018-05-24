@@ -155,6 +155,7 @@
 - [PHP VCR](http://php-vcr.github.io/) - 一个录制和回放HTTP请求的库
 - [php-curl-class](https://github.com/php-curl-class/php-curl-class) - PHP的Curl类
 - [Beanbun](https://github.com/kiddyuchina/Beanbun) - 多进程网络爬虫框架
+- [php-mod/curl](https://github.com/php-mod/curl) - PHP Curl Class
 
 ## SOAP
 
