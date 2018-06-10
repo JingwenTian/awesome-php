@@ -330,9 +330,9 @@
 - [Dissect](https://github.com/jakubledl/dissect) - 词法和语法分析的工具集合
 - [PHP Mess Detector](http://phpmd.org/) - 一个扫描代码bug、次佳代码和未使用参数的库
 - [PHP Code Sniffer](https://github.com/squizlabs/PHP_CodeSniffer) - 一个检测PHP、CSS和JS代码标准冲突的库
+- [PHP CS Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) - 一个代码标准库
 - [PHPCPD](https://github.com/sebastianbergmann/phpcpd) - 一个检测复制和粘贴代码的库
 - [PHP Analyser](https://github.com/scrutinizer-ci/php-analyzer) - 一个分析PHP代码中错误的库
-- [PHP CS Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) - 一个代码标准库
 - [PHP Manipulator](https://github.com/schmittjoh/php-manipulator) - 用于分析和修改PHP源代码的库
 - [PHP Metrics](https://github.com/Halleck45/PhpMetrics) - 一个静态测量库
 - [PHP Refactoring Browser](https://github.com/QafooLabs/php-refactoring-browser) - 一个用于重构PHP代码的命令行工具
