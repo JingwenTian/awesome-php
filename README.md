@@ -187,8 +187,10 @@
 - [Email Validator](https://github.com/nojacko/email-validator) - 一个小巧的邮箱验证库
 
 ## 文件操作( Files )
+
 >关于文件处理和MIME类型检查
 
+- [symfony/finder](https://github.com/symfony/finder) - 通过一个直观而流畅的接口来寻找文件和目录
 - [Gaufrette](https://github.com/KnpLabs/Gaufrette) - 一个文件流的抽象层
 - [Flysystem](https://github.com/FrenkyNet/Flysystem) - 另一个文件流的抽象层
 - [Canal](https://github.com/dflydev/dflydev-canal) - 一个检查互联网媒体类型的库
