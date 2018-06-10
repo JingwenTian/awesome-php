@@ -598,6 +598,7 @@
 - [Webmozart Console](github.com/webmozart/console)
 - [Silly](https://github.com/mnapoli/silly) - Silly CLI micro-framework based on Symfony Console
 - [php-shellcommand](https://github.com/mikehaertl/php-shellcommand) - A simple object oriented interface to execute shell commands in PHP
+- [PHP-Console-Highlighter](https://github.com/JakubOnderka/PHP-Console-Highlighter) - 命令行下高亮显示 PHP 代码
 
 ## 定时任务( Crontab )
 >定时任务管理 crontab在 PHP 中的相关封装
