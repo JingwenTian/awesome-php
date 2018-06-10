@@ -346,6 +346,7 @@
 - [psalm](https://github.com/vimeo/psalm) - 一个帮助你识别代码里可能存在 bugs 的静态分析工具
 - [phan](https://github.com/phan/phan) - 代码静态分析工具
 - [phpstan](https://github.com/phpstan/phpstan) - 代码静态分析工具
+- [PHPLint](https://github.com/overtrue/phplint) - 用于PHP文件语法检测(支持多进程,基于 `php -l`)
 
 ## 结构( Architectural )
 >有关于设计模式,编程规范以及代码组织方式的库
@@ -580,7 +581,7 @@
 >构建命令行工具的库
 
 - [symfony/console](https://github.com/symfony/console) - Symfony命令行工作组件
-- [symfony/process](https://github.com/symfony/process) - Symfony命令执行组件
+- [symfony/process](https://github.com/symfony/process) - Symfony命令执行组件(用于执行系统命令)
 - [Boris](https://github.com/d11wtq/boris) - 一个微型的PHP REPL
 - [PsySH](https://github.com/bobthecow/psysh) - 另一个PHP REPL
 - [Pecan](https://github.com/mcrumm/pecan) - 一个事件驱动，非阻塞的shell
