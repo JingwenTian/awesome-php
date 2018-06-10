@@ -97,6 +97,7 @@
 - [config](https://github.com/hassankhan/config) - 一个轻量级的配置加载器, 支持 PHP, INI, XML, JSON, YAML files
 - [Zend-config](https://github.com/zendframework/zend-config)
 - [phpdotenv](https://github.com/vlucas/phpdotenv) - 读取.env中全局的最高优先级变量
+- [symfony/yaml](https://github.com/symfony/yaml) - 加载和剥离YAML配置文件
 
 ## 微框架( Micro Frameworks )
 >微型框架和路由
