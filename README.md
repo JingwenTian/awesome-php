@@ -718,6 +718,7 @@
 ## 缓存( Caching )
 >缓存数据的库
 
+- [symfony/cache](https://github.com/symfony/cache) - Symfony遵循 [PSR-6](https://www.php-fig.org/psr/psr-6/)实现的缓存组件
 - [Alternative PHP Cache (APC)](http://www.php.net/manual/en/book.apc.php) - PHP的开源操作码缓存
 - [Doctrine Cache](https://github.com/doctrine/cache) - 一个缓存库.
 - [Zend Cache](https://github.com/zendframework/zend-cache) - 另一个缓存库
