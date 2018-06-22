@@ -97,6 +97,7 @@
 - [config](https://github.com/hassankhan/config) - 一个轻量级的配置加载器, 支持 PHP, INI, XML, JSON, YAML files
 - [Zend-config](https://github.com/zendframework/zend-config)
 - [phpdotenv](https://github.com/vlucas/phpdotenv) - 读取.env中全局的最高优先级变量
+- [symfony/yaml](https://github.com/symfony/yaml) - 加载和剥离YAML配置文件
 
 ## 微框架( Micro Frameworks )
 >微型框架和路由
@@ -187,8 +188,10 @@
 - [Email Validator](https://github.com/nojacko/email-validator) - 一个小巧的邮箱验证库
 
 ## 文件操作( Files )
+
 >关于文件处理和MIME类型检查
 
+- [symfony/finder](https://github.com/symfony/finder) - 通过一个直观而流畅的接口来寻找文件和目录
 - [Gaufrette](https://github.com/KnpLabs/Gaufrette) - 一个文件流的抽象层
 - [Flysystem](https://github.com/FrenkyNet/Flysystem) - 另一个文件流的抽象层
 - [Canal](https://github.com/dflydev/dflydev-canal) - 一个检查互联网媒体类型的库
@@ -326,10 +329,11 @@
 - [PHPSandbox](https://github.com/fieryprophet/php-sandbox) - PHP的沙盒环境
 - [Dissect](https://github.com/jakubledl/dissect) - 词法和语法分析的工具集合
 - [PHP Mess Detector](http://phpmd.org/) - 一个扫描代码bug、次佳代码和未使用参数的库
-- [PHP Code Sniffer](https://github.com/squizlabs/PHP_CodeSniffer) - 一个检测PHP、CSS和JS代码标准冲突的库
+- [PHP Code Sniffer](https://github.com/squizlabs/PHP_CodeSniffer) - 一个PHP/CSS/JS代码规范与质量检查工具
+- [PHP CS Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) - 一个PHP代码规范与质量检查工具
+- [phpmd](https://github.com/phpmd/phpmd) - 一个PHP代码规范与质量检查工具
 - [PHPCPD](https://github.com/sebastianbergmann/phpcpd) - 一个检测复制和粘贴代码的库
 - [PHP Analyser](https://github.com/scrutinizer-ci/php-analyzer) - 一个分析PHP代码中错误的库
-- [PHP CS Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) - 一个代码标准库
 - [PHP Manipulator](https://github.com/schmittjoh/php-manipulator) - 用于分析和修改PHP源代码的库
 - [PHP Metrics](https://github.com/Halleck45/PhpMetrics) - 一个静态测量库
 - [PHP Refactoring Browser](https://github.com/QafooLabs/php-refactoring-browser) - 一个用于重构PHP代码的命令行工具
@@ -346,6 +350,7 @@
 - [psalm](https://github.com/vimeo/psalm) - 一个帮助你识别代码里可能存在 bugs 的静态分析工具
 - [phan](https://github.com/phan/phan) - 代码静态分析工具
 - [phpstan](https://github.com/phpstan/phpstan) - 代码静态分析工具
+- [PHPLint](https://github.com/overtrue/phplint) - 用于PHP文件语法检测(支持多进程,基于 `php -l`)
 
 ## 结构( Architectural )
 >有关于设计模式,编程规范以及代码组织方式的库
@@ -580,7 +585,7 @@
 >构建命令行工具的库
 
 - [symfony/console](https://github.com/symfony/console) - Symfony命令行工作组件
-- [symfony/process](https://github.com/symfony/process) - Symfony命令执行组件
+- [symfony/process](https://github.com/symfony/process) - Symfony命令执行组件(用于执行系统命令)
 - [Boris](https://github.com/d11wtq/boris) - 一个微型的PHP REPL
 - [PsySH](https://github.com/bobthecow/psysh) - 另一个PHP REPL
 - [Pecan](https://github.com/mcrumm/pecan) - 一个事件驱动，非阻塞的shell
@@ -597,6 +602,7 @@
 - [Webmozart Console](github.com/webmozart/console)
 - [Silly](https://github.com/mnapoli/silly) - Silly CLI micro-framework based on Symfony Console
 - [php-shellcommand](https://github.com/mikehaertl/php-shellcommand) - A simple object oriented interface to execute shell commands in PHP
+- [PHP-Console-Highlighter](https://github.com/JakubOnderka/PHP-Console-Highlighter) - 命令行下高亮显示 PHP 代码
 
 ## 定时任务( Crontab )
 >定时任务管理 crontab在 PHP 中的相关封装
@@ -713,6 +719,7 @@
 ## 缓存( Caching )
 >缓存数据的库
 
+- [symfony/cache](https://github.com/symfony/cache) - Symfony遵循 [PSR-6](https://www.php-fig.org/psr/psr-6/)实现的缓存组件
 - [Alternative PHP Cache (APC)](http://www.php.net/manual/en/book.apc.php) - PHP的开源操作码缓存
 - [Doctrine Cache](https://github.com/doctrine/cache) - 一个缓存库.
 - [Zend Cache](https://github.com/zendframework/zend-cache) - 另一个缓存库
