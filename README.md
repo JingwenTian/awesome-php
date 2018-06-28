@@ -923,6 +923,6 @@
 - [copywriting-correct](https://github.com/ricoa/copywriting-correct) - 中英文文案排版纠正器
 - [PHP-ML](https://github.com/php-ai/php-ml) - PHP 机器学习库
 - [BotMan](https://github.com/botman/botman) - 聊天机器人库
-
+- [form-builder](https://github.com/xaboy/form-builder) - PHP表单生成器，快速生成现代化的form表单。
 
 
