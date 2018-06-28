@@ -480,6 +480,7 @@
 - [Money](https://github.com/mathiasverraes/money) -  PHP实现的Fowler金钱模式
 - [Sebastian Money](https://github.com/sebastianbergmann/money) - 一个处理货币价值的库
 - [Swap](https://github.com/florianv/swap) - 一个汇率库
+- [yansongda/pay](https://github.com/yansongda/pay) - 优雅的 Alipay 和 WeChat 的支付 SDK 扩展包
 
 ## PDF
 >处理PDF文件的库和软件
