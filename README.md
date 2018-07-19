@@ -39,7 +39,7 @@
     - [Atlassian Git Tutorials](https://www.atlassian.com/git/) - 一系列的Git教程
     - [Servers for Hackers ](https://serversforhackers.com/) - 有关服务器运维相关
     - [be-a-professional-programmer](https://github.com/stanzhai/be-a-professional-programmer) - 成为专业程序员路上用到的各种优秀资料、神器及框架
-
+    
 - **PHP书籍(PHP Books)**
 
     - [Modern PHP](http://shop.oreilly.com/product/0636920033868.do) - 作者是[PHP 之道](http://www.phptherightway.com/)的发起人和[Slim框架](http://www.slimframework.com/)的作者
@@ -47,7 +47,8 @@
     - [PHP Pandas](http://daylerees.com/php-pandas/) 
     - [ppts_for_php2017](https://github.com/devlinkcn/ppts_for_php2017) - 2017 第三届PHP全球开发者大会PPT/Keynote
     - [PHP-Data-Structure-and-Algorithms](https://github.com/mirahman/PHP-Data-Structure-and-Algorithms)
-
+    - [DesignPatternsPHP](https://github.com/domnikl/DesignPatternsPHP)-php设计模式
+      - [DesignPatternsPHP(中文版)](https://laravel-china.org/docs/php-design-patterns/2018)
 - **其他书籍(Other Books)**
 
     - [The Linux Command Line](http://linuxcommand.org/) - Linux 命令行教程
