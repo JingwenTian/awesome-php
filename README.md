@@ -834,6 +834,7 @@
 - [Netbeans](https://netbeans.org/)
 - [Eclipse for PHP Developers ](https://www.eclipse.org/downloads/)
 - [PhpStorm ](http://www.jetbrains.com/phpstorm/)
+- [Sublime Text ](http://www.sublimetext.com/)
 
 ## Web 应用程序(Web Applications)
 >基于Web的应用程序和工具
