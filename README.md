@@ -116,6 +116,7 @@
 - [Lumen](http://lumen.laravel.com/) - 基于Laravel的微型框架
 - [Proton](https://github.com/alexbilbie/Proton) - 一个微型PHP框架
 - [blink](https://github.com/bixuehujin/blink) - 一个为构建 “long running” 服务而生的 Web 微型高性能框架
+- [flight](https://github.com/mikecao/flight) - 一个可扩展的PHP微框架
 
 ## 路由( Routers )
 
@@ -765,6 +766,7 @@
 - [Plum](https://github.com/aerialls/Plum) - 一个部署库
 - [Deployer](https://github.com/deployphp/deployer) - 一个部署工具
 - [walle-web](https://github.com/meolu/walle-web) - 一个开源的web代码发布管理系统
+- [Piplin](https://github.com/Piplin/) - Piplin是一款免费、开源的持续集成与部署系统，适用于软件的自动化构建、测试和部署相关的各种应用场景。
 
 ## 国际化和本地化(Internationalisation and Localisation)
 >用于国际化(I18n)和本地化(L10n)的库
