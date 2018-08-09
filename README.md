@@ -390,6 +390,7 @@
 - [BooBoo](https://github.com/thephpleague/booboo) - 集中异常捕获
 - [Collision](https://github.com/nunomaduro/collision) - 命令行PHP应用程序的错误处理程序框架
 - [symfony/debug](https://github.com/symfony/debug) - PHP debug调试库
+- [Molten](https://github.com/chuan-yun/Molten) - 应用透明链路追踪工具(PHP扩展)
 
 
 ## 构建工具( Build Tools )
