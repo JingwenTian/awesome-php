@@ -158,6 +158,7 @@
 - [php-curl-class](https://github.com/php-curl-class/php-curl-class) - PHP的Curl类
 - [Beanbun](https://github.com/kiddyuchina/Beanbun) - 多进程网络爬虫框架
 - [php-mod/curl](https://github.com/php-mod/curl) - PHP Curl Class
+- [CORS](https://github.com/medz/cors) - PHP CORS (Cross-origin resource sharing) middleware.
 
 ## SOAP
 
