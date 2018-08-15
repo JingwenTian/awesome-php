@@ -468,18 +468,16 @@
 >用于支付和构建在线电子商务商店的库和应用
 
 - [OmniPay](https://github.com/thephpleague/omnipay) - 一个多网关支付处理的框架
-
     - [omnipay-paypal](https://github.com/thephpleague/omnipay-paypal) - PayPal 支付
     - [omnipay-wechatpay](https://github.com/lokielse/omnipay-wechatpay) - 微信支付
     - [omnipay-unionpay](https://github.com/lokielse/omnipay-unionpay) - 银联支付
     - [omnipay-alipay](https://github.com/lokielse/omnipay-alipay) - 支付宝支付
     - [omnipay-pingpp](https://github.com/phoenixg/omnipay-pingpp) - ping++聚合支付
-    - [omnipay-99bill](https://github.com/zacksleo/omnipay-99bill) - 快钱支付
-    
+    - [omnipay-99bill](https://github.com/zacksleo/omnipay-99bill) - 快钱支付   
 - [Payum](https://github.com/payum/payum) - 一个用于支付的抽象库
 - [Sylius](http://www.sylius.org/) - 一个开源的电子商务解决方案
 - [Thelia](http://thelia.net/v2/) - 另一个开源的电子商务解决方案
-- [Money](https://github.com/mathiasverraes/money) -  PHP实现的Fowler金钱模式
+- [Money](https://github.com/moneyphp/money) -  PHP实现的Fowler金钱模式
 - [Sebastian Money](https://github.com/sebastianbergmann/money) - 一个处理货币价值的库
 - [Swap](https://github.com/florianv/swap) - 一个汇率库
 - [yansongda/pay](https://github.com/yansongda/pay) - 优雅的 Alipay 和 WeChat 的支付 SDK 扩展包
@@ -687,7 +685,6 @@
 - [LibPhoneNumber for PHP](https://github.com/giggsey/libphonenumber-for-php) -  PHP实现的Google电话号码处理系统库
 - [hashids.php](https://github.com/ivanakimov/hashids.php) - 用来把整数生成唯一字符串（比如：通过加密解密id来隐藏真实id)
 - [Particle](https://github.com/sschiau/Particle) - PHP ID Generator | Implementation of Twitter Snowflake ID Generator
-- [moneyphp/money](https://github.com/moneyphp/money) - 金额处理类库
 
 ## 过滤和验证( Filtering ang Validation )
 >用于过滤和验证数据的库
