@@ -854,6 +854,7 @@
 - [Piwik](https://github.com/piwik/piwik) - 网页统计
 - [YOURLS](https://github.com/YOURLS/YOURLS) - 短网址生成系统
 - [Nextcloud server](https://github.com/nextcloud/server) - 开源私有云系统(a safe home for all your data)
+- [magento2](https://github.com/magento/magento2) - 开源的PHP电子商务系统
 
 ## 基础设施(Infrastructure)
 >提供PHP应用程序和服务的基础设施
