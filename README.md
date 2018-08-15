@@ -187,6 +187,7 @@
 - [Stampie](https://github.com/henrikbjorn/Stampie) - 关于邮件服务的库，比如SendGrid、PostMark、MailGun和Mandrill
 - [CssToInlineStyles](https://github.com/tijsverkoyen/CssToInlineStyles) - 邮件模板中一个内联的CSS库
 - [Email Validator](https://github.com/nojacko/email-validator) - 一个小巧的邮箱验证库
+- [EmailValidator](https://github.com/egulias/EmailValidator) - PHP Email validator library
 
 ## 文件操作( Files )
 
