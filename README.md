@@ -157,6 +157,7 @@
 - [PHP VCR](http://php-vcr.github.io/) - 一个录制和回放HTTP请求的库
 - [php-curl-class](https://github.com/php-curl-class/php-curl-class) - PHP的Curl类
 - [Beanbun](https://github.com/kiddyuchina/Beanbun) - 多进程网络爬虫框架
+- [PHPCrawl](http://phpcrawl.cuab.de/) - PHP的爬虫框架
 - [php-mod/curl](https://github.com/php-mod/curl) - PHP Curl Class
 - [CORS](https://github.com/medz/cors) - PHP CORS (Cross-origin resource sharing) middleware.
 
@@ -921,7 +922,6 @@
 - [Flexihash](https://github.com/pda/flexihash) - 一致性hash库
 - [Eden](https://github.com/Openovate/eden) - 一个PHP快速开发类库,它包含很多组件用来自动加载、事件驱动、文档系统、缓存、模板、国际化、数据库、web服务、支付网关、装载和云服务技术。
 - [html-parser](https://github.com/bupt1987/html-parser) - html解析工具
-- [PHPCrawl](http://phpcrawl.cuab.de/) - PHP的爬虫框架
 - [Tig](https://github.com/jonas/tig) - 命令行下的 Git 浏览器
 - [copywriting-correct](https://github.com/ricoa/copywriting-correct) - 中英文文案排版纠正器
 - [PHP-ML](https://github.com/php-ai/php-ml) - PHP 机器学习库
