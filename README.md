@@ -228,9 +228,9 @@
 ## 图像( Imagery )
 >处理图像的库
 
+- [Intervention/image](https://github.com/Intervention/image) - 图片操作库
 - [Imagine](http://imagine.readthedocs.org/en/latest/index.html) - 一个图像处理库
 - [PHP Image Workshop](https://github.com/Sybio/ImageWorkshop) - 另一个图像处理库
-- [Intervention Image](https://github.com/Intervention/image) - 同样还是一个图像处理库
 - [GIF Frame Extractor](https://github.com/Sybio/GifFrameExtractor) - 一个提取GIF动画帧信息的库
 - [GIF Creator](https://github.com/Sybio/GifCreator) - 从多幅图片中创建GIF动画的库
 - [Image With Text](https://github.com/nmcteam/image-with-text) - 在图像中嵌入文本的库
