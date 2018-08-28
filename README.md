@@ -333,7 +333,7 @@
 - [PHPSandbox](https://github.com/fieryprophet/php-sandbox) - PHP的沙盒环境
 - [Dissect](https://github.com/jakubledl/dissect) - 词法和语法分析的工具集合
 - [PHP Mess Detector](http://phpmd.org/) - 一个扫描代码bug、次佳代码和未使用参数的库
-- [PHP Code Sniffer](https://github.com/squizlabs/PHP_CodeSniffer) - 一个PHP/CSS/JS代码规范与质量检查工具
+- [PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) - 一个PHP/CSS/JS代码规范与质量检查工具
 - [PHP CS Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) - 一个PHP代码规范与质量检查工具
 - [phpmd](https://github.com/phpmd/phpmd) - 一个PHP代码规范与质量检查工具
 - [PHPCPD](https://github.com/sebastianbergmann/phpcpd) - 一个检测复制和粘贴代码的库
