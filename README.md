@@ -796,6 +796,7 @@
 - [Wafer](https://github.com/tencentyun/wafer) - 快速构建具备弹性能力的微信小程序
 - [GeoIP2-php](https://github.com/maxmind/GeoIP2-php) - MaxMind GeoIP2 地理位置服务
 - [pingpp-php](https://github.com/PingPlusPlus/pingpp-php) - ping++聚合支付SDK
+- [Instagram-API](https://github.com/mgp25/Instagram-API) - Instagram的私有 API
 
 ## 扩展( Extensions )
 >帮助构建PHP扩展的库
