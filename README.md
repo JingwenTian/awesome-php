@@ -642,6 +642,12 @@
 - [Sapient](https://github.com/paragonie/sapient) - the Secure API ENgineering Toolkit API消息传递安全校验
 - [legalthings/sso](https://github.com/legalthings/sso) - Simple Single Sign-On for PHP
 
+## 权限控制( Permission )
+
+> 角色与权限控制相关组件
+
+- [laravel-permission](https://github.com/spatie/laravel-permission) - 基于 Laravel 的权限组件
+
 ## 标记( Markup )
 >处理标记的库
 
