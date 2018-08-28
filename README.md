@@ -270,6 +270,8 @@
 - [Locust](http://locust.io/) - 一个Python开发的现代负载测试库
 - [Peridot](https://github.com/peridot-php/peridot) - 一个事件驱动的测试框架
 - [SimpleTest](https://github.com/simpletest/simpletest) - Unit Testing for PHP
+- [testbench](https://github.com/orchestral/testbench) - Laravel包开发测试助手
+- [laravel-debugbar](https://github.com/barryvdh/laravel-debugbar) - Laravel调试器
 
 ## 持续集成( Continuous Integration )
 >持续集成的库和应用
