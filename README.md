@@ -503,6 +503,8 @@
 - [ExcelAnt](https://github.com/Wisembly/ExcelAnt) - 操作Excel文档的库
 - [PhpSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) - 建议使用最新的PHPOffice维护的Excel 文档处理库
 - [php-ext-excel-export](https://github.com/viest/php-ext-excel-export) - 操作Excel的 PHP 扩展
+- [Laravel-Excel](https://github.com/Maatwebsite/Laravel-Excel) - Excel 处理工具
+- [laravel-snappy](https://github.com/barryvdh/laravel-snappy) - PDF 处理工具
 
 ## 数据库( Database )
 >使用对象关系映射（ORM）或数据映射技术的数据库交互库
