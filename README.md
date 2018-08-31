@@ -668,7 +668,7 @@
 ## 字符串( Strings )
 >解析和操纵字符串的库
 
-- [Agent](https://github.com/jenssegers/agent) - A PHP desktop/mobile user agent parser, based on Mobiledetect.
+- [jenssegers/agent](https://github.com/jenssegers/agent) - 客户端 User Agent 解析工具（基于 Mobiledetect）
 - [ANSI to HTML5](https://github.com/sensiolabs/ansi-to-html) - 一个将ANSI转换为HTML5的库
 - [Patchwork UTF-8](https://github.com/nicolas-grekas/Patchwork-UTF8) - 处理UTF-8格式字符串的便携库
 - [Hoa String](https://github.com/hoaproject/String) - 另一个UTF-8格式的字符串库
