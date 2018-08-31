@@ -129,7 +129,8 @@
 >模板和词法分析的库与工具
 
 - [Twig](http://twig.sensiolabs.org/) - 一种综合的模板语言
-- [Twig Cache Extension](https://github.com/asm89/twig-cache-extension) - 用于Twig的模板片段缓存库
+- [asm89/twig-cache-extension](https://github.com/asm89/twig-cache-extension) - 用于Twig的模板片段缓存库
+- [rcrowe/TwigBridge](https://github.com/rcrowe/TwigBridge) - Twig 模板引擎支持
 - [Mustache](https://github.com/bobthecow/mustache.php) - PHP实现的Mustache模板语言
 - [Phly Mustache](https://github.com/weierophinney/phly_mustache) - 另一个PHP实现的Mustache模板语言
 - [MtHaml](https://github.com/arnaud-lb/MtHaml) - PHP实现的HAML模板语言
@@ -158,7 +159,8 @@
 - [php-curl-class](https://github.com/php-curl-class/php-curl-class) - PHP的Curl类
 - [Beanbun](https://github.com/kiddyuchina/Beanbun) - 多进程网络爬虫框架
 - [php-mod/curl](https://github.com/php-mod/curl) - PHP Curl Class
-- [CORS](https://github.com/medz/cors) - PHP CORS (Cross-origin resource sharing) middleware.
+- [medz/cors](https://github.com/medz/cors) - PHP CORS (Cross-origin resource sharing) middleware.
+- [barryvdh/laravel-cors](https://github.com/barryvdh/laravel-cors) - 跨域资源共享的支持
 
 ## SOAP
 
@@ -229,6 +231,7 @@
 >处理图像的库
 
 - [Intervention/image](https://github.com/Intervention/image) - 图片操作库
+- [Intervention/imagecache](https://github.com/Intervention/imagecache) - 图片缓存增强工具
 - [Imagine](http://imagine.readthedocs.org/en/latest/index.html) - 一个图像处理库
 - [PHP Image Workshop](https://github.com/Sybio/ImageWorkshop) - 另一个图像处理库
 - [GIF Frame Extractor](https://github.com/Sybio/GifFrameExtractor) - 一个提取GIF动画帧信息的库
@@ -271,7 +274,7 @@
 - [Peridot](https://github.com/peridot-php/peridot) - 一个事件驱动的测试框架
 - [SimpleTest](https://github.com/simpletest/simpletest) - Unit Testing for PHP
 - [testbench](https://github.com/orchestral/testbench) - Laravel包开发测试助手
-- [laravel-debugbar](https://github.com/barryvdh/laravel-debugbar) - Laravel调试器
+- [laracasts/TestDummy](https://github.com/laracasts/TestDummy) - Laracasts 出品的假数据创建工具
 
 ## 持续集成( Continuous Integration )
 >持续集成的库和应用
@@ -370,6 +373,7 @@
 - [Functional PHP](https://github.com/lstrojny/functional-php) - 一个函数式编程库
 - [Lib Accessor](https://github.com/phine/lib-accessor) - 一个简化访问的库
 - [Iter](https://github.com/nikic/iter) - 一个使用生成器提供迭代原语的库
+- [laracasts/Laravel-5-Generators-Extended](https://github.com/laracasts/Laravel-5-Generators-Extended) - Laracasts 出品的代码快速生成工具
 
 ## 调试和性能( Debugging and Profiling )
 >调试代码的库和工具
@@ -394,7 +398,8 @@
 - [Collision](https://github.com/nunomaduro/collision) - 命令行PHP应用程序的错误处理程序框架
 - [symfony/debug](https://github.com/symfony/debug) - PHP debug调试库
 - [Molten](https://github.com/chuan-yun/Molten) - 应用透明链路追踪工具(PHP扩展)
-
+- [laravel-debugbar](https://github.com/barryvdh/laravel-debugbar) - Laravel调试器
+- [itsgoingd/clockwork](https://github.com/itsgoingd/clockwork) - 配合 Chrome 浏览器下同名插件的调试工具
 
 ## 构建工具( Build Tools )
 >项目构建和自动化工具
@@ -493,6 +498,8 @@
 - [PHPPdf](https://github.com/psliwa/PHPPdf) - 一个将XML转化为PDF和图片的库
 - [phpwkhtmltopdf](https://github.com/mikehaertl/phpwkhtmltopdf)
 - [php-pdftk](https://github.com/mikehaertl/php-pdftk) - A PDF conversion and form utility based on pdftk
+- [barryvdh/laravel-dompdf](https://github.com/barryvdh/laravel-dompdf) - PDF 操作工具（基于 dompdf ）
+- [laravel-snappy](https://github.com/barryvdh/laravel-snappy) - PDF 处理工具
 
 ## Office
 >Office套装的各种文档的处理库
@@ -504,7 +511,6 @@
 - [PhpSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) - 建议使用最新的PHPOffice维护的Excel 文档处理库
 - [php-ext-excel-export](https://github.com/viest/php-ext-excel-export) - 操作Excel的 PHP 扩展
 - [Laravel-Excel](https://github.com/Maatwebsite/Laravel-Excel) - Excel 处理工具
-- [laravel-snappy](https://github.com/barryvdh/laravel-snappy) - PDF 处理工具
 
 ## 数据库( Database )
 >使用对象关系映射（ORM）或数据映射技术的数据库交互库
@@ -541,7 +547,7 @@
     - [Monga](https://github.com/thephpleague/monga) - 一个MongoDB的抽象库
     - [mongodm](https://github.com/purekid/mongodm) - MongoDB ORM
     - [php-mongo](https://github.com/sokil/php-mongo) - PHP ODM for MongoDB
-    - [laravel-mongodb](https://github.com/jenssegers/laravel-mongodb)
+    - [jenssegers/laravel-mongodb](https://github.com/jenssegers/laravel-mongodb) - MongoDB 数据库的支持
 - Redis
     - [Predis](https://github.com/nrk/predis) - 一个功能完全的Redis库
     - [codis](https://github.com/CodisLabs/codis) - Codis 是一个分布式 Redis 解决方案
@@ -599,7 +605,7 @@
 - [OptParse](https://github.com/CHH/optparse) - 另一个命令行选择解析器
 - [Commando](https://github.com/nategood/commando) - 一个简单的命令行选择解析器
 - [GetOptionKit](https://github.com/c9s/php-GetOptionKit) - 同样还是一个命令行选择解析器
-- [Cron Expression](https://github.com/mtdowling/cron-expression) -计算cron运行日期的库
+- [mtdowling/cron-expression](https://github.com/mtdowling/cron-expression) -计算cron运行日期的库
 - [ShellWrap](https://github.com/MrRio/shellwrap) - 一个简单的命令行包装库
 - [Hoa Console](https://github.com/hoaproject/Console) - 另一个命令行库
 - [Shunt](https://github.com/php-loep/shunt) -一个在多台远程机器上并行运行的命令行库
@@ -613,11 +619,11 @@
 ## 定时任务( Crontab )
 >定时任务管理 crontab在 PHP 中的相关封装
 
-- [Dispatcher](https://github.com/Indatus/dispatcher) - 基于Laravel的定时任务管理
-- [swoole-crontab](https://github.com/osgochina/swoole-crontab) - 基于swoole的定时器程序，支持秒级处理
-- [jobby](https://github.com/jobbyphp/jobby) -  一个 PHP 的定时任务管理器
-- [cronlingo](https://github.com/ajbdev/cronlingo) - Express crontabs as human friendly phrases
-
+- [Indatus/dispatcher](https://github.com/Indatus/dispatcher) - 基于Laravel的定时任务管理
+- [osgochina/swoole-crontab](https://github.com/osgochina/swoole-crontab) - 基于swoole的定时器程序，支持秒级处理
+- [jobbyphp/jobby](https://github.com/jobbyphp/jobby) -  一个 PHP 的定时任务管理器
+- [ajbdev/cronlingo](https://github.com/ajbdev/cronlingo) - Express crontabs as human friendly phrases
+- [Indatus/dispatcher](https://github.com/Indatus/dispatcher) - 计划任务分发器（直接可替换掉 Cron）
 
 ## 身份验证( Authentication and Authorization )
 >实现身份验证模式的库
@@ -638,11 +644,11 @@
 - [Sentry](http://github.com/cartalyst/sentry) - 认证和授权系统
 - [EvaOAuth](https://github.com/AlloVince/EvaOAuth) - 统一接口的 OAuth 登录 PHP 类库
 - [JSON Web Token](http://jwt.io/)- JSON网络令牌库
-    - [php-jwt](https://github.com/firebase/php-jwt) 
-    - [jwt](https://github.com/lcobucci/jwt)
-    - [jose](https://github.com/namshi/jose) - JSON签名和加密的库
-    - [slim-jwt-auth](https://github.com/tuupola/slim-jwt-auth)
-    - [jwt-auth](https://github.com/tymondesigns/jwt-auth)
+    - [firebase/php-jwt](https://github.com/firebase/php-jwt) 
+    - [lcobucci/jwt](https://github.com/lcobucci/jwt)
+    - [namshi/jose](https://github.com/namshi/jose) - JSON签名和加密的库
+    - [tuupola/slim-jwt-auth](https://github.com/tuupola/slim-jwt-auth)
+    - [tymondesigns/jwt-auth](https://github.com/tymondesigns/jwt-auth) - JWT (JSON Web Token) 用户认证机制
 - [Sapient](https://github.com/paragonie/sapient) - the Secure API ENgineering Toolkit API消息传递安全校验
 - [legalthings/sso](https://github.com/legalthings/sso) - Simple Single Sign-On for PHP
 
@@ -650,7 +656,8 @@
 
 > 角色与权限控制相关组件
 
-- [laravel-permission](https://github.com/spatie/laravel-permission) - 基于 Laravel 的权限组件
+- [spatie/laravel-permission](https://github.com/spatie/laravel-permission) - 基于 Laravel 的权限组件
+- [Zizaco/entrust](https://github.com/Zizaco/entrust) - 基于用户组的用户权限系统
 
 ## 标记( Markup )
 >处理标记的库
@@ -673,8 +680,9 @@
 - [Patchwork UTF-8](https://github.com/nicolas-grekas/Patchwork-UTF8) - 处理UTF-8格式字符串的便携库
 - [Hoa String](https://github.com/hoaproject/String) - 另一个UTF-8格式的字符串库
 - [Stringy](https://github.com/danielstjules/Stringy) - 一个多字节支持的字符串操纵库
-- [Color Jizz](https://github.com/mikeemoo/ColorJizz-PHP) - 一个处理和转换颜色的库
-- [UUID](https://github.com/ramsey/uuid) - 生成UUIDs的库
+- [mikeemoo/ColorJizz-PHP](https://github.com/mikeemoo/ColorJizz-PHP) - 一个处理和转换颜色的库
+- [ramsey/uuid](https://github.com/ramsey/uuid) - 生成UUIDs的库
+- [laravel-uuid](https://github.com/webpatser/laravel-uuid) - RFC 4122 标准生成的 UUID 
 - [Slugify](https://github.com/cocur/slugify) - 一个将字符串转换为slug格式的库
 - [Urlify](https://github.com/jbroadway/urlify) - 一个Django URLify.js的PHP端口
 - [Text](https://github.com/kzykhys/Text) - 一个文本处理库
@@ -684,6 +692,7 @@
 - [Mobile-Detect](https://github.com/serbanghita/Mobile-Detect) - 一个轻量级的检测移动设备的库(包括桌面设备)
 - [Browser](https://github.com/cbschuld/Browser.php) - 检测关于用户的浏览器环境
 - [colors.php](https://github.com/kevinlebrun/colors.php) - An easy way to add colors in your CLI scripts.
+- [cviebrock/eloquent-sluggable](https://github.com/cviebrock/eloquent-sluggable) - 文章标题 URL 别名处理工具
 
 ## 数字( Numbers )
 >处理数字的库
@@ -718,6 +727,7 @@
 
 >用于开发restful APIs的库和Web框架
 
+- [dingo/api](https://github.com/dingo/api) - 构建 API 服务器的完整解决方案
 - [Apigility](https://github.com/zfcampus/zf-apigility-skeleton) - 一个使用Zend Framework2构建的API构建器
 - [Hateoas](https://github.com/willdurand/Hateoas) - 一个HATEOAS REST的web服务库
 - [HAL](https://github.com/blongden/hal) -  一个超文本应用语言（HAL）构建库
@@ -800,6 +810,9 @@
 - [GeoIP2-php](https://github.com/maxmind/GeoIP2-php) - MaxMind GeoIP2 地理位置服务
 - [pingpp-php](https://github.com/PingPlusPlus/pingpp-php) - ping++聚合支付SDK
 - [Instagram-API](https://github.com/mgp25/Instagram-API) - Instagram的私有 API
+- [aws/aws-sdk-php](https://github.com/aws/aws-sdk-php) - AWS 服务的开发者工具包
+- [bugsnag/bugsnag-laravel](https://github.com/bugsnag/bugsnag-laravel) - Bugsnag 服务集成包
+- [maknz/slack](https://github.com/maknz/slack) - Slack 服务的集成
 
 ## 扩展( Extensions )
 >帮助构建PHP扩展的库
@@ -930,7 +943,7 @@
 - [Pinyin](https://github.com/jifei/Pinyin) - 汉字转拼音的库
 - [class.upload.php](https://github.com/verot/class.upload.php) - 文件上传处理类
 - [php-paginator](https://github.com/jasongrimes/php-paginator) - 分页处理类
-- [Underscore.php](https://github.com/brianhaveri/Underscore.php) - Underscore.js的PHP实现
+- [Anahkiasen/underscore-php](https://github.com/brianhaveri/Underscore.php) - Underscore.js 类似的 PHP 语法支持
 - [Flexihash](https://github.com/pda/flexihash) - 一致性hash库
 - [Eden](https://github.com/Openovate/eden) - 一个PHP快速开发类库,它包含很多组件用来自动加载、事件驱动、文档系统、缓存、模板、国际化、数据库、web服务、支付网关、装载和云服务技术。
 - [html-parser](https://github.com/bupt1987/html-parser) - html解析工具
@@ -939,6 +952,9 @@
 - [copywriting-correct](https://github.com/ricoa/copywriting-correct) - 中英文文案排版纠正器
 - [PHP-ML](https://github.com/php-ai/php-ml) - PHP 机器学习库
 - [BotMan](https://github.com/botman/botman) - 聊天机器人库
-
-
+- [barryvdh/laravel-ide-helper](https://github.com/barryvdh/laravel-ide-helper) - 使用 IDE 开发 Laravel 项目的好帮手
+- [davejamesmiller/laravel-breadcrumbs](https://github.com/davejamesmiller/laravel-breadcrumbs) - 页面面包屑工具
+- [laracasts/PHP-Vars-To-Js-Transformer](https://github.com/laracasts/PHP-Vars-To-Js-Transformer) - 将 PHP 变量转换为 JavaScript 变量
+- [Laravelium/laravel-sitemap](https://github.com/Laravelium/laravel-sitemap) - Sitemap 生成工具
+- [yajra/laravel-datatables](https://github.com/yajra/laravel-datatables) - jQuery DataTables 的后端支持
 
