@@ -89,6 +89,7 @@
 
 - [Aura Components](http://auraphp.com/) - 一个PHP5.4的组件包
 - [Hoa Project](http://hoa-project.net/En/) - 一个PHP组件集合
+- [andersao/l5-repository](https://github.com/andersao/l5-repository) - Repository 开发模式的支持
 
 ## 配置( Configuration )
 >加载配置文件的类库和扩展
@@ -150,7 +151,7 @@
 ## HTTP
 >用于HTTP和抓取网站的库
 
-- [Guzzle](https://github.com/guzzle/guzzle) - 一个完整的HTTP客户端
+- [guzzle/guzzle](https://github.com/guzzle/guzzle) - 一个完整的HTTP客户端
 - [Buzz](https://github.com/kriswallsmith/Buzz) - 另一个HTTP客户端
 - [Requests](https://github.com/rmccue/Requests) - 一个简单的HTTP库
 - [HTTPFul](https://github.com/nategood/httpful) - 一个链式HTTP客户端
@@ -167,6 +168,7 @@
 - [soap-client](https://github.com/phpro/soap-client) - A general purpose SOAP client for PHP
 - [soap-client](https://github.com/goetas-webservices/soap-client) - PHP implementation of SOAP 1.1 and 1.2 client specifications
 - [wsdl2phpgenerator](https://github.com/wsdl2phpgenerator/wsdl2phpgenerator) - Simple utility and class library for generating php classes from a wsdl file.
+- [laravel-soap](https://github.com/artisaninweb/laravel-soap) - Soap 协议客户端
 
 ## 中间件( Middlewares )
 >用于构建应用的类库的中间件
@@ -181,15 +183,15 @@
 ## 邮件( Email )
 >用于发送和解析Email的库
 
-- [SwiftMailer](http://swiftmailer.org/) - 一个邮件程序的解决方案
-- [PHPMailer](https://github.com/PHPMailer/PHPMailer) - 另一个邮件程序的解决方案
-- [Nette Mail](https://github.com/nette/mail) - 一个简单优雅的邮件发送模块
-- [Fetch](https://github.com/tedivm/Fetch) - 一个IMAP库
-- [Email Reply Parser](https://github.com/willdurand/EmailReplyParser) - 一个邮件回复解析器库
-- [Stampie](https://github.com/henrikbjorn/Stampie) - 关于邮件服务的库，比如SendGrid、PostMark、MailGun和Mandrill
-- [CssToInlineStyles](https://github.com/tijsverkoyen/CssToInlineStyles) - 邮件模板中一个内联的CSS库
-- [Email Validator](https://github.com/nojacko/email-validator) - 一个小巧的邮箱验证库
-- [EmailValidator](https://github.com/egulias/EmailValidator) - PHP Email validator library
+- [swiftmailer/swiftmailer](https://github.com/swiftmailer/swiftmailer) - 一个邮件程序的解决方案
+- [PHPMailer/PHPMailer](https://github.com/PHPMailer/PHPMailer) - 另一个邮件程序的解决方案
+- [nette/mail](https://github.com/nette/mail) - 一个简单优雅的邮件发送模块
+- [tedivm/Fetch](https://github.com/tedivm/Fetch) - 一个IMAP库
+- [willdurand/EmailReplyParser](https://github.com/willdurand/EmailReplyParser) - 一个邮件回复解析器库
+- [henrikbjorn/Stampie](https://github.com/henrikbjorn/Stampie) - 关于邮件服务的库，比如SendGrid、PostMark、MailGun和Mandrill
+- [tijsverkoyen/CssToInlineStyles](https://github.com/tijsverkoyen/CssToInlineStyles) - 邮件模板中一个内联的CSS库
+- [nojacko/email-validator](https://github.com/nojacko/email-validator) - 一个小巧的邮箱验证库
+- [egulias/EmailValidator](https://github.com/egulias/EmailValidator) - PHP Email validator library
 
 ## 文件操作( Files )
 
@@ -197,7 +199,7 @@
 
 - [symfony/finder](https://github.com/symfony/finder) - 通过一个直观而流畅的接口来寻找文件和目录
 - [Gaufrette](https://github.com/KnpLabs/Gaufrette) - 一个文件流的抽象层
-- [Flysystem](https://github.com/FrenkyNet/Flysystem) - 另一个文件流的抽象层
+- [thephpleague/flysystem](https://github.com/thephpleague/flysystem) - 另一个文件流的抽象层
 - [Canal](https://github.com/dflydev/dflydev-canal) - 一个检查互联网媒体类型的库
 - [Apache MIME Types](https://github.com/dflydev/dflydev-apache-mime-types) - 一个解析Apache MIME类型的库
 - [Ferret](https://github.com/versionable/Ferret) - 一个MIME检测库
@@ -205,7 +207,7 @@
 - [Lurker](https://github.com/henrikbjorn/Lurker) - 一个资源跟踪库
 - [PHP File Locator](https://github.com/herrera-io/php-file-locator) - 一个在大型项目中定位文件的库
 - [PHP FFmpeg](https://github.com/alchemy-fr/PHP-FFmpeg/) - 一个用于FFmpeg视频包装的库
-- [CSV](https://github.com/thephpleague/csv) - 一个CSV数据操作库
+- [GrahamCampbell/Laravel-Flysystem](https://github.com/GrahamCampbell/Laravel-Flysystem) - 文件系统操作,多平台支持
 
 ## 流( Stream )
 >处理流的库
@@ -233,19 +235,22 @@
 - [Intervention/image](https://github.com/Intervention/image) - 图片操作库
 - [Intervention/imagecache](https://github.com/Intervention/imagecache) - 图片缓存增强工具
 - [Imagine](http://imagine.readthedocs.org/en/latest/index.html) - 一个图像处理库
-- [PHP Image Workshop](https://github.com/Sybio/ImageWorkshop) - 另一个图像处理库
-- [GIF Frame Extractor](https://github.com/Sybio/GifFrameExtractor) - 一个提取GIF动画帧信息的库
-- [GIF Creator](https://github.com/Sybio/GifCreator) - 从多幅图片中创建GIF动画的库
-- [Image With Text](https://github.com/nmcteam/image-with-text) - 在图像中嵌入文本的库
-- [Color Extractor](https://github.com/php-loep/color-extractor) - 从图像中提取颜色的库
-- [Glide](https://github.com/thephpleague/glide) - 一个按需的图片处理库
-- [Image Optimizer](https://github.com/psliwa/image-optimizer) - 一个优化图片的库
+- [Sybio/ImageWorkshop](https://github.com/Sybio/ImageWorkshop) - 另一个图像处理库
+- [Sybio/GifFrameExtractor](https://github.com/Sybio/GifFrameExtractor) - 一个提取GIF动画帧信息的库
+- [Sybio/GifCreator](https://github.com/Sybio/GifCreator) - 从多幅图片中创建GIF动画的库
+- [nmcteam/image-with-text](https://github.com/nmcteam/image-with-text) - 在图像中嵌入文本的库
+- [php-loep/color-extractor](https://github.com/php-loep/color-extractor) - 从图像中提取颜色的库
+- [thephpleague/glide](https://github.com/thephpleague/glide) - 一个按需的图片处理库
+- [psliwa/image-optimizer](https://github.com/psliwa/image-optimizer) - 一个优化图片的库
 - [PHPThumb](https://github.com/masterexploder/PHPThumb) - 缩略图处理库
-- [phpqrcode](https://github.com/t0k4rt/phpqrcode) - 二维码生成库
-- [QrCode](https://github.com/endroid/QrCode) - 另一个二维码生成库
-- [pel](https://github.com/lsolesen/pel) - PHP Exif 库
+- [t0k4rt/phpqrcode](https://github.com/t0k4rt/phpqrcode) - 二维码生成库
+- [endroid/qr-code](https://github.com/endroid/qr-code) - 另一个二维码生成库
+- [SimpleSoftwareIO/simple-qrcode](https://github.com/SimpleSoftwareIO/simple-qrcode) - 二维码生成工具
+- [lsolesen/pel](https://github.com/lsolesen/pel) - PHP Exif 库
 - [php-exif](https://github.com/PHPExif/php-exif) - PHP Exif信息读取库
-- [Captcha](https://github.com/Gregwar/Captcha) - 图形验证码
+- [Gregwar/Captcha](https://github.com/Gregwar/Captcha) - 图形验证码
+- [google/recaptcha](https://github.com/google/recaptcha) - google reCAPTCHA 验证码Client 库
+- [mewebstudio/captcha](https://github.com/mewebstudio/captcha) - 图片验证码方案
 
 
 ## 测试( Testing )
@@ -273,7 +278,7 @@
 - [Locust](http://locust.io/) - 一个Python开发的现代负载测试库
 - [Peridot](https://github.com/peridot-php/peridot) - 一个事件驱动的测试框架
 - [SimpleTest](https://github.com/simpletest/simpletest) - Unit Testing for PHP
-- [testbench](https://github.com/orchestral/testbench) - Laravel包开发测试助手
+- [testbench](https://github.com/orchestral/testbench) - Laravel 扩展包的单元测试工具
 - [laracasts/TestDummy](https://github.com/laracasts/TestDummy) - Laracasts 出品的假数据创建工具
 
 ## 持续集成( Continuous Integration )
@@ -299,7 +304,7 @@
 ## 安全( Security )
 >用于生成安全的随机数、加密数据、扫描漏洞, 令牌的库
 
-- [HTML Purifier](https://github.com/ezyang/htmlpurifier) - 一个标准的HTML过滤器
+- [ezyang/htmlpurifier](https://github.com/ezyang/htmlpurifier) - 一个标准的HTML过滤器
 - [random_compat](https://github.com/paragonie/random_compat) - PHP5.x生成安全的随机数的库(PHP7可用内置`random_bytes()`和`random_int()`函数)
 - [RandomLib](https://github.com/ircmaxell/RandomLib) - 生成随机数和随机字符串的库
 - [True Random](https://github.com/pixeloution/true-random) - 使用www.random.org生成随机数的库
@@ -313,19 +318,20 @@
 - [Zed](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project) - 用于Web应用的集成渗透测试工具
 - [php-ratelimiter](https://github.com/akirk/php-ratelimiter) 
 - [xxtea-php](https://github.com/xxtea/xxtea-php) - XXTEA encryption algorithm library for PHP.
+- [mewebstudio/Purifier](https://github.com/mewebstudio/Purifier) - 用户提交的 Html 白名单过滤
 
 ## 密码( Passwords )
 >处理和存储密码的库和工具、各种编码的库
 
-- [Password Compat](https://github.com/ircmaxell/password_compat) - 一个用于新的PHP5.5密码功能的兼容库
+- [ircmaxell/password_compat](https://github.com/ircmaxell/password_compat) - 一个用于新的PHP5.5密码功能的兼容库
 - [phpass](http://www.openwall.com/phpass/) - 一个便携式密码哈希框架
-- [PHP Password Lib](https://github.com/ircmaxell/PHP-PasswordLib) - 一个用于生成和验证密码的库
-- [Password Policy](https://github.com/ircmaxell/password-policy) - 一个PHP和JavaScript的密码规则库
-- [Password Validator](https://github.com/jeremykendall/password-validator) - 验证和升级密码哈希的库
-- [Zxcvbn PHP](https://github.com/bjeavons/zxcvbn-php) - 一个基于Zxcvbn JS的PHP显示密码强度估计库
-- [GenPhrase](https://github.com/timoh6/GenPhrase) - 一个生成安全随机口令的库
-- [base62](https://github.com/tuupola/base62) - base62编码库(短网址应用)
-- [base58php](https://github.com/stephen-hill/base58php) - base58编码库(Bitcoin中使用的一种独特的编码方式，主要用于产生Bitcoin的钱包地址)
+- [ircmaxell/PHP-PasswordLib](https://github.com/ircmaxell/PHP-PasswordLib) - 一个用于生成和验证密码的库
+- [ircmaxell/password-policy](https://github.com/ircmaxell/password-policy) - 一个PHP和JavaScript的密码规则库
+- [jeremykendall/password-validator](https://github.com/jeremykendall/password-validator) - 验证和升级密码哈希的库
+- [bjeavons/zxcvbn-php](https://github.com/bjeavons/zxcvbn-php) - 一个基于Zxcvbn JS的PHP显示密码强度估计库
+- [timoh6/GenPhrase](https://github.com/timoh6/GenPhrase) - 一个生成安全随机口令的库
+- [tuupola/base62](https://github.com/tuupola/base62) - base62编码库(短网址应用)
+- [stephen-hill/base58php](https://github.com/stephen-hill/base58php) - base58编码库(Bitcoin中使用的一种独特的编码方式，主要用于产生Bitcoin的钱包地址)
 - [base85](https://github.com/tuupola/base85) - base85编码库(在base64的基础上进一步压缩数据量,应用于Adobe的PostScript语言和PDF文档格式)
 
 ## 代码分析( Code Analysis )
@@ -400,6 +406,7 @@
 - [Molten](https://github.com/chuan-yun/Molten) - 应用透明链路追踪工具(PHP扩展)
 - [laravel-debugbar](https://github.com/barryvdh/laravel-debugbar) - Laravel调试器
 - [itsgoingd/clockwork](https://github.com/itsgoingd/clockwork) - 配合 Chrome 浏览器下同名插件的调试工具
+- [GrahamCampbell/Laravel-Exceptions](https://github.com/GrahamCampbell/Laravel-Exceptions) - 错误异常处理工具(支持开发和生产环境，使用 Whoops 进行错误显示)
 
 ## 构建工具( Build Tools )
 >项目构建和自动化工具
@@ -426,19 +433,24 @@
 ## 资源管理( Asset Management )
 >用于管理、压缩和最小化网站资源的工具
 
-- [Assetic](https://github.com/kriswallsmith/assetic) - 一个资源管理的管道库
-- [Pipe](https://github.com/CHH/pipe) - 另一个资源管理的管道库
-- [Munee](https://github.com/meenie/munee) - 一个资源优化库
-- [JShrink](https://github.com/tedivm/JShrink) - 一个JavaScript的压缩库
-- [Puli](https://github.com/webmozart/puli) - 一个检测资源绝对路径的库
+- [kriswallsmith/assetic](https://github.com/kriswallsmith/assetic) - 一个资源管理的管道库
+- [CHH/pipe](https://github.com/CHH/pipe) - 另一个资源管理的管道库
+- [meenie/munee](https://github.com/meenie/munee) - 一个资源优化库
+- [tedivm/JShrink](https://github.com/tedivm/JShrink) - 一个JavaScript的压缩库
+- [webmozart/puli](https://github.com/webmozart/puli) - 一个检测资源绝对路径的库
+- [Chumper/Zipper](https://github.com/Chumper/Zipper) - ZIp 打包工具（基于 ZipArchive）
+- [HTMLMin/Laravel-HTMLMin](https://github.com/HTMLMin/Laravel-HTMLMin) - 基于 minify 的 HTML 压缩工具
 
 ## 地理定位( Geolocation )
 >使用经纬度编码地址的库
 
-- [GeoCoder](http://geocoder-php.org/) - 一个地理编码库
-- [GeoTools](https://github.com/php-loep/Geotools) - 一个地理工具相关的库
-- [PHPGeo](https://github.com/mjaschen/phpgeo) - 一个简单的地理库
-- [GeoJSON](https://github.com/jmikola/geojson) - 一个GeoJSON的实现
+- [geocoder-php/Geocoder](https://github.com/geocoder-php/Geocoder) - 地理位置操作工具集（基于Geocoder）
+- [php-loep/Geotools](https://github.com/php-loep/Geotools) - 一个地理工具相关的库
+- [mjaschen/phpgeo](https://github.com/mjaschen/phpgeo) - 一个简单的地理库
+- [jmikola/geojson](https://github.com/jmikola/geojson) - 一个GeoJSON的实现
+- [laravel-geoip](https://github.com/Torann/laravel-geoip) - 通过 IP 获取到对应的地理位置信息（GeoIP 数据库）
+- [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) - IP 地址定位库
+- [maxmind/GeoIP2-php](https://github.com/maxmind/GeoIP2-php) - GeoIP 数据库PHP客户端
 
 ## 日期与时间( Date and Time )
 >处理日期和时间的库
@@ -471,6 +483,7 @@
 - [KLogger](https://github.com/katzgrau/KLogger) - 一个易于使用的PSR-3日志类
 - [Analog](https://github.com/jbroadway/analog) - 一个机遇闭包的微型日志包
 - [SeasLog](https://github.com/neeke/seaslog) - 一个高效的日志扩展
+- [rap2hpoutre/laravel-log-viewer](https://github.com/rap2hpoutre/laravel-log-viewer) - 非常方便的页面 Log 查看工具
 
 ## 电子商务( E-commerce )
 >用于支付和构建在线电子商务商店的库和应用
@@ -504,13 +517,14 @@
 ## Office
 >Office套装的各种文档的处理库
 
-- [PHPWord](https://github.com/PHPOffice/PHPWord) - 处理Word文档的库
-- [PHPExcel](https://github.com/PHPOffice/PHPExcel) - 处理Excel文档的库
-- [PHPPowerPoint](https://github.com/PHPOffice/PHPPowerPoint) - 处理PPT幻灯片的库
-- [ExcelAnt](https://github.com/Wisembly/ExcelAnt) - 操作Excel文档的库
-- [PhpSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) - 建议使用最新的PHPOffice维护的Excel 文档处理库
-- [php-ext-excel-export](https://github.com/viest/php-ext-excel-export) - 操作Excel的 PHP 扩展
-- [Laravel-Excel](https://github.com/Maatwebsite/Laravel-Excel) - Excel 处理工具
+- [PHPOffice/PHPWord](https://github.com/PHPOffice/PHPWord) - 处理Word文档的库
+- [PHPOffice/PHPExcel](https://github.com/PHPOffice/PHPExcel) - 处理Excel文档的库
+- [PHPOffice/PHPPowerPoint](https://github.com/PHPOffice/PHPPowerPoint) - 处理PPT幻灯片的库
+- [Wisembly/ExcelAnt](https://github.com/Wisembly/ExcelAnt) - 操作Excel文档的库
+- [PHPOffice/PhpSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) - 建议使用最新的PHPOffice维护的Excel 文档处理库
+- [viest/php-ext-excel-export](https://github.com/viest/php-ext-excel-export) - 操作Excel的 PHP 扩展
+- [Maatwebsite/Laravel-Excel](https://github.com/Maatwebsite/Laravel-Excel) - Excel 处理工具
+- [thephpleague/csv](https://github.com/thephpleague/csv) - 一个CSV数据操作库
 
 ## 数据库( Database )
 >使用对象关系映射（ORM）或数据映射技术的数据库交互库
@@ -519,6 +533,11 @@
 - [Doctrine Extensions](https://github.com/l3pp4rd/DoctrineExtensions) - 一个Doctrine行为的扩展集合
 - [Propel](http://www.propelorm.org/) - 一个快速的ORM，迁移和查询库
 - [Eloquent](https://github.com/illuminate/database) - Laravel 5 ORM(L5)
+    - [baum/baum](https://github.com/etrepat/baum) - 嵌套集合 (Nested Set) 模型的支持
+    - [VentureCraft/revisionable](https://github.com/VentureCraft/revisionable) - 数据模型的操作记录（如管理员操作日记）
+    - [nicolaslopezj/searchable](https://github.com/nicolaslopezj/searchable) - 以 Trait 的形式为 Eloquent 模型增加搜索功能
+    - [Tucker-Eric/EloquentFilter](https://github.com/tucker-eric/eloquentfilter) - 自定义查询条件
+    - [rtconner/laravel-tagging](https://github.com/rtconner/laravel-tagging) - 为 Eloquent 模型增加打标签功能
 - [LazyRecord](https://github.com/c9s/LazyRecord) - 一个快速的ORM
 - [Baum](https://github.com/etrepat/baum) - 一个Eloquent的嵌套集合
 - [Spot2](https://github.com/vlucas/spot2) - MySQL的ORM映射器
@@ -526,17 +545,20 @@
 - [Pomm](https://github.com/chanmix51/Pomm) - 用于PostgreSQL的一个对象模型管理器
 - [ProxyManager](https://github.com/Ocramius/ProxyManager) - 用于数据映射生成代理对象的工具集合
 - [Cake ORM](https://github.com/cakephp/orm) - 对象关系映射器, 实现了使用数据映射模式(CP)
-- [Medoo](http://medoo.in/) - 一个轻量级的加速开发的ORM
-- [Aura SQL](https://github.com/auraphp/Aura.Sql) - SQL database access through PDO.
+- [catfan/Medoo](https://github.com/catfan/Medoo) - 一个轻量级的加速开发的ORM
+- [auraphp/Aura.Sql](https://github.com/auraphp/Aura.Sql) - SQL database access through PDO.
 - [EasyDB](https://github.com/paragonie/easydb) - 数据库抽象层
 
 ## 迁移( Migrations )
->用于管理数据库模式和迁移的库
+>用于管理数据库模式、迁移、备份的库
 
-- [PHPMig](https://github.com/davedevelopment/phpmig) - 一个迁移管理库
-- [Phinx](https://github.com/robmorgan/phinx) - 一个数据库迁移管理库
-- [Migrations](https://github.com/icomefromthenet/Migrations) - 另一个迁移管理库
+- [davedevelopment/phpmig](https://github.com/davedevelopment/phpmig) - 一个迁移管理库
+- [obmorgan/phinx](https://github.com/robmorgan/phinx) - 一个数据库迁移管理库
+- [icomefromthenet/Migrations](https://github.com/icomefromthenet/Migrations) - 另一个迁移管理库
 - [Doctrine Migrations](http://docs.doctrine-project.org/projects/doctrine-migrations/en/latest/toc.html) - 用于Doctrine的迁移库
+- [Xethron/migrations-generator](https://github.com/Xethron/migrations-generator) - 从现存的数据中以 migration 的形式导出数据库表, 包括索引和外键
+- [orangehill/iseed](https://github.com/orangehill/iseed) - 将数据从数据库以 seed 的方式导出
+- [spatie/laravel-backup](https://github.com/spatie/laravel-backup) - 数据备份工具(支持压缩, 支持各种文件系统)
 
 ## 非关系型数据库( NoSQL )
 >处理NoSQL后端的库
@@ -634,8 +656,7 @@
 - [OAuth2 Server](http://oauth2.thephpleague.com/) - 一个OAuth2身份验证服务器、资源服务器和客户端库
 - [OAuth2 Server](http://bshaffer.github.io/oauth2-server-php-docs/) - 一个OAuth2服务器实现
 - [PHP oAuthLib](https://github.com/Lusitanian/PHPoAuthLib) - 另一个OAuth库
-- [TwitterOAuth](https://github.com/ruudk/twitteroauth) - 一个Twitter OAuth库
-- [TwitterSDK](https://github.com/lyrixx/twitter-sdk) - 一个经过完全测试的Twitter SDK
+- [ruudk/twitteroauth](https://github.com/ruudk/twitteroauth) - 一个Twitter OAuth库
 - [Hawk](https://github.com/dflydev/dflydev-hawk) - 一个Hawk HTTP身份验证库
 - [HybridAuth](https://github.com/hybridauth/hybridauth) - 一个开源的社交登录库
 - [Lock](https://github.com/BeatSwitch/lock) - 一个 Access Control Lists (ACL) 系统库.
@@ -651,6 +672,7 @@
     - [tymondesigns/jwt-auth](https://github.com/tymondesigns/jwt-auth) - JWT (JSON Web Token) 用户认证机制
 - [Sapient](https://github.com/paragonie/sapient) - the Secure API ENgineering Toolkit API消息传递安全校验
 - [legalthings/sso](https://github.com/legalthings/sso) - Simple Single Sign-On for PHP
+- [antonioribeiro/google2fa](https://github.com/antonioribeiro/google2fa) - 用户认证方案(支持谷歌提倡的双向认证和 HOTP 认证算法)
 
 ## 权限控制( Permission )
 
@@ -663,34 +685,36 @@
 >处理标记的库
 
 - [Decoda](http://milesj.me/code/php/decoda) - 一个轻量级的标记解析库
-- [PHP Markdown](https://github.com/michelf/php-markdown) - Markdown解析器
-- [CommonMark PHP](https://github.com/thephpleague/commonmark) - 一个支持 [CommonMark spec](http://spec.commonmark.org/) 的Markdown解析器.
-- [Parsedown](https://github.com/erusev/parsedown) - 一个Markdown解析器
-- [Ciconia](https://github.com/kzykhys/Ciconia) - 一个支持Github风格的Markdown解析器
-- [Cebe Markdown](https://github.com/cebe/markdown) - 一个快速、可扩展的Markdown解析器
-- [HTML5 PHP](https://github.com/Masterminds/html5-php) - 一个HTML5解析和序列化的库
-- [Emoji](https://github.com/heyupdate/Emoji) - 一个简单的处理emoji的类库
-- [php-emoji](https://github.com/iamcal/php-emoji) - 一个emoji表情转换库
+- [michelf/php-markdown](https://github.com/michelf/php-markdown) - Markdown解析器
+- [thephpleague/commonmark](https://github.com/thephpleague/commonmark) - 一个支持 [CommonMark spec](http://spec.commonmark.org/) 的Markdown解析器.
+- [erusev/parsedown](https://github.com/erusev/parsedown) - 一个Markdown解析器
+- [kzykhys/Ciconia](https://github.com/kzykhys/Ciconia) - 一个支持Github风格的Markdown解析器
+- [cebe/markdown](https://github.com/cebe/markdown) - 一个快速、可扩展的Markdown解析器
+- [GrahamCampbell/Laravel-Markdown](https://github.com/GrahamCampbell/Laravel-Markdown) - Markdown 解析器
+- [Masterminds/html5-php](https://github.com/Masterminds/html5-php) - 一个HTML5解析和序列化的库
+- [heyupdate/Emoji](https://github.com/heyupdate/Emoji) - 一个简单的处理emoji的类库
+- [iamcal/php-emoji](https://github.com/iamcal/php-emoji) - 一个emoji表情转换库
 
 ## 字符串( Strings )
 >解析和操纵字符串的库
 
 - [jenssegers/agent](https://github.com/jenssegers/agent) - 客户端 User Agent 解析工具（基于 Mobiledetect）
-- [ANSI to HTML5](https://github.com/sensiolabs/ansi-to-html) - 一个将ANSI转换为HTML5的库
-- [Patchwork UTF-8](https://github.com/nicolas-grekas/Patchwork-UTF8) - 处理UTF-8格式字符串的便携库
-- [Hoa String](https://github.com/hoaproject/String) - 另一个UTF-8格式的字符串库
-- [Stringy](https://github.com/danielstjules/Stringy) - 一个多字节支持的字符串操纵库
+- [sensiolabs/ansi-to-html](https://github.com/sensiolabs/ansi-to-html) - 一个将ANSI转换为HTML5的库
+- [nicolas-grekas/Patchwork-UTF8](https://github.com/nicolas-grekas/Patchwork-UTF8) - 处理UTF-8格式字符串的便携库
+- [hoaproject/String](https://github.com/hoaproject/String) - 另一个UTF-8格式的字符串库
+- [danielstjules/Stringy](https://github.com/danielstjules/Stringy) - 一个多字节支持的字符串操纵库
 - [mikeemoo/ColorJizz-PHP](https://github.com/mikeemoo/ColorJizz-PHP) - 一个处理和转换颜色的库
 - [ramsey/uuid](https://github.com/ramsey/uuid) - 生成UUIDs的库
 - [laravel-uuid](https://github.com/webpatser/laravel-uuid) - RFC 4122 标准生成的 UUID 
-- [Slugify](https://github.com/cocur/slugify) - 一个将字符串转换为slug格式的库
-- [Urlify](https://github.com/jbroadway/urlify) - 一个Django URLify.js的PHP端口
-- [Text](https://github.com/kzykhys/Text) - 一个文本处理库
-- [SQL Formatter](https://github.com/jdorn/sql-formatter/) - 一个用于格式化SQL语句的库
-- [UA Parser](https://github.com/tobie/ua-parser/tree/master/php) - 一个解析UA(User Agent)字符串的库
-- [Device Detector](https://github.com/piwik/device-detector) - 另一个解析UA(User Agent)字符串的库
-- [Mobile-Detect](https://github.com/serbanghita/Mobile-Detect) - 一个轻量级的检测移动设备的库(包括桌面设备)
-- [Browser](https://github.com/cbschuld/Browser.php) - 检测关于用户的浏览器环境
+- [cocur/slugify](https://github.com/cocur/slugify) - 一个将字符串转换为slug格式的库
+- [jbroadway/urlify](https://github.com/jbroadway/urlify) - 一个Django URLify.js的PHP端口
+- [kzykhys/Text](https://github.com/kzykhys/Text) - 一个文本处理库
+- [jdorn/sql-formatter](https://github.com/jdorn/sql-formatter/) - 一个用于格式化SQL语句的库
+- [tobie/ua-parser](https://github.com/tobie/ua-parser/tree/master/php) - 一个解析UA(User Agent)字符串的库
+- [piwik/device-detector](https://github.com/piwik/device-detector) - 另一个解析UA(User Agent)字符串的库
+- [serbanghita/Mobile-Detect](https://github.com/serbanghita/Mobile-Detect) - 一个轻量级的检测移动设备的库(包括桌面设备)
+- [cbschuld/Browser.php](https://github.com/cbschuld/Browser.php) - 检测关于用户的浏览器环境
+- [hisorange/browser-detect](https://github.com/hisorange/browser-detect) - 浏览器检测工具(包括客户端对 JavaScript 和 CSS 支持情况的检测)
 - [colors.php](https://github.com/kevinlebrun/colors.php) - An easy way to add colors in your CLI scripts.
 - [cviebrock/eloquent-sluggable](https://github.com/cviebrock/eloquent-sluggable) - 文章标题 URL 别名处理工具
 
@@ -703,25 +727,30 @@
 - [PHP Units of Measure](https://github.com/triplepoint/php-units-of-measure) - 一个测量单位间转换的库
 - [PHP Conversion](https://github.com/Crisu83/php-conversion) -  另一个测量单位间转换的库
 - [LibPhoneNumber for PHP](https://github.com/giggsey/libphonenumber-for-php) -  PHP实现的Google电话号码处理系统库
-- [hashids.php](https://github.com/ivanakimov/hashids.php) - 用来把整数生成唯一字符串（比如：通过加密解密id来隐藏真实id)
+- [ivanakimov/hashids.php](https://github.com/ivanakimov/hashids.php) - 用来把整数生成唯一字符串（比如：通过加密解密id来隐藏真实id)
 - [Particle](https://github.com/sschiau/Particle) - PHP ID Generator | Implementation of Twitter Snowflake ID Generator
 - [nanoid-php](https://github.com/hidehalo/nanoid-php) - 小巧的唯一ID生成工具
+- [vinkla/laravel-hashids](https://github.com/vinkla/laravel-hashids) - Hash ID 生成器，方便把数字的 ID 隐藏（基于Hashids）
 
 ## 过滤和验证( Filtering ang Validation )
 >用于过滤和验证数据的库
 
-- [Filterus](https://github.com/ircmaxell/filterus) -  一个简单的PHP过滤库
-- [Respect Validation](https://github.com/Respect/Validation) - 一个简单的验证库
-- [Valitron](https://github.com/vlucas/valitron) - 另一个数据验证库
-- [Cake Validation](https://github.com/cakephp/validation) - 另一个数据验证库 
-- [Illuminate validation package](https://github.com/illuminate/validation) - Laravel的验证库
+- [ircmaxell/filterus](https://github.com/ircmaxell/filterus) -  一个简单的PHP过滤库
+- [Respect/Validation](https://github.com/Respect/Validation) - 一个简单的验证库
+- [vlucas/valitron](https://github.com/vlucas/valitron) - 另一个数据验证库
+- [cakephp/validation](https://github.com/cakephp/validation) - 另一个数据验证库 
+- [illuminate/validation](https://github.com/illuminate/validation) - Laravel的验证库
 - [php-readability](https://github.com/feelinglucky/php-readability) - 内容分析算法
-- [Upload](https://github.com/codeguy/Upload) - 一个处理文件上传和验证的库
-- [DMS Filter](https://github.com/rdohms/DMS-Filter) - 一个基于标注的过滤库
-- [MetaYaml](https://github.com/romaricdrigon/MetaYaml) - 支持YAML、JSON和XML的一个模式验证库
-- [ISO-codes](https://github.com/ronanguilloux/IsoCodes) -  验证不同ISO和ZIP编码的库
+- [codeguy/Upload](https://github.com/codeguy/Upload) - 一个处理文件上传和验证的库
+- [rdohms/DMS-Filter](https://github.com/rdohms/DMS-Filter) - 一个基于标注的过滤库
+- [romaricdrigon/MetaYaml](https://github.com/romaricdrigon/MetaYaml) - 支持YAML、JSON和XML的一个模式验证库
+- [ronanguilloux/IsoCodes](https://github.com/ronanguilloux/IsoCodes) -  验证不同ISO和ZIP编码的库
 - [aura/filter](https://github.com/auraphp/Aura.Filter) - Aura 数据验证组件
 - [symfony/validator](https://github.com/symfony/validator) - Symfony 数据验证组件
+- [dwightwatson/validating](https://github.com/dwightwatson/validating) - 以 Trait 的方式来实现 Eloquent 数据模型保存的时候自动验证
+- [Propaganistas/Laravel-Phone](https://github.com/Propaganistas/Laravel-Phone) - 手机号码、电话号码验证支持
+- [felixkiss/uniquewith-validator](https://github.com/felixkiss/uniquewith-validator) - 表单验证规则增加字段之间的唯一性验证
+- [cviebrock/image-validator](https://github.com/cviebrock/image-validator) - 图片尺寸验证
 
 ## REST和API
 
@@ -738,6 +767,7 @@
 - [api-problem](https://github.com/Crell/ApiProblem) - A simple implementation of the api-problem specification
 - [graphql-php](https://github.com/webonyx/graphql-php) - 应用层查询语言库
 - [GraphQL](https://github.com/Youshido/GraphQL) - 另一个应用层查询语言库
+- [GrahamCampbell/Laravel-Throttle](https://github.com/GrahamCampbell/Laravel-Throttle) - 速率控制工具
 
 ## 缓存( Caching )
 >缓存数据的库
@@ -774,33 +804,38 @@
 ## 通知( Notifications )
 >关于通知的库
 
-- [Nod](https://github.com/filp/nod) - 一个通知库
-- [Notificato](https://github.com/wrep/notificato) - 一个处理推送消息的库
-- [Notification Pusher](https://github.com/Ph3nol/NotificationPusher) - 设备推送通知的独立库
-- [Notificator](https://github.com/namshi/notificator) - 一个轻量级通知库
+- [filp/nod](https://github.com/filp/nod) - 一个通知库
+- [wrep/notificato](https://github.com/wrep/notificato) - 一个处理推送消息的库
+- [Ph3nol/NotificationPusher](https://github.com/Ph3nol/NotificationPusher) - 设备推送通知的独立库
+- [namshi/notificator](https://github.com/namshi/notificator) - 一个轻量级通知库
+- [davibennun/laravel-push-notification](https://github.com/davibennun/laravel-push-notification) - App 的 Push Notification 发送工具(支持苹果的 APNS 和 安卓的 GCM)
+- [edvinaskrucas/notification](https://github.com/edvinaskrucas/notification) - 页面消息提醒的组件
 
 ## 部署( Deployment )
 >用于项目部署的库
 
-- [Pomander](https://github.com/tamagokun/pomander) -  一个PHP应用的部署工具
-- [Rocketeer](https://github.com/Anahkiasen/rocketeer) -  PHP的快速和简单部署器
-- [Envoy](https://github.com/laravel/envoy) - 使用PHP运行SSH任务的工具
-- [Plum](https://github.com/aerialls/Plum) - 一个部署库
-- [Deployer](https://github.com/deployphp/deployer) - 一个部署工具
-- [walle-web](https://github.com/meolu/walle-web) - 一个开源的web代码发布管理系统
+- [tamagokun/pomander](https://github.com/tamagokun/pomander) -  一个PHP应用的部署工具
+- [rocketeers/rocketeer](https://github.com/rocketeers/rocketeer) -  PHP的快速和简单部署器
+- [laravel/envoy](https://github.com/laravel/envoy) - Laravel 官方出品的简单的部署工具
+- [aerialls/Plum](https://github.com/aerialls/Plum) - 一个部署库
+- [deployphp/deployer](https://github.com/deployphp/deployer) - 一个部署工具
+- [meolu/walle-web](https://github.com/meolu/walle-web) - 一个开源的web代码发布管理系统
 
 ## 国际化和本地化(Internationalisation and Localisation)
 >用于国际化(I18n)和本地化(L10n)的库
 
-* [Aura Intl](https://github.com/auraphp/Aura.Intl)
-* [Cake I18n](https://github.com/cakephp/i18n) - 翻译和本地化消息
-* [symfony/translation](https://github.com/symfony/translation)
-* [illuminate/translation](https://github.com/illuminate/translation)
-* [Gettext](https://github.com/oscarotero/Gettext) - PHP library to collect and manipulate gettext (.po, .mo, .php, .json, etc)
-* [zend/i18n](http://zendframework.github.io/zend-i18n/translation/)
+- [auraphp/Aura.Intl](https://github.com/auraphp/Aura.Intl)
+- [cakephp/i18n](https://github.com/cakephp/i18n) - 翻译和本地化消息
+- [symfony/translation](https://github.com/symfony/translation)
+- [illuminate/translation](https://github.com/illuminate/translation)
+- [Gettext](https://github.com/oscarotero/Gettext) - PHP library to collect and manipulate gettext (.po, .mo, .php, .json, etc)
+- [zend/i18n](http://zendframework.github.io/zend-i18n/translation/)
+- [mcamara/laravel-localization](https://github.com/mcamara/laravel-localization) - Laravel 本地化功能增强
+- [dimsav/laravel-translatable](https://github.com/dimsav/laravel-translatable) - 数据库的多语言翻译方案
+- [webpatser/laravel-countries](https://github.com/webpatser/laravel-countries) - 世界所有国家数据(包括首都汇率等)
 
 ## 第三方API( Third Party APIs )
->访问第三方API的库
+>访问第三方API/SDK的库
 
 - [mailgun-php](https://github.com/mailgun/mailgun-php) - Mailgun's Official SDK for PHP
 - [wechat](https://github.com/overtrue/wechat) - 让微信开发更简单
@@ -813,6 +848,8 @@
 - [aws/aws-sdk-php](https://github.com/aws/aws-sdk-php) - AWS 服务的开发者工具包
 - [bugsnag/bugsnag-laravel](https://github.com/bugsnag/bugsnag-laravel) - Bugsnag 服务集成包
 - [maknz/slack](https://github.com/maknz/slack) - Slack 服务的集成
+- [lyrixx/twitter-sdk](https://github.com/lyrixx/twitter-sdk) - 一个经过完全测试的Twitter SDK
+- [thujohn/twitter](https://github.com/thujohn/twitter) - Twitter API 的支持
 
 ## 扩展( Extensions )
 >帮助构建PHP扩展的库
@@ -859,8 +896,8 @@
 >支持PHP的IDE
 
 - [Netbeans](https://netbeans.org/)
-- [Eclipse for PHP Developers ](https://www.eclipse.org/downloads/)
-- [PhpStorm ](http://www.jetbrains.com/phpstorm/)
+- [Eclipse for PHP Developers](https://www.eclipse.org/downloads/)
+- [PhpStorm](http://www.jetbrains.com/phpstorm/)
 
 ## Web 应用程序(Web Applications)
 >基于Web的应用程序和工具
@@ -880,6 +917,7 @@
 - [Nextcloud server](https://github.com/nextcloud/server) - 开源私有云系统(a safe home for all your data)
 - [magento2](https://github.com/magento/magento2) - 开源的PHP电子商务系统
 - [laravel-admin](https://github.com/z-song/laravel-admin) - 基于laravel的后台管理开发框架
+- [Crinsane/LaravelShoppingcart](https://github.com/Crinsane/LaravelShoppingcart) - 一个简单的购物车模块实现
 
 ## 基础设施(Infrastructure)
 >提供PHP应用程序和服务的基础设施
@@ -957,4 +995,6 @@
 - [laracasts/PHP-Vars-To-Js-Transformer](https://github.com/laracasts/PHP-Vars-To-Js-Transformer) - 将 PHP 变量转换为 JavaScript 变量
 - [Laravelium/laravel-sitemap](https://github.com/Laravelium/laravel-sitemap) - Sitemap 生成工具
 - [yajra/laravel-datatables](https://github.com/yajra/laravel-datatables) - jQuery DataTables 的后端支持
+- [formers/former](https://github.com/formers/former) - 强大的表单构造器
+- [Laravelium/laravel-feed](https://github.com/Laravelium/laravel-feed) - Feed 信息流生成器
 
