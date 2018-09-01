@@ -850,6 +850,7 @@
 - [maknz/slack](https://github.com/maknz/slack) - Slack 服务的集成
 - [lyrixx/twitter-sdk](https://github.com/lyrixx/twitter-sdk) - 一个经过完全测试的Twitter SDK
 - [thujohn/twitter](https://github.com/thujohn/twitter) - Twitter API 的支持
+- [overtrue/weather](https://github.com/overtrue/weather) - 基于高德开放平台接口的 PHP 天气信息组件
 
 ## 扩展( Extensions )
 >帮助构建PHP扩展的库
@@ -977,8 +978,8 @@
 ## 其他( Miscellaneous )
 >不属于以上分类的有用的类库和工具
 
-- [pinyin](https://github.com/overtrue/pinyin) - 汉字转拼音的库
-- [Pinyin](https://github.com/jifei/Pinyin) - 汉字转拼音的库
+- [overtrue/pinyin](https://github.com/overtrue/pinyin) - 汉字转拼音的库
+- [jifei/Pinyin](https://github.com/jifei/Pinyin) - 汉字转拼音的库
 - [class.upload.php](https://github.com/verot/class.upload.php) - 文件上传处理类
 - [php-paginator](https://github.com/jasongrimes/php-paginator) - 分页处理类
 - [Anahkiasen/underscore-php](https://github.com/brianhaveri/Underscore.php) - Underscore.js 类似的 PHP 语法支持
