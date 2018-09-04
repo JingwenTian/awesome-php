@@ -380,6 +380,7 @@
 - [Lib Accessor](https://github.com/phine/lib-accessor) - 一个简化访问的库
 - [Iter](https://github.com/nikic/iter) - 一个使用生成器提供迭代原语的库
 - [laracasts/Laravel-5-Generators-Extended](https://github.com/laracasts/Laravel-5-Generators-Extended) - Laracasts 出品的代码快速生成工具
+- [symfony/workflow](https://github.com/symfony/workflow) - Workflow组件提供的工具用来管理一个工作流或有限状态机
 
 ## 调试和性能( Debugging and Profiling )
 >调试代码的库和工具
