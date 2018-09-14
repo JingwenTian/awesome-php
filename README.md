@@ -764,7 +764,7 @@
 - [Negotiation](https://github.com/willdurand/Negotiation) - 一个内容协商库
 - [Drest](https://github.com/leedavis81/drest) -一个将Doctrine实体展现为REST资源结点的库
 - [Restler](https://github.com/Luracast/Restler) - 一个将PHP方法展现为RESTful web API的轻量级框架
-- [fractal](https://github.com/thephpleague/fractal) - [最佳实践]数据返回的统一化处理
+- [thephpleague/fractal](https://github.com/thephpleague/fractal) - [最佳实践]数据返回的统一化处理
 - [api-problem](https://github.com/Crell/ApiProblem) - A simple implementation of the api-problem specification
 - [graphql-php](https://github.com/webonyx/graphql-php) - 应用层查询语言库
 - [GraphQL](https://github.com/Youshido/GraphQL) - 另一个应用层查询语言库
