@@ -966,9 +966,10 @@
 - [Gearman](http://gearman.info/) - 任务分发系统
 - [phpdaemon](https://github.com/kakserpom/phpdaemon)
 - [ReactPHP](https://github.com/reactphp/react)
-- [Amp](https://github.com/amphp/amp) - A non-blocking concurrency framework for PHP applications. 
+- [amphp/amp](https://github.com/amphp/amp) - A non-blocking concurrency framework for PHP applications. 
 - [async](https://github.com/spatie/async) - Easily run code asynchronously
 - [kraken-php](https://github.com/kraken-php/framework/) - Asynchronous & Fault-tolerant PHP Framework for Distributed Applications.
+- [recoilphp/recoil](https://github.com/recoilphp/recoil) - Asynchronous coroutines for PHP 7.
 
 ## 规则引擎( Rules Engine )
 
