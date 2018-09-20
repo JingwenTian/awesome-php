@@ -691,6 +691,7 @@
 - [Decoda](http://milesj.me/code/php/decoda) - 一个轻量级的标记解析库
 - [michelf/php-markdown](https://github.com/michelf/php-markdown) - Markdown解析器
 - [thephpleague/commonmark](https://github.com/thephpleague/commonmark) - 一个支持 [CommonMark spec](http://spec.commonmark.org/) 的Markdown解析器.
+- [thephpleague/html-to-markdown](https://github.com/thephpleague/html-to-markdown) - 一个 html 转换 markdown 的转换器
 - [erusev/parsedown](https://github.com/erusev/parsedown) - 一个Markdown解析器
 - [kzykhys/Ciconia](https://github.com/kzykhys/Ciconia) - 一个支持Github风格的Markdown解析器
 - [cebe/markdown](https://github.com/cebe/markdown) - 一个快速、可扩展的Markdown解析器
