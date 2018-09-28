@@ -722,6 +722,7 @@
 - [hisorange/browser-detect](https://github.com/hisorange/browser-detect) - 浏览器检测工具(包括客户端对 JavaScript 和 CSS 支持情况的检测)
 - [colors.php](https://github.com/kevinlebrun/colors.php) - An easy way to add colors in your CLI scripts.
 - [cviebrock/eloquent-sluggable](https://github.com/cviebrock/eloquent-sluggable) - 文章标题 URL 别名处理工具
+- [fukuball/jieba-php](https://github.com/fukuball/jieba-php) - "結巴"中文分詞
 
 ## 数字( Numbers )
 >处理数字的库
