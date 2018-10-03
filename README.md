@@ -159,7 +159,7 @@
 - [Buzz](https://github.com/kriswallsmith/Buzz) - 另一个HTTP客户端
 - [Requests](https://github.com/rmccue/Requests) - 一个简单的HTTP库
 - [HTTPFul](https://github.com/nategood/httpful) - 一个链式HTTP客户端
-- [Goutte](https://github.com/fabpot/Goutte) - 一个简单的Web抓取器
+- [FriendsOfPHP/Goutte](https://github.com/FriendsOfPHP/Goutte) - 一个简单的Web抓取器
 - [PHP VCR](http://php-vcr.github.io/) - 一个录制和回放HTTP请求的库
 - [php-curl-class](https://github.com/php-curl-class/php-curl-class) - PHP的Curl类
 - [Beanbun](https://github.com/kiddyuchina/Beanbun) - 多进程网络爬虫框架
