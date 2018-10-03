@@ -155,6 +155,7 @@
 >用于HTTP和抓取网站的库
 
 - [guzzle/guzzle](https://github.com/guzzle/guzzle) - 一个完整的HTTP客户端
+- [amphp/artax](https://github.com/amphp/artax) - An Asynchronous HTTP Client for PHP
 - [Buzz](https://github.com/kriswallsmith/Buzz) - 另一个HTTP客户端
 - [Requests](https://github.com/rmccue/Requests) - 一个简单的HTTP库
 - [HTTPFul](https://github.com/nategood/httpful) - 一个链式HTTP客户端
