@@ -61,8 +61,8 @@
 >用于依赖管理的包和框架
 
 - [Composer](https://getcomposer.org/) / [Packagist](https://packagist.org/) - 一个包和依赖管理器.
-- [Composer Installers](https://github.com/composer/installers) - 一个多框架Composer库安装器
-- [pickle](https://github.com/FriendsOfPHP/pickle) - PHP扩展安装器
+- [composer/installers](https://github.com/composer/installers) - 一个多框架Composer库安装器
+- [FriendsOfPHP/pickle](https://github.com/FriendsOfPHP/pickle) - PHP扩展安装器
 - [Melody](http://melody.sensiolabs.org/) - A tool to build one file Composer scripts.
 
 ## 框架( Frameworks )
