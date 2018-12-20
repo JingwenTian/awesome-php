@@ -324,6 +324,8 @@
 - [php-ratelimiter](https://github.com/akirk/php-ratelimiter) 
 - [xxtea-php](https://github.com/xxtea/xxtea-php) - XXTEA encryption algorithm library for PHP.
 - [mewebstudio/Purifier](https://github.com/mewebstudio/Purifier) - 用户提交的 Html 白名单过滤
+- [defuse/php-encryption](https://github.com/defuse/php-encryption) - 对称密钥加密库
+- [paragonie/halite](https://github.com/paragonie/halite) - 提供高级的加密接口的libsodium封装包
 
 ## 密码( Passwords )
 >处理和存储密码的库和工具、各种编码的库
