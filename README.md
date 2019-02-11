@@ -682,6 +682,7 @@
 - [Sapient](https://github.com/paragonie/sapient) - the Secure API ENgineering Toolkit API消息传递安全校验
 - [legalthings/sso](https://github.com/legalthings/sso) - Simple Single Sign-On for PHP
 - [antonioribeiro/google2fa](https://github.com/antonioribeiro/google2fa) - 用户认证方案(支持谷歌提倡的双向认证和 HOTP 认证算法)
+- [PHPGangsta/GoogleAuthenticator](https://github.com/PHPGangsta/GoogleAuthenticator) - 谷歌双向认证
 
 ## 权限控制( Permission )
 
