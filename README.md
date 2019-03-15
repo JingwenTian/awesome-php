@@ -253,6 +253,7 @@
 - [SimpleSoftwareIO/simple-qrcode](https://github.com/SimpleSoftwareIO/simple-qrcode) - 二维码生成工具
 - [lsolesen/pel](https://github.com/lsolesen/pel) - PHP Exif 库
 - [php-exif](https://github.com/PHPExif/php-exif) - PHP Exif信息读取库
+- [Gregwar/Image](https://github.com/Gregwar/Image) - 图像处理库
 - [Gregwar/Captcha](https://github.com/Gregwar/Captcha) - 图形验证码
 - [google/recaptcha](https://github.com/google/recaptcha) - google reCAPTCHA 验证码Client 库
 - [mewebstudio/captcha](https://github.com/mewebstudio/captcha) - 图片验证码方案
