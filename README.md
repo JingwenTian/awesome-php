@@ -855,16 +855,21 @@
 - [wechat](https://github.com/overtrue/wechat) - 让微信开发更简单
 - [Qiniu/sdk](https://github.com/qiniu/php-sdk) - Qiniu Resource Storage SDK for PHP
 - [Qiniu/qshell](https://github.com/qiniu/qshell) - qshell是利用七牛文档上公开的API实现的一个方便开发者测试和使用七牛API服务的命令行工具。
-- [Wafer](https://github.com/tencentyun/wafer) - 快速构建具备弹性能力的微信小程序
-- [GeoIP2-php](https://github.com/maxmind/GeoIP2-php) - MaxMind GeoIP2 地理位置服务
-- [pingpp-php](https://github.com/PingPlusPlus/pingpp-php) - ping++聚合支付SDK
-- [Instagram-API](https://github.com/mgp25/Instagram-API) - Instagram的私有 API
+- [tencentyun/wafer](https://github.com/tencentyun/wafer) - 快速构建具备弹性能力的微信小程序
+- [maxmind/GeoIP2-php](https://github.com/maxmind/GeoIP2-php) - MaxMind GeoIP2 地理位置服务
+- [PingPlusPlus/pingpp-php](https://github.com/PingPlusPlus/pingpp-php) - ping++聚合支付SDK
+- [mgp25/Instagram-API](https://github.com/mgp25/Instagram-API) - Instagram的私有 API
 - [aws/aws-sdk-php](https://github.com/aws/aws-sdk-php) - AWS 服务的开发者工具包
 - [bugsnag/bugsnag-laravel](https://github.com/bugsnag/bugsnag-laravel) - Bugsnag 服务集成包
 - [maknz/slack](https://github.com/maknz/slack) - Slack 服务的集成
 - [lyrixx/twitter-sdk](https://github.com/lyrixx/twitter-sdk) - 一个经过完全测试的Twitter SDK
 - [thujohn/twitter](https://github.com/thujohn/twitter) - Twitter API 的支持
 - [overtrue/weather](https://github.com/overtrue/weather) - 基于高德开放平台接口的 PHP 天气信息组件
+- [aliyun/aliyun-oss-php-sdk](https://github.com/aliyun/aliyun-oss-php-sdk) - 阿里云对象存储
+- [aliyun/openapi-sdk-php](https://github.com/aliyun/openapi-sdk-php) - Alibaba Cloud SDK for PHP
+- [overtrue/laravel-filesystem-qiniu](https://github.com/overtrue/laravel-filesystem-qiniu) - Laravel filesystem Qiniu
+- [jacobcyl/Aliyun-oss-storage](https://github.com/jacobcyl/Aliyun-oss-storage) - 阿里云OSS laravel扩展
+- [overtrue/easy-sms](https://github.com/overtrue/easy-sms) - 满足多种发送需求的短信发送组件
 
 ## 扩展( Extensions )
 >帮助构建PHP扩展的库
