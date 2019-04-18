@@ -197,6 +197,7 @@
 - [tijsverkoyen/CssToInlineStyles](https://github.com/tijsverkoyen/CssToInlineStyles) - 邮件模板中一个内联的CSS库
 - [nojacko/email-validator](https://github.com/nojacko/email-validator) - 一个小巧的邮箱验证库
 - [egulias/EmailValidator](https://github.com/egulias/EmailValidator) - PHP Email validator library
+- [Snowfire/Beautymail](https://github.com/Snowfire/Beautymail) - Laravel HTML邮件模板
 
 ## 文件操作( Files )
 
