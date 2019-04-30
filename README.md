@@ -871,6 +871,7 @@
 - [overtrue/laravel-filesystem-qiniu](https://github.com/overtrue/laravel-filesystem-qiniu) - Laravel filesystem Qiniu
 - [jacobcyl/Aliyun-oss-storage](https://github.com/jacobcyl/Aliyun-oss-storage) - 阿里云OSS laravel扩展
 - [overtrue/easy-sms](https://github.com/overtrue/easy-sms) - 满足多种发送需求的短信发送组件
+- [mingyoung/dingtalk](https://github.com/mingyoung/dingtalk) - 钉钉 SDK 
 
 ## 扩展( Extensions )
 >帮助构建PHP扩展的库
