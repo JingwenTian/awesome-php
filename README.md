@@ -872,6 +872,7 @@
 - [jacobcyl/Aliyun-oss-storage](https://github.com/jacobcyl/Aliyun-oss-storage) - 阿里云OSS laravel扩展
 - [overtrue/easy-sms](https://github.com/overtrue/easy-sms) - 满足多种发送需求的短信发送组件
 - [mingyoung/dingtalk](https://github.com/mingyoung/dingtalk) - 钉钉 SDK 
+- [wowiwj/ding-notice](https://github.com/wowiwj/ding-notice) - 钉钉推送机器人消息发送laravel扩展包
 
 ## 扩展( Extensions )
 >帮助构建PHP扩展的库
