@@ -251,6 +251,7 @@
 - [PHPThumb](https://github.com/masterexploder/PHPThumb) - 缩略图处理库
 - [t0k4rt/phpqrcode](https://github.com/t0k4rt/phpqrcode) - 二维码生成库
 - [endroid/qr-code](https://github.com/endroid/qr-code) - 另一个二维码生成库
+- [Bacon/BaconQrCode](https://github.com/Bacon/BaconQrCode) - QR Code Generator for PHP
 - [SimpleSoftwareIO/simple-qrcode](https://github.com/SimpleSoftwareIO/simple-qrcode) - 二维码生成工具
 - [lsolesen/pel](https://github.com/lsolesen/pel) - PHP Exif 库
 - [php-exif](https://github.com/PHPExif/php-exif) - PHP Exif信息读取库
