@@ -26,10 +26,9 @@
 
 - **推荐文章(Recommended Article)**
 
-    - [The 2018 Guide to Building Secure PHP Software](https://paragonie.com/blog/2017/12/2018-guide-building-secure-php-software)
-        - 中文翻译: [2018 PHP 应用程序安全设计指北](https://laravel-china.org/articles/7235/2018-php-application-security-design)
-        
+    - [The 2018 Guide to Building Secure PHP Software](https://paragonie.com/blog/2017/12/2018-guide-building-secure-php-software) - 中文翻译: [2018 PHP 应用程序安全设计指北](https://laravel-china.org/articles/7235/2018-php-application-security-design)
     - [advanced-php](https://github.com/elarity/advanced-php) - PHP多进程、socket等相关文章
+    - [LEARN REGEX THE EASY WAY](https://github.com/ziishaned/learn-regex/blob/master/translations/README-cn.md) - 正则表达式学习
 
 - **其他网站(Other Websites)**
 
