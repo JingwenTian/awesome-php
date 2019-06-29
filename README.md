@@ -166,6 +166,7 @@
 - [php-mod/curl](https://github.com/php-mod/curl) - PHP Curl Class
 - [medz/cors](https://github.com/medz/cors) - PHP CORS (Cross-origin resource sharing) middleware.
 - [barryvdh/laravel-cors](https://github.com/barryvdh/laravel-cors) - 跨域资源共享的支持
+- [lezhnev74/openapi-psr7-validator](https://github.com/lezhnev74/openapi-psr7-validator) - It validates PSR-7 messages (HTTP request/response) against OpenAPI specifications
 
 ## SOAP
 
