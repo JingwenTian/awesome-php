@@ -63,8 +63,11 @@
 
 - [Composer](https://getcomposer.org/) / [Packagist](https://packagist.org/) - 一个包和依赖管理器.
 - [composer/installers](https://github.com/composer/installers) - 一个多框架Composer库安装器
+- [hirak/prestissimo](https://github.com/hirak/prestissimo) - 并行安装 Composer 依赖
+- [composer/satis](https://github.com/composer/satis) - 搭建私有的 Composer 包仓库
 - [FriendsOfPHP/pickle](https://github.com/FriendsOfPHP/pickle) - PHP扩展安装器
 - [Melody](http://melody.sensiolabs.org/) - A tool to build one file Composer scripts.
+- [tommy-muehle/tooly-composer-script](https://github.com/tommy-muehle/tooly-composer-script) - 使用Composer管理PHAR文件的库
 
 ## 框架( Frameworks )
 >Web开发框架
@@ -543,7 +546,7 @@
     - [baum/baum](https://github.com/etrepat/baum) - 嵌套集合 (Nested Set) 模型的支持
     - [VentureCraft/revisionable](https://github.com/VentureCraft/revisionable) - 数据模型的操作记录（如管理员操作日记）
     - [nicolaslopezj/searchable](https://github.com/nicolaslopezj/searchable) - 以 Trait 的形式为 Eloquent 模型增加搜索功能
-    - [Tucker-Eric/EloquentFilter](https://github.com/tucker-eric/eloquentfilter) - 自定义查询条件
+    - [Tucker-Eric/EloquentFilter](https://github.com/tucker-eric/eloquentfilter) - 自定义查询条件(模型字段过滤)
     - [rtconner/laravel-tagging](https://github.com/rtconner/laravel-tagging) - 为 Eloquent 模型增加打标签功能
 - [LazyRecord](https://github.com/c9s/LazyRecord) - 一个快速的ORM
 - [Baum](https://github.com/etrepat/baum) - 一个Eloquent的嵌套集合
@@ -591,6 +594,7 @@
     - [enqueue/enqueue](https://github.com/php-enqueue/enqueue)
     - [enqueue/pheanstalk](https://github.com/php-enqueue/pheanstalk)
     - [enqueue/redis](https://github.com/php-enqueue/redis)
+    - [php-enqueue/dsn](https://github.com/php-enqueue/dsn)
 
 **队列服务框架**
 
@@ -687,6 +691,7 @@
 
 - [spatie/laravel-permission](https://github.com/spatie/laravel-permission) - 基于 Laravel 的权限组件
 - [Zizaco/entrust](https://github.com/Zizaco/entrust) - 基于用户组的用户权限系统
+- [php-casbin/php-casbin](https://github.com/php-casbin/php-casbin) - 轻量级开源访问控制框架Casbin 的 PHP 实现
 
 ## 标记( Markup )
 >处理标记的库
@@ -929,6 +934,10 @@
 - [magento2](https://github.com/magento/magento2) - 开源的PHP电子商务系统
 - [laravel-admin](https://github.com/z-song/laravel-admin) - 基于laravel的后台管理开发框架
 - [Crinsane/LaravelShoppingcart](https://github.com/Crinsane/LaravelShoppingcart) - 一个简单的购物车模块实现
+- [CachetHQ/Cachet](https://github.com/CachetHQ/Cachet) - Cachet是一个开源的状态页系统(提供了允许你获取、添加以及删除事件、组件和指标的API)
+- [flarum/flarum](https://github.com/flarum/flarum) - 优雅简洁的轻论坛
+- [roots/bedrock](https://github.com/roots/bedrock) - WordPress部署工具
+- [monicahq/monica](https://github.com/monicahq/monica) - 个人关系管理CRM
 
 ## 基础设施(Infrastructure)
 >提供PHP应用程序和服务的基础设施
