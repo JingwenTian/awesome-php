@@ -26,10 +26,9 @@
 
 - **推荐文章(Recommended Article)**
 
-    - [The 2018 Guide to Building Secure PHP Software](https://paragonie.com/blog/2017/12/2018-guide-building-secure-php-software)
-        - 中文翻译: [2018 PHP 应用程序安全设计指北](https://laravel-china.org/articles/7235/2018-php-application-security-design)
-        
+    - [The 2018 Guide to Building Secure PHP Software](https://paragonie.com/blog/2017/12/2018-guide-building-secure-php-software) - 中文翻译: [2018 PHP 应用程序安全设计指北](https://laravel-china.org/articles/7235/2018-php-application-security-design)
     - [advanced-php](https://github.com/elarity/advanced-php) - PHP多进程、socket等相关文章
+    - [LEARN REGEX THE EASY WAY](https://github.com/ziishaned/learn-regex/blob/master/translations/README-cn.md) - 正则表达式学习
 
 - **其他网站(Other Websites)**
 
@@ -170,6 +169,7 @@
 - [php-mod/curl](https://github.com/php-mod/curl) - PHP Curl Class
 - [medz/cors](https://github.com/medz/cors) - PHP CORS (Cross-origin resource sharing) middleware.
 - [barryvdh/laravel-cors](https://github.com/barryvdh/laravel-cors) - 跨域资源共享的支持
+- [lezhnev74/openapi-psr7-validator](https://github.com/lezhnev74/openapi-psr7-validator) - It validates PSR-7 messages (HTTP request/response) against OpenAPI specifications
 
 ## SOAP
 
@@ -200,6 +200,7 @@
 - [tijsverkoyen/CssToInlineStyles](https://github.com/tijsverkoyen/CssToInlineStyles) - 邮件模板中一个内联的CSS库
 - [nojacko/email-validator](https://github.com/nojacko/email-validator) - 一个小巧的邮箱验证库
 - [egulias/EmailValidator](https://github.com/egulias/EmailValidator) - PHP Email validator library
+- [Snowfire/Beautymail](https://github.com/Snowfire/Beautymail) - Laravel HTML邮件模板
 
 ## 文件操作( Files )
 
@@ -253,9 +254,11 @@
 - [PHPThumb](https://github.com/masterexploder/PHPThumb) - 缩略图处理库
 - [t0k4rt/phpqrcode](https://github.com/t0k4rt/phpqrcode) - 二维码生成库
 - [endroid/qr-code](https://github.com/endroid/qr-code) - 另一个二维码生成库
+- [Bacon/BaconQrCode](https://github.com/Bacon/BaconQrCode) - QR Code Generator for PHP
 - [SimpleSoftwareIO/simple-qrcode](https://github.com/SimpleSoftwareIO/simple-qrcode) - 二维码生成工具
 - [lsolesen/pel](https://github.com/lsolesen/pel) - PHP Exif 库
 - [php-exif](https://github.com/PHPExif/php-exif) - PHP Exif信息读取库
+- [Gregwar/Image](https://github.com/Gregwar/Image) - 图像处理库
 - [Gregwar/Captcha](https://github.com/Gregwar/Captcha) - 图形验证码
 - [google/recaptcha](https://github.com/google/recaptcha) - google reCAPTCHA 验证码Client 库
 - [mewebstudio/captcha](https://github.com/mewebstudio/captcha) - 图片验证码方案
@@ -327,6 +330,8 @@
 - [php-ratelimiter](https://github.com/akirk/php-ratelimiter) 
 - [xxtea-php](https://github.com/xxtea/xxtea-php) - XXTEA encryption algorithm library for PHP.
 - [mewebstudio/Purifier](https://github.com/mewebstudio/Purifier) - 用户提交的 Html 白名单过滤
+- [defuse/php-encryption](https://github.com/defuse/php-encryption) - 对称密钥加密库
+- [paragonie/halite](https://github.com/paragonie/halite) - 提供高级的加密接口的libsodium封装包
 
 ## 密码( Passwords )
 >处理和存储密码的库和工具、各种编码的库
@@ -684,6 +689,7 @@
 - [Sapient](https://github.com/paragonie/sapient) - the Secure API ENgineering Toolkit API消息传递安全校验
 - [legalthings/sso](https://github.com/legalthings/sso) - Simple Single Sign-On for PHP
 - [antonioribeiro/google2fa](https://github.com/antonioribeiro/google2fa) - 用户认证方案(支持谷歌提倡的双向认证和 HOTP 认证算法)
+- [PHPGangsta/GoogleAuthenticator](https://github.com/PHPGangsta/GoogleAuthenticator) - 谷歌双向认证
 
 ## 权限控制( Permission )
 
@@ -795,6 +801,9 @@
 - [CacheTool](https://github.com/gordalina/cachetool) - 一个清除APC/opcode缓存的命令行工具
 - [PhpFastCache](https://github.com/khoaofgod/phpfastcache) - PHP 缓存库 
 - [desarrolla2/Cache](https://github.com/desarrolla2/Cache) - 一个提供多种Adapter的缓存库
+- [laruence/yac](https://github.com/laruence/yac) - Yac 是为PHP实现的一个基于共享内存, 无锁的内容Cache
+- [liexusong/pcache](https://github.com/liexusong/pcache) - Extension for PHP local cache
+- [Shies/PHP7-buffer](https://github.com/Shies/PHP7-buffer) - PHP的高性能local cache扩展
 
 ## 数据结构和存储( Data Structure and Storage )
 >实现数据结构和存储技术的库
@@ -856,16 +865,23 @@
 - [wechat](https://github.com/overtrue/wechat) - 让微信开发更简单
 - [Qiniu/sdk](https://github.com/qiniu/php-sdk) - Qiniu Resource Storage SDK for PHP
 - [Qiniu/qshell](https://github.com/qiniu/qshell) - qshell是利用七牛文档上公开的API实现的一个方便开发者测试和使用七牛API服务的命令行工具。
-- [Wafer](https://github.com/tencentyun/wafer) - 快速构建具备弹性能力的微信小程序
-- [GeoIP2-php](https://github.com/maxmind/GeoIP2-php) - MaxMind GeoIP2 地理位置服务
-- [pingpp-php](https://github.com/PingPlusPlus/pingpp-php) - ping++聚合支付SDK
-- [Instagram-API](https://github.com/mgp25/Instagram-API) - Instagram的私有 API
+- [tencentyun/wafer](https://github.com/tencentyun/wafer) - 快速构建具备弹性能力的微信小程序
+- [maxmind/GeoIP2-php](https://github.com/maxmind/GeoIP2-php) - MaxMind GeoIP2 地理位置服务
+- [PingPlusPlus/pingpp-php](https://github.com/PingPlusPlus/pingpp-php) - ping++聚合支付SDK
+- [mgp25/Instagram-API](https://github.com/mgp25/Instagram-API) - Instagram的私有 API
 - [aws/aws-sdk-php](https://github.com/aws/aws-sdk-php) - AWS 服务的开发者工具包
 - [bugsnag/bugsnag-laravel](https://github.com/bugsnag/bugsnag-laravel) - Bugsnag 服务集成包
 - [maknz/slack](https://github.com/maknz/slack) - Slack 服务的集成
 - [lyrixx/twitter-sdk](https://github.com/lyrixx/twitter-sdk) - 一个经过完全测试的Twitter SDK
 - [thujohn/twitter](https://github.com/thujohn/twitter) - Twitter API 的支持
 - [overtrue/weather](https://github.com/overtrue/weather) - 基于高德开放平台接口的 PHP 天气信息组件
+- [aliyun/aliyun-oss-php-sdk](https://github.com/aliyun/aliyun-oss-php-sdk) - 阿里云对象存储
+- [aliyun/openapi-sdk-php](https://github.com/aliyun/openapi-sdk-php) - Alibaba Cloud SDK for PHP
+- [overtrue/laravel-filesystem-qiniu](https://github.com/overtrue/laravel-filesystem-qiniu) - Laravel filesystem Qiniu
+- [jacobcyl/Aliyun-oss-storage](https://github.com/jacobcyl/Aliyun-oss-storage) - 阿里云OSS laravel扩展
+- [overtrue/easy-sms](https://github.com/overtrue/easy-sms) - 满足多种发送需求的短信发送组件
+- [mingyoung/dingtalk](https://github.com/mingyoung/dingtalk) - 钉钉 SDK 
+- [wowiwj/ding-notice](https://github.com/wowiwj/ding-notice) - 钉钉推送机器人消息发送laravel扩展包
 
 ## 扩展( Extensions )
 >帮助构建PHP扩展的库
