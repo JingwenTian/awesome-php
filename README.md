@@ -69,30 +69,36 @@
 - [tommy-muehle/tooly-composer-script](https://github.com/tommy-muehle/tooly-composer-script) - 使用Composer管理PHAR文件的库
 
 ## 框架( Frameworks )
->Web开发框架
 
-- [Symfony2](http://symfony.com/) - 由独立组件构成的框架(SP2)
-- [Zend Framework 2](http://framework.zend.com/) - 同样是由独立组件构成的框架(ZF2)
-- [Laravel 5](http://laravel.com/) - 简洁优雅的PHP Web开发框架(L5)
-- [Aura PHP](http://auraphp.com/) - 独立组件的框架
-- [Yii2](https://github.com/yiisoft/yii2/) - 用于开发大型Web应用的高性能PHP框架
-- [Nette](http://nette.org/) - 同样是由独立组件构成的框架
-- [PPI Framework 2](http://www.ppi.io/) - 一个交互性的框架
-- [CakePHP](http://cakephp.org/) - 一个高效的应用开发框架(CP)
-- [Phalcon](http://phalconphp.com/en/) - 一个作为C扩展的框架
+> Web开发框架
+
+- [laravel/laravel](https://github.com/laravel/laravel) - 简洁优雅的PHP Web开发框架
+- [symfony/symfony](https://github.com/symfony/symfony) - 由独立组件构成的框架(SP2)
+- [yiisoft/yii2](https://github.com/yiisoft/yii2/) - 用于开发大型Web应用的高性能PHP框架
+- [cakephp/cakephp](https://github.com/cakephp/cakephp/) - 一个高效的应用开发框架(CP)
+- [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - 高性能的C扩展的框架
 - [Yaf](http://php.net/manual/zh/book.yaf.php) - 鸟哥的C扩展的框架
-    - [swoole-yaf](https://github.com/LinkedDestiny/swoole-yaf) - 基于 Swoole 及 Yaf 的开发框架
-    - [yaf](https://github.com/qieangel2013/yaf) - 另一个基于 Swoole 及 Yaf 的开发框架
-- [SwooleDistributed](https://github.com/tmtbe/SwooleDistributed) - swoole 分布式全栈框架
-- [Zan PHP Framework](https://github.com/youzan/zan) - 有赞开源的 PHP 框架
-- [php-msf](https://github.com/pinguo/php-msf) - Camera360开源的微服务框架
-- [Biny](https://github.com/Tencent/Biny) - Biny是一款高性能的超轻量级PHP框架
-- [Swoft Framework](https://github.com/swoft-cloud/swoft/) - 基于Swoole原生协程，新时代PHP高性能协程框架
-- [mixstart/mixphp](https://github.com/mixstart/mixphp) - 基于 Swoole 的FPM、常驻内存、协程三模 PHP 高性能框架
+    - [overtrue/yaf-skeleton](https://github.com/overtrue/yaf-skeleton) - The Yaf testable skeleton and composer supported.
+- [swoole](https://github.com/swoole) - 面向生产环境的 PHP 异步网络通信引擎
+    - [SwooleDistributed/SwooleDistributed](https://github.com/SwooleDistributed/SwooleDistributed) - swoole 分布式全栈框架
+    - [swoft-cloud/swoft](https://github.com/swoft-cloud/swoft) - 基于Swoole原生协程，新时代PHP高性能协程框架 https://www.swoft.org
+    - [hyperf-cloud/hyperf](https://github.com/hyperf-cloud/hyperf) - 企业级的 PHP 协程微服务框架
+    - [mixstart/mixphp](https://github.com/mixstart/mixphp) - 基于 Swoole 的FPM、常驻内存、协程三模 PHP 高性能框架 (开发文档完善) http://mixphp.cn
+    - [hhxsv5/laravel-s](https://github.com/hhxsv5/laravel-s) - 集成 Swoole 到 Laravel 或 Lumen
+    - [swooletw/laravel-swoole](https://github.com/swooletw/laravel-swoole) - High performance HTTP server based on Swoole. Speed up your Laravel or Lumen applications.
+    - [scil/LaravelFly](https://github.com/scil/LaravelFly) - To be an absolutely safe solution to run Laravel with Swoole. Laravel + Swoole Coroutine + Safety + Tinker Online.
+    - [garveen/laravoole](https://github.com/garveen/laravoole) - Laravel && ( Swoole || Workerman ) to get 10x faster than php-fpm
+    - [easy-swoole/easyswoole](https://github.com/easy-swoole/easyswoole) - use swoole easily just like echo "hello world";
+    - [bingcool/swoolefy](https://github.com/bingcool/swoolefy) - swoolefy是一个基于swoole实现的轻量级、高性能、协程级、开放性的API和MVC应用服务框架
+    - [youzan/zan](https://github.com/youzan/zan) - 有赞开源的 PHP 框架 (已停止维护)
+    - [php-msf](https://github.com/pinguo/php-msf) - Camera360开源的微服务框架
+- [Biny](https://github.com/Tencent/Biny) - 腾讯开源高性能的超轻量级PHP框架
+- [zendframework/zendframework](https://github.com/zendframework/zendframework) - Zend 框架
+
 
 ## 组件( Components )
 
-- [Aura Components](http://auraphp.com/) - 一个PHP5.4的组件包
+- [auraphp](https://github.com/auraphp) - 一些独立组件包
 - [Hoa Project](http://hoa-project.net/En/) - 一个PHP组件集合
 - [andersao/l5-repository](https://github.com/andersao/l5-repository) - Repository 开发模式的支持
 
@@ -108,6 +114,7 @@
 ## 微框架( Micro Frameworks )
 >微型框架和路由
 
+- [Lumen](http://lumen.laravel.com/) - 基于Laravel的微型框架
 - [Silex](http://silex.sensiolabs.org/) - 基于Symphony2组件的微型框架
     - [Silex Skeleton](https://github.com/fabpot/Silex-Skeleton) - 用于Silex的项目框架
     - [Silex Web Profiler](https://github.com/silexphp/Silex-WebProfiler) - 用于Silex的Web调试工具条
@@ -119,7 +126,6 @@
     - [slim-skeleton](https://github.com/JingwenTian/slim-skeleton) - Slim基础上实现了MVC及一些组件
     - [slim-boilerplate](https://github.com/damianopetrungaro/slim-boilerplate)
 - [Bullet PHP](http://bulletphp.com/) - 用于构建REST APIs的微型框架
-- [Lumen](http://lumen.laravel.com/) - 基于Laravel的微型框架
 - [Proton](https://github.com/alexbilbie/Proton) - 一个微型PHP框架
 - [blink](https://github.com/bixuehujin/blink) - 一个为构建 “long running” 服务而生的 Web 微型高性能框架
 - [flight](https://github.com/mikecao/flight) - 一个可扩展的PHP微框架
@@ -940,7 +946,7 @@
 - [MailCatcher](https://github.com/sj26/mailcatcher) - 一个接受和查看邮件的程序
 - [Cachet](https://github.com/cachethq/cachet) - 一个开源的网站状态展示系统(如: status.github.com )
 - [phpRedisAdmin](https://github.com/ErikDubbelboer/phpRedisAdmin) - Redis 管理工具
-- [phpPgAdmin ](https://github.com/phppgadmin/phppgadmin) - PostgreSQL管理工具
+- [phpPgAdmin](https://github.com/phppgadmin/phppgadmin) - PostgreSQL管理工具
 - [phpMyAdmin](https://github.com/phpmyadmin/phpmyadmin) - MySQL管理工具
 - [rockmongo](https://github.com/iwind/rockmongo) - MongoDB管理工具
 - [Grav](https://github.com/getgrav/grav) - Powerful Flat-File CMS
@@ -960,8 +966,6 @@
 
 - [appserver.io](http://appserver.io/) - 基于PHP的多线程应用程序服务器
 - [php-pm](https://github.com/php-pm/php-pm) - 进程管理器,增压器和PHP应用程序的负载平衡器
-- [laravel-swoole](https://github.com/swooletw/laravel-swoole) - 基于 swoole 的高性能HTTP Server
-- [laravel-s](https://github.com/hhxsv5/laravel-s) - 另一个基于 swoole 的高性能HTTP Server
 
 ## 数据库中间件( DB Proxy )
 > 用于读写分离、分库分表等
@@ -973,19 +977,19 @@
 - [DBProxy](https://github.com/Meituan-Dianping/DBProxy) - 美团点评基于Atlas的数据库中间件
 - [Mycat](http://www.mycat.org.cn/index.html)
 - [TiDB](https://github.com/pingcap/tidb) - 分布式数据库
-- [mysql-proxy](https://github.com/swoole/mysql-proxy) - Swoole开源的数据库中间件
 
 ## RPC框架
 > 远程过程调用框架
 
-- [thrift](https://github.com/apache/thrift) - Apache Thrift
-- [grpc](https://github.com/grpc/grpc) - Google的开源框架
+- [apache/thrift](https://github.com/apache/thrift) - Apache Thrift
+- [grpc/grpc](https://github.com/grpc/grpc) - Google的开源框架
 - [protobuf](https://github.com/allegro/php-protobuf)
-- [Dubbo](https://github.com/alibaba/dubbo) - 阿里巴巴开源的RPC框架
-- [Motan](https://github.com/weibocom/motan) - 微博轻量级RPC框架
-- [Dubbox](https://github.com/dangdangdotcom/dubbox) - 当当网维护的dubbox
-- [sofa-pbrpc](https://github.com/baidu/sofa-pbrpc) - 百度开源的sofa-pbrpc
-- [yar](https://github.com/laruence/yar)
+- [alibaba/dubbo](https://github.com/alibaba/dubbo) - 阿里巴巴开源的RPC框架
+- [TarsCloud/Tars](https://github.com/TarsCloud/Tars) - 腾讯基于名字服务使用Tars协议的高性能RPC开发框架
+- [weibocom/motan](https://github.com/weibocom/motan) - 微博轻量级RPC框架
+- [dangdangdotcom/dubbox](https://github.com/dangdangdotcom/dubbox) - 当当网维护的dubbox
+- [baidu/sofa-pbrpc](https://github.com/baidu/sofa-pbrpc) - 百度开源的sofa-pbrpc
+- [laruence/yar](https://github.com/laruence/yar) - Light, concurrent RPC framework for PHP & C
 - Hprose - 高性能跨语言RPC
     - [hprose-php](https://github.com/hprose/hprose-php)
     - [hprose-swoole](https://github.com/hprose/hprose-swoole)
