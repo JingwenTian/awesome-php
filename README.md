@@ -523,6 +523,7 @@
 - [Sebastian Money](https://github.com/sebastianbergmann/money) - 一个处理货币价值的库
 - [Swap](https://github.com/florianv/swap) - 一个汇率库
 - [yansongda/pay](https://github.com/yansongda/pay) - 优雅的 Alipay 和 WeChat 的支付 SDK 扩展包
+- [7cart](https://github.com/7cart/7cart) - the base project for building online stores, catalogs or service platforms.
 
 ## PDF
 >处理PDF文件的库和软件
