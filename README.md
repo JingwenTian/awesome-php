@@ -523,6 +523,8 @@
 - [Sebastian Money](https://github.com/sebastianbergmann/money) - 一个处理货币价值的库
 - [Swap](https://github.com/florianv/swap) - 一个汇率库
 - [yansongda/pay](https://github.com/yansongda/pay) - 优雅的 Alipay 和 WeChat 的支付 SDK 扩展包
+- [paypal/PayPal-PHP-SDK](https://github.com/paypal/PayPal-PHP-SDK) - PHP SDK for PayPal RESTful APIs https://developer.paypal.com/docs/api/
+- [paypal/Checkout-PHP-SDK](https://github.com/paypal/Checkout-PHP-SDK) - PHP SDK for Checkout RESTful APIs
 
 ## PDF
 >处理PDF文件的库和软件
