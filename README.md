@@ -584,7 +584,8 @@
 - [spatie/laravel-backup](https://github.com/spatie/laravel-backup) - 数据备份工具(支持压缩, 支持各种文件系统)
 
 ## 非关系型数据库( NoSQL )
->处理NoSQL后端的库
+
+>处理NoSQL后端的库; 暂时将所有非 MySQL 存储的库都归到这个分组
 
 - MongoDB
     - [mongo-php-library](https://github.com/mongodb/mongo-php-library) - MongoDB 官方PHP库
@@ -598,8 +599,12 @@
     - [codis](https://github.com/CodisLabs/codis) - Codis 是一个分布式 Redis 解决方案
     - [twemproxy](https://github.com/twitter/twemproxy) - 是twtter开源的一个redis和memcache代理服务器
     - [pika](https://github.com/Qihoo360/pika) - Pika是一个可持久化的大容量redis存储服务
+- ClickHouse
+    - [smi2/phpClickHouse](https://github.com/smi2/phpClickHouse) - php ClickHouse(列式数据库) wrapper
+
 
 ## 队列( Queue )
+
 >处理事件和任务队列的库
 
 - [enqueue-dev](https://github.com/php-enqueue/enqueue-dev) - Message queue packages for PHP, Symfony, Laravel, Magento
