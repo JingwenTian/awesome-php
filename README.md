@@ -859,6 +859,7 @@
 - [Piplin](https://github.com/Piplin/) - Piplin是一款免费、开源的持续集成与部署系统，适用于软件的自动化构建、测试和部署相关的各种应用场景。
 
 ## 国际化和本地化(Internationalisation and Localisation)
+
 >用于国际化(I18n)和本地化(L10n)的库
 
 - [auraphp/Aura.Intl](https://github.com/auraphp/Aura.Intl)
@@ -870,6 +871,8 @@
 - [mcamara/laravel-localization](https://github.com/mcamara/laravel-localization) - Laravel 本地化功能增强
 - [dimsav/laravel-translatable](https://github.com/dimsav/laravel-translatable) - 数据库的多语言翻译方案
 - [webpatser/laravel-countries](https://github.com/webpatser/laravel-countries) - 世界所有国家数据(包括首都汇率等)
+- [overtrue/laravel-lang](https://github.com/overtrue/laravel-lang) - Laravel 5 语言包，包含 68 种语言, 基于 caouecs/Laravel-lang
+- [caouecs/Laravel-lang](https://github.com/caouecs/Laravel-lang) - List of 75 languages for Laravel 5, 6 and 7
 
 ## 第三方API( Third Party APIs )
 >访问第三方API/SDK的库
