@@ -275,6 +275,8 @@
 - [Gregwar/Captcha](https://github.com/Gregwar/Captcha) - 图形验证码
 - [google/recaptcha](https://github.com/google/recaptcha) - google reCAPTCHA 验证码Client 库
 - [mewebstudio/captcha](https://github.com/mewebstudio/captcha) - 图片验证码方案
+- [PhenX/php-svg-lib](https://github.com/PhenX/php-svg-lib) - SVG file parsing / rendering library
+- [darylldoyle/svg-sanitizer](https://github.com/darylldoyle/svg-sanitizer) - A PHP SVG/XML Sanitizer
 
 
 ## 测试( Testing )
