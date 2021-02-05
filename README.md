@@ -11,7 +11,6 @@
 刚成立了一个学习讨论群, 欢迎感兴趣的同学加入。一起讨论问题、分享技术和生活...
 
 ![](https://tva1.sinaimg.cn/orj360/007S8ZIlly1ggwh1238rij30by0bymxg.jpg)
-![](https://tva1.sinaimg.cn/orj360/007S8ZIlly1girgrrpmmvj30u01nbdhy.jpg)
 
 ---
 
@@ -74,6 +73,7 @@
 - [FriendsOfPHP/pickle](https://github.com/FriendsOfPHP/pickle) - PHP扩展安装器
 - [Melody](http://melody.sensiolabs.org/) - A tool to build one file Composer scripts.
 - [tommy-muehle/tooly-composer-script](https://github.com/tommy-muehle/tooly-composer-script) - 使用Composer管理PHAR文件的库
+- [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) - Easily install PHP extension in Docker containers
 
 ## 框架( Frameworks )
 
