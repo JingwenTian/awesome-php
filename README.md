@@ -328,9 +328,13 @@
 - [swagger-php](https://github.com/zircote/swagger-php) - A php swagger annotation and parsing library 
 
 ## 安全( Security )
+
 >用于生成安全的随机数、加密数据、扫描漏洞, 令牌的库
 
 - [ezyang/htmlpurifier](https://github.com/ezyang/htmlpurifier) - 一个标准的HTML过滤器
+- [mewebstudio/Purifier](https://github.com/mewebstudio/Purifier) - 用户提交的 Html 白名单过滤
+- [xemlock/htmlpurifier-html5](https://github.com/xemlock/htmlpurifier-html5) - 另一个用户提交的 Html 白名单过滤 (HTML5 support)
+- [voku/anti-xss](https://github.com/voku/anti-xss) - Protection against Cross-site scripting (XSS)
 - [random_compat](https://github.com/paragonie/random_compat) - PHP5.x生成安全的随机数的库(PHP7可用内置`random_bytes()`和`random_int()`函数)
 - [RandomLib](https://github.com/ircmaxell/RandomLib) - 生成随机数和随机字符串的库
 - [True Random](https://github.com/pixeloution/true-random) - 使用www.random.org生成随机数的库
@@ -344,9 +348,6 @@
 - [Zed](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project) - 用于Web应用的集成渗透测试工具
 - [php-ratelimiter](https://github.com/akirk/php-ratelimiter) 
 - [xxtea-php](https://github.com/xxtea/xxtea-php) - XXTEA encryption algorithm library for PHP.
-- [mewebstudio/Purifier](https://github.com/mewebstudio/Purifier) - 用户提交的 Html 白名单过滤
-- [ezyang/htmlpurifier](https://github.com/xemlock/htmlpurifier-html5) - 另一个用户提交的 Html 白名单过滤
-- [xemlock/htmlpurifier-html5](https://github.com/xemlock/htmlpurifier-html5) - 另一个用户提交的 Html 白名单过滤 (HTML5 support)
 - [defuse/php-encryption](https://github.com/defuse/php-encryption) - 对称密钥加密库
 - [paragonie/halite](https://github.com/paragonie/halite) - 提供高级的加密接口的libsodium封装包
 
