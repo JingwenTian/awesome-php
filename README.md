@@ -1,4 +1,5 @@
-# awesome-php
+# awesome-php 
+
 收集整理一些常用的PHP类库, 资源以及技巧. 以便在工作中迅速的查找所需...
 
 ---
@@ -329,7 +330,7 @@
 
 ## 安全( Security )
 
->用于生成安全的随机数、加密数据、扫描漏洞, 令牌的库
+> 用于生成安全的随机数、加密数据、扫描漏洞, 令牌的库
 
 - [ezyang/htmlpurifier](https://github.com/ezyang/htmlpurifier) - 一个标准的HTML过滤器
 - [mewebstudio/Purifier](https://github.com/mewebstudio/Purifier) - 用户提交的 Html 白名单过滤
@@ -352,6 +353,15 @@
 - [xxtea-php](https://github.com/xxtea/xxtea-php) - XXTEA encryption algorithm library for PHP.
 - [defuse/php-encryption](https://github.com/defuse/php-encryption) - 对称密钥加密库
 - [paragonie/halite](https://github.com/paragonie/halite) - 提供高级的加密接口的libsodium封装包
+
+<details>
+<summary>在这几个网站可以查看 XSS 字符串用于安全测试</summary>
+
+- [www.bioinformatics.org](http://www.bioinformatics.org/phplabware/internal_utilities/htmLawed/htmLawed_TESTCASE.txt)
+- [htmlpurifier.org](http://htmlpurifier.org/live/smoketests/xssAttacks.php)
+- [hackingforsecurity.blogspot.de](https://hackingforsecurity.blogspot.com/2013/11/xss-cheat-sheet-huge-list.html)
+  
+</details>
 
 ## 密码( Passwords )
 >处理和存储密码的库和工具、各种编码的库
