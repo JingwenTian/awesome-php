@@ -335,6 +335,7 @@
 - [mewebstudio/Purifier](https://github.com/mewebstudio/Purifier) - 用户提交的 Html 白名单过滤
 - [xemlock/htmlpurifier-html5](https://github.com/xemlock/htmlpurifier-html5) - 另一个用户提交的 Html 白名单过滤 (HTML5 support)
 - [voku/anti-xss](https://github.com/voku/anti-xss) - Protection against Cross-site scripting (XSS)
+- [GrahamCampbell/Laravel-Security](https://github.com/GrahamCampbell/Laravel-Security) - A wrapper of voku/anti-xss for Laravel
 - [tgalopin/html-sanitizer](https://github.com/tgalopin/html-sanitizer) - Sanitize untrustworthy HTML user input
 - [random_compat](https://github.com/paragonie/random_compat) - PHP5.x生成安全的随机数的库(PHP7可用内置`random_bytes()`和`random_int()`函数)
 - [RandomLib](https://github.com/ircmaxell/RandomLib) - 生成随机数和随机字符串的库
