@@ -650,14 +650,15 @@
 
 **队列相关类库**
 
-- [Pheanstalk](https://github.com/pda/pheanstalk) - 一个Beanstalkd客户端库
-- [PHP AMQP](https://github.com/videlalvaro/php-amqplib) - 一个纯PHP AMQP库
-- [Thumper](https://github.com/videlalvaro/Thumper) - 一个RabbitMQ模式库
-- [Bernard](https://github.com/bernardphp/bernard) - 一个多后端的抽象库
-- [php-resque](https://github.com/chrisboulton/php-resque) - 基于redis的消息队列
-- [php-amqplib](https://github.com/php-amqplib/php-amqplib) - 一个RabbitMQ客户端库
-- [kafka-php](https://github.com/weiboad/kafka-php) - 一个kafka客户端库(Composer)
 - [php-rdkafka](https://github.com/arnaud-lb/php-rdkafka) - 一个kafka客户端库(PECL)
+- [longyan/phpkafka](https://github.com/longyan/phpkafka) - PHP Kafka client used in PHP-FPM and Swoole.
+- [weiboad/kafka-php](https://github.com/weiboad/kafka-php) - 一个kafka客户端库(Composer)
+- [pda/pheanstalk](https://github.com/pda/pheanstalk) - 一个Beanstalkd客户端库
+- [videlalvaro/php-amqplib](https://github.com/videlalvaro/php-amqplib) - 一个纯PHP AMQP库
+- [videlalvaro/Thumper](https://github.com/videlalvaro/Thumper) - 一个RabbitMQ模式库
+- [bernardphp/bernard/bernardard](https://github.com/bernardphp/bernard) - 一个多后端的抽象库
+- [chrisboulton/php-resque](https://github.com/chrisboulton/php-resque) - 基于redis的消息队列
+- [php-amqplib/php-amqplib](https://github.com/php-amqplib/php-amqplib) - 一个RabbitMQ客户端库
 
 ## 搜索( Search )
 >在数据中建立索引和执行查询相关的库和软件
