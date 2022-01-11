@@ -307,6 +307,7 @@
 - [SimpleTest](https://github.com/simpletest/simpletest) - Unit Testing for PHP
 - [testbench](https://github.com/orchestral/testbench) - Laravel 扩展包的单元测试工具
 - [laracasts/TestDummy](https://github.com/laracasts/TestDummy) - Laracasts 出品的假数据创建工具
+- [pestphp/pest](https://github.com/pestphp/pest) - 一个优雅的测试框架
 
 ## 持续集成( Continuous Integration )
 >持续集成的库和应用
