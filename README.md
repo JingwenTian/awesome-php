@@ -763,7 +763,8 @@
 - [danielstjules/Stringy](https://github.com/danielstjules/Stringy) - 一个多字节支持的字符串操纵库
 - [mikeemoo/ColorJizz-PHP](https://github.com/mikeemoo/ColorJizz-PHP) - 一个处理和转换颜色的库
 - [ramsey/uuid](https://github.com/ramsey/uuid) - 生成UUIDs的库
-- [laravel-uuid](https://github.com/webpatser/laravel-uuid) - RFC 4122 标准生成的 UUID 
+- [webpatser/laravel-uuid](https://github.com/webpatser/laravel-uuid) - RFC 4122 标准生成的 UUID 
+- [robinvdvleuten/php-ulid](https://github.com/robinvdvleuten/php-ulid) - 一个独特 ID 的生成库，对 uuid 进行了多方面的改进
 - [cocur/slugify](https://github.com/cocur/slugify) - 一个将字符串转换为slug格式的库
 - [jbroadway/urlify](https://github.com/jbroadway/urlify) - 一个Django URLify.js的PHP端口
 - [kzykhys/Text](https://github.com/kzykhys/Text) - 一个文本处理库
@@ -787,7 +788,7 @@
 - [PHP Conversion](https://github.com/Crisu83/php-conversion) -  另一个测量单位间转换的库
 - [LibPhoneNumber for PHP](https://github.com/giggsey/libphonenumber-for-php) -  PHP实现的Google电话号码处理系统库
 - [ivanakimov/hashids.php](https://github.com/ivanakimov/hashids.php) - 用来把整数生成唯一字符串（比如：通过加密解密id来隐藏真实id)
-- [Particle](https://github.com/sschiau/Particle) - PHP ID Generator | Implementation of Twitter Snowflake ID Generator
+- [sschiau/Particle](https://github.com/sschiau/Particle) - PHP ID Generator | Implementation of Twitter Snowflake ID Generator
 - [nanoid-php](https://github.com/hidehalo/nanoid-php) - 小巧的唯一ID生成工具
 - [vinkla/laravel-hashids](https://github.com/vinkla/laravel-hashids) - Hash ID 生成器，方便把数字的 ID 隐藏（基于Hashids）
 
