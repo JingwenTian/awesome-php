@@ -1052,6 +1052,11 @@
 - [Ruler](https://github.com/bobthecow/Ruler) - 简单的无状态的规则引擎
 - [Rules](https://github.com/tonera/Rules) - PHP简易规则引擎
 
+## 分布式事务 (Distributed Transaction)
+
+- [dtm-labs/dtm](https://github.com/dtm-labs/dtm) - 多语言的分布式事务管理器
+    - [dtm-labs/dtmcli-php](https://github.com/dtm-labs/dtmcli-php) - DTM PHP 客户端
+
 ## 其他( Miscellaneous )
 >不属于以上分类的有用的类库和工具
 
