@@ -692,6 +692,8 @@
 - [Silly](https://github.com/mnapoli/silly) - Silly CLI micro-framework based on Symfony Console
 - [php-shellcommand](https://github.com/mikehaertl/php-shellcommand) - A simple object oriented interface to execute shell commands in PHP
 - [PHP-Console-Highlighter](https://github.com/JakubOnderka/PHP-Console-Highlighter) - 命令行下高亮显示 PHP 代码
+- [Termage](https://github.com/termage/termage) - Fluent and incredible powerful, object-oriented interface for customizing CLI output text color, background, formatting, theming and more.
+
 
 ## 定时任务( Crontab )
 >定时任务管理 crontab在 PHP 中的相关封装
